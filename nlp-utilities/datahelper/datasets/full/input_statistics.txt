@@ -1,0 +1,78 @@
+ssh://thang@gpu1:22/home/thang/Softwares/anaconda3/envs/nlputils/bin/python3.7 -u /home/thang/Projects/nlp-utilities/datahelper/tester.py
+********** glue --- cola **********
+{'min_len': 3, 'max_len': 30, 'avg_len': 8.914258188824663}
+
+********** glue --- mnli **********
+{'min_len': 2, 'max_len': 216, 'avg_len': 29.405107252298265}
+
+********** glue --- mnli-mm **********
+{'min_len': 3, 'max_len': 151, 'avg_len': 30.81670746634027}
+
+********** glue --- mrpc **********
+{'min_len': 19, 'max_len': 67, 'avg_len': 44.03921568627451}
+
+********** glue --- qnli **********
+{'min_len': 10, 'max_len': 159, 'avg_len': 37.639392275306605}
+
+********** glue --- qqp **********
+{'min_len': 5, 'max_len': 101, 'avg_len': 21.08009024252679}
+
+********** glue --- rte **********
+{'min_len': 10, 'max_len': 173, 'avg_len': 50.855595667870034}
+
+********** glue --- sst-2 **********
+{'min_len': 4, 'max_len': 49, 'avg_len': 21.548165137614678}
+
+********** glue --- sts-b **********
+{'min_len': 7, 'max_len': 58, 'avg_len': 22.768}
+
+********** glue --- wnli **********
+{'min_len': 11, 'max_len': 70, 'avg_len': 28.633802816901408}
+
+********** super-glue --- boolq **********
+{'min_len': 22, 'max_len': 825, 'avg_len': 105.11192660550459}
+
+********** super-glue --- cb **********
+{'min_len': 17, 'max_len': 212, 'avg_len': 70.03571428571429}
+
+********** super-glue --- copa **********
+{'min_len': 6, 'max_len': 18, 'avg_len': 11.94}
+
+********** super-glue --- multirc **********
+{'min_len': 100, 'max_len': 0, 'avg_len': 0.0}
+
+********** super-glue --- record **********
+{'min_len': 100, 'max_len': 0, 'avg_len': 0.0}
+
+********** super-glue --- rte **********
+{'min_len': 10, 'max_len': 173, 'avg_len': 50.855595667870034}
+
+********** super-glue --- wic **********
+{'min_len': 4, 'max_len': 44, 'avg_len': 14.637931034482758}
+
+********** super-glue --- wsc **********
+{'min_len': 8, 'max_len': 55, 'avg_len': 31.423076923076923}
+
+********** stanford --- squad_v1 **********
+{'min_len': 26, 'max_len': 651, 'avg_len': 134.18534645967438}
+
+********** stanford --- squad_v2 **********
+{'min_len': 33, 'max_len': 645, 'avg_len': 137.0578734858681}
+
+********** stanford --- snli **********
+{'min_len': 5, 'max_len': 96, 'avg_len': 21.4796}
+
+********** others --- swag **********
+{'min_len': 2, 'max_len': 2, 'avg_len': 2.0}
+
+********** others --- semeval **********
+{'min_len': 1, 'max_len': 53, 'avg_len': 14.123176661264182}
+
+********** others --- atis **********
+{'min_len': 3, 'max_len': 34, 'avg_len': 11.515337423312884}
+
+********** others --- atis_ner **********
+{'min_len': 3, 'max_len': 34, 'avg_len': 11.515337423312884}
+
+
+Process finished with exit code 0

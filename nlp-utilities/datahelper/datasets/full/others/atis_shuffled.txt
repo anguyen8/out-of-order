@@ -1,0 +1,489 @@
+{"guid": "dev-0", "text_a": "kind denver what available of in is transportation ground", "text_b": null, "label": "ground_service"}
+{"guid": "dev-1", "text_a": "flights show san to me diego from the newark", "text_b": null, "label": "flight"}
+{"guid": "dev-2", "text_a": "from fares to pittsburgh flights philadelphia and", "text_b": null, "label": "airfare"}
+{"guid": "dev-3", "text_a": "the class with show flights airlines first me", "text_b": null, "label": "airline"}
+{"guid": "dev-4", "text_a": "to show from 6 flights and pm between francisco san baltimore on friday pm 8", "text_b": null, "label": "flight"}
+{"guid": "dev-5", "text_a": "is what code fare h", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-6", "text_a": "evening charlotte newark flight a need i leaving today from to", "text_b": null, "label": "flight"}
+{"guid": "dev-7", "text_a": "from o'clock go pittsburgh after to flights 6 tuesday what boston next", "text_b": null, "label": "flight"}
+{"guid": "dev-8", "text_a": "for i 12 from to monday information flights would pm to san leaving after like on francisco pittsburgh see", "text_b": null, "label": "flight"}
+{"guid": "dev-9", "text_a": "that the serves is to a from earliest snack what boston bwi flight", "text_b": null, "label": "flight"}
+{"guid": "dev-10", "text_a": "meal to oakland in flight philadelphia saturday", "text_b": null, "label": "flight"}
+{"guid": "dev-11", "text_a": "flights san tuesday show me francisco to on pittsburgh also from", "text_b": null, "label": "flight"}
+{"guid": "dev-12", "text_a": "saturday city from west nonstop may to america or are flights burbank what two on southwest the kansas air twenty on", "text_b": null, "label": "flight"}
+{"guid": "dev-13", "text_a": "the the me are that boston find and between nonstop and afternoon leave dallas between that in flights 2 12", "text_b": null, "label": "flight"}
+{"guid": "dev-14", "text_a": "information flights atlanta like some to leaving boston on would i", "text_b": null, "label": "flight"}
+{"guid": "dev-15", "text_a": "show to flights me washington all francisco dc area san from", "text_b": null, "label": "flight"}
+{"guid": "dev-16", "text_a": "flights serviced are airlines which american by", "text_b": null, "label": "flight"}
+{"guid": "dev-17", "text_a": "me pittsburgh first class francisco show flights san to from friday on", "text_b": null, "label": "flight"}
+{"guid": "dev-18", "text_a": "oakland show from arriving and between flights o'clock to denver 1 12", "text_b": null, "label": "flight"}
+{"guid": "dev-19", "text_a": "give denver flights from me to baltimore", "text_b": null, "label": "flight"}
+{"guid": "dev-20", "text_a": "from fourth june list twenty flights on to thursday phoenix detroit", "text_b": null, "label": "flight"}
+{"guid": "dev-21", "text_a": "flights los pittsburgh give me from the thursday angeles evening to", "text_b": null, "label": "flight"}
+{"guid": "dev-22", "text_a": "the philadelphia me from baltimore to show flights", "text_b": null, "label": "flight"}
+{"guid": "dev-23", "text_a": "francisco fly that and san list types aircraft between boston", "text_b": null, "label": "aircraft"}
+{"guid": "dev-24", "text_a": "interested 'm in from i washington flight airlines american to on a dallas", "text_b": null, "label": "flight"}
+{"guid": "dev-25", "text_a": "from me flights baltimore to give pittsburgh", "text_b": null, "label": "flight"}
+{"guid": "dev-26", "text_a": "which business flights airline class provides", "text_b": null, "label": "airline"}
+{"guid": "dev-27", "text_a": "dallas fares the francisco san show from to me", "text_b": null, "label": "airfare"}
+{"guid": "dev-28", "text_a": "in 'd stops denver a to flight on washington i francisco that san like from and goes", "text_b": null, "label": "flight"}
+{"guid": "dev-29", "text_a": "flights tomorrow baltimore pittsburgh all from to show me", "text_b": null, "label": "flight"}
+{"guid": "dev-30", "text_a": "to what from atlanta flight first serves that the lunch baltimore is", "text_b": null, "label": "flight"}
+{"guid": "dev-31", "text_a": "to am after philadelphia monday 7 flights boston from on me show", "text_b": null, "label": "flight"}
+{"guid": "dev-32", "text_a": "boston from flights show the to philadelphia me", "text_b": null, "label": "flight"}
+{"guid": "dev-33", "text_a": "what on between pittsburgh and boston august are tenth flights", "text_b": null, "label": "flight"}
+{"guid": "dev-34", "text_a": "baltimore july worth on fort flights third the please to dallas twenty dc from list", "text_b": null, "label": "flight"}
+{"guid": "dev-35", "text_a": "washington show to me prices with flights all atlanta from", "text_b": null, "label": "flight"}
+{"guid": "dev-36", "text_a": "at leaving august from a twentieth 230 flight boston would i like washington to on", "text_b": null, "label": "flight"}
+{"guid": "dev-37", "text_a": "to denver a is american there flight from boston airlines on", "text_b": null, "label": "flight"}
+{"guid": "dev-38", "text_a": "mean code flight what does us", "text_b": null, "label": "flight"}
+{"guid": "dev-39", "text_a": "from las flights phoenix vegas to", "text_b": null, "label": "flight"}
+{"guid": "dev-40", "text_a": "would the in like around o'clock leave morning i to 7", "text_b": null, "label": "flight"}
+{"guid": "dev-41", "text_a": "atlanta from second flights august", "text_b": null, "label": "flight"}
+{"guid": "dev-42", "text_a": "flight in i american interested from to a am washington on dallas airlines", "text_b": null, "label": "flight"}
+{"guid": "dev-43", "text_a": "trips all york me round tuesday on new show from to miami leaving", "text_b": null, "label": "flight"}
+{"guid": "dev-44", "text_a": "connecting pittsburgh flights all to show from oakland", "text_b": null, "label": "flight"}
+{"guid": "dev-45", "text_a": "american flights airlines cincinnati denver to on from", "text_b": null, "label": "flight"}
+{"guid": "dev-46", "text_a": "to philadelphia twenty fort dallas american june on about me on worth flights ninth airlines from tell", "text_b": null, "label": "flight"}
+{"guid": "dev-47", "text_a": "boston flight information between and need atlanta i", "text_b": null, "label": "flight"}
+{"guid": "dev-48", "text_a": "cheapest is what from san francisco the boston flight to", "text_b": null, "label": "flight"}
+{"guid": "dev-49", "text_a": "there from are boston flights denver stopping to in san any francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-50", "text_a": "on from pittsburgh to flights information philadelphia", "text_b": null, "label": "flight"}
+{"guid": "dev-51", "text_a": "cost dl much how 746 does", "text_b": null, "label": "airfare"}
+{"guid": "dev-52", "text_a": "the denver is i cheapest from what can dallas fare to get", "text_b": null, "label": "airfare"}
+{"guid": "dev-53", "text_a": "air to cleveland miami next from wednesday us", "text_b": null, "label": "flight"}
+{"guid": "dev-54", "text_a": "me francisco ground show san in transportation", "text_b": null, "label": "ground_service"}
+{"guid": "dev-55", "text_a": "transportation please i ground what show in 's available need dallas me", "text_b": null, "label": "ground_service"}
+{"guid": "dev-56", "text_a": "the to flights city kansas from are what orlando", "text_b": null, "label": "flight"}
+{"guid": "dev-57", "text_a": "to dallas please in stop francisco with philadelphia san one", "text_b": null, "label": "flight"}
+{"guid": "dev-58", "text_a": "evening have i what from like the us do orlando cleveland to to would air you available late fly in", "text_b": null, "label": "flight"}
+{"guid": "dev-59", "text_a": "business how each many service does have airline class with flights", "text_b": null, "label": "quantity"}
+{"guid": "dev-60", "text_a": "from to memphis seattle list flights all", "text_b": null, "label": "flight"}
+{"guid": "dev-61", "text_a": "from the dl boston flight is to of philadelphia what cost 106", "text_b": null, "label": "airfare"}
+{"guid": "dev-62", "text_a": "pittsburgh show eastern flights the 12 4 airlines afternoon in all the me leaving and between", "text_b": null, "label": "flight"}
+{"guid": "dev-63", "text_a": "that from show me the houston am twa 11 around arrive to flights all indianapolis", "text_b": null, "label": "flight"}
+{"guid": "dev-64", "text_a": "many passengers how fit d9s on a", "text_b": null, "label": "capacity"}
+{"guid": "dev-65", "text_a": "me first on a class show miami tuesday new flights leaving from york to", "text_b": null, "label": "flight"}
+{"guid": "dev-66", "text_a": "from pittsburgh please to trip philadelphia give round fares me", "text_b": null, "label": "airfare"}
+{"guid": "dev-67", "text_a": "fly 'd philadelphia san to dallas i like francisco to to from", "text_b": null, "label": "flight"}
+{"guid": "dev-68", "text_a": "and please denver list flights all between boston airline", "text_b": null, "label": "airline"}
+{"guid": "dev-69", "text_a": "me you a fare way from one to could pittsburgh atlanta please give", "text_b": null, "label": "airfare"}
+{"guid": "dev-70", "text_a": "next philadelphia leave afternoon all from show which denver saturday to me flights", "text_b": null, "label": "flight"}
+{"guid": "dev-71", "text_a": "airports have does many oakland how", "text_b": null, "label": "quantity"}
+{"guid": "dev-72", "text_a": "1100 to show dallas dollars trip less round from atlanta flights than all me", "text_b": null, "label": "flight"}
+{"guid": "dev-73", "text_a": "how have today first flights does class united many", "text_b": null, "label": "quantity"}
+{"guid": "dev-74", "text_a": "boston francisco can go with from to a san denver stopover in i", "text_b": null, "label": "flight"}
+{"guid": "dev-75", "text_a": "and daily me all orlando milwaukee show between flights", "text_b": null, "label": "flight"}
+{"guid": "dev-76", "text_a": "from newark pittsburgh to flights", "text_b": null, "label": "flight"}
+{"guid": "dev-77", "text_a": "francisco information san please airport list regarding", "text_b": null, "label": "airport"}
+{"guid": "dev-78", "text_a": "and around 7 the from arriving city pm to coach flights first what for kansas are class next chicago fares thursday", "text_b": null, "label": "airfare"}
+{"guid": "dev-79", "text_a": "monday leave which o'clock flights from after to 8 on me pm all pittsburgh show dallas", "text_b": null, "label": "flight"}
+{"guid": "dev-80", "text_a": "and all in boston flights which leave tomorrow show pittsburgh me from arrive", "text_b": null, "label": "flight"}
+{"guid": "dev-81", "text_a": "a in seats many how 72s", "text_b": null, "label": "capacity"}
+{"guid": "dev-82", "text_a": "available baltimore limousine airport is at service there", "text_b": null, "label": "ground_service"}
+{"guid": "dev-83", "text_a": "friday what flight washington going the francisco last is to leaving san on", "text_b": null, "label": "flight"}
+{"guid": "dev-84", "text_a": "from flights city on monday cleveland to kansas", "text_b": null, "label": "flight"}
+{"guid": "dev-85", "text_a": "to the san pittsburgh francisco airfare show me from", "text_b": null, "label": "airfare"}
+{"guid": "dev-86", "text_a": "any petersburg eleventh st. to on june milwaukee from flights there are", "text_b": null, "label": "flight"}
+{"guid": "dev-87", "text_a": "what go atlanta to from baltimore airlines", "text_b": null, "label": "airline"}
+{"guid": "dev-88", "text_a": "chicago milwaukee you list and between all can flights", "text_b": null, "label": "flight"}
+{"guid": "dev-89", "text_a": "416 on the for restrictions flights airfare the air pittsburgh of to dollars from what are atlanta", "text_b": null, "label": "restriction"}
+{"guid": "dev-90", "text_a": "dallas you to me baltimore have can flights tell from you what", "text_b": null, "label": "flight"}
+{"guid": "dev-91", "text_a": "boston between denver are twenty and flights available november on what third", "text_b": null, "label": "flight"}
+{"guid": "dev-92", "text_a": "atlanta via to dallas flights philadelphia from go what", "text_b": null, "label": "flight"}
+{"guid": "dev-93", "text_a": "show to on morning milwaukee orlando flights me from thursday", "text_b": null, "label": "flight"}
+{"guid": "dev-94", "text_a": "airport there transportation atlanta from downtown is atlanta ground to", "text_b": null, "label": "ground_service"}
+{"guid": "dev-95", "text_a": "boston list of the flights denver give for continental between and airlines me", "text_b": null, "label": "flight"}
+{"guid": "dev-96", "text_a": "available flights oakland to airport are from what pittsburgh", "text_b": null, "label": "flight"}
+{"guid": "dev-97", "text_a": "includes flight like a tomorrow i dinner tomorrow for houston 'd from that to evening nashville", "text_b": null, "label": "flight"}
+{"guid": "dev-98", "text_a": "to flights me show from dallas atlanta", "text_b": null, "label": "flight"}
+{"guid": "dev-99", "text_a": "morning flights to at dollars boston list atlanta 124 a from the", "text_b": null, "label": "flight"}
+{"guid": "dev-100", "text_a": "american is miami the flight to airlines from cleveland cheapest on what", "text_b": null, "label": "flight"}
+{"guid": "dev-101", "text_a": "afternoon from the flights dallas atlanta to in", "text_b": null, "label": "flight"}
+{"guid": "dev-102", "text_a": "pm leaving to after flights find 6 san from the boston francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-103", "text_a": "atlanta denver to", "text_b": null, "label": "flight"}
+{"guid": "dev-104", "text_a": "do you from have philadelphia a francisco flight san dallas to in stopover a with", "text_b": null, "label": "flight"}
+{"guid": "dev-105", "text_a": "philadelphia all san from baltimore francisco flights me show that go boston to or", "text_b": null, "label": "flight"}
+{"guid": "dev-106", "text_a": "all boston am 10 flights leaving from francisco the list before san to please", "text_b": null, "label": "flight"}
+{"guid": "dev-107", "text_a": "new before york on what arrive city new at york pm city 6 cincinnati to delta from saturday flights", "text_b": null, "label": "flight"}
+{"guid": "dev-108", "text_a": "to baltimore dallas flights from", "text_b": null, "label": "flight"}
+{"guid": "dev-109", "text_a": "from philadelphia evening show the flights atlanta me to", "text_b": null, "label": "flight"}
+{"guid": "dev-110", "text_a": "arrive sunday evening know baltimore need to atlanta what in flights and leave on i", "text_b": null, "label": "flight"}
+{"guid": "dev-111", "text_a": "a would from i stopover louis to charlotte flight to st. i las would in find a like like carolina vegas north", "text_b": null, "label": "flight"}
+{"guid": "dev-112", "text_a": "interested in fort washington to flight from a worth", "text_b": null, "label": "flight"}
+{"guid": "dev-113", "text_a": "flights from morning me give baltimore to charlotte", "text_b": null, "label": "flight"}
+{"guid": "dev-114", "text_a": "the me uses canadian airlines aircraft that show", "text_b": null, "label": "aircraft"}
+{"guid": "dev-115", "text_a": "new houston from that newark the jersey me way of show diego go to by flights san", "text_b": null, "label": "flight"}
+{"guid": "dev-116", "text_a": "oakland and round ticket atlanta between the class what trip is cost of first", "text_b": null, "label": "airfare"}
+{"guid": "dev-117", "text_a": "for philadelphia from flight a flight to saturday need information i dallas on", "text_b": null, "label": "flight"}
+{"guid": "dev-118", "text_a": "boston night all flights tuesday list from denver to", "text_b": null, "label": "flight"}
+{"guid": "dev-119", "text_a": "to or field the love flights airlines from show for me", "text_b": null, "label": "airline"}
+{"guid": "dev-120", "text_a": "flight earliest to from atlanta philadelphia", "text_b": null, "label": "flight"}
+{"guid": "dev-121", "text_a": "from to o'clock tuesday 6 all next pittsburgh arrive flights at that philadelphia", "text_b": null, "label": "flight"}
+{"guid": "dev-122", "text_a": "information in you from give airport me can downtown the philadelphia transportation on philadelphia to", "text_b": null, "label": "ground_service"}
+{"guid": "dev-123", "text_a": "to would denver first from i the on like a fare baltimore know to flight class", "text_b": null, "label": "airfare"}
+{"guid": "dev-124", "text_a": "there flights seattle are saturday what to on newark from", "text_b": null, "label": "flight"}
+{"guid": "dev-125", "text_a": "to st. from to city get does how take it kansas paul long", "text_b": null, "label": "distance"}
+{"guid": "dev-126", "text_a": "detroit show to flights the me all montreal from", "text_b": null, "label": "flight"}
+{"guid": "dev-127", "text_a": "earliest possible from atlanta to find to the francisco like san i flight 'd", "text_b": null, "label": "flight"}
+{"guid": "dev-128", "text_a": "chicago flight from on evening i leaving day need to in return 7 chicago next wednesday around kansas following the city the a", "text_b": null, "label": "flight"}
+{"guid": "dev-129", "text_a": "twenty fare air to i pittsburgh on like from us the on would the 1039 april denver", "text_b": null, "label": "airfare"}
+{"guid": "dev-130", "text_a": "same so i can amount day the the in boston the departure find that from boston the atlanta atlanta atlanta return be time of longest lastest earliest and trip to me return but for", "text_b": null, "label": "flight"}
+{"guid": "dev-131", "text_a": "to denver see fares philadelphia i economy like would to the for", "text_b": null, "label": "airfare"}
+{"guid": "dev-132", "text_a": "to philadelphia from 1000 air dollars trip fares round baltimore less than", "text_b": null, "label": "airfare"}
+{"guid": "dev-133", "text_a": "to denver oakland", "text_b": null, "label": "flight"}
+{"guid": "dev-134", "text_a": "boston on you flights oakland tell me 1991 can october to from fifteenth the", "text_b": null, "label": "flight"}
+{"guid": "dev-135", "text_a": "boston between 'd washington and like september third information flight i", "text_b": null, "label": "flight"}
+{"guid": "dev-136", "text_a": "boston in what is limousine service", "text_b": null, "label": "ground_service"}
+{"guid": "dev-137", "text_a": "to also vegas burbank from two twenty saturday are on the flights what may las", "text_b": null, "label": "flight"}
+{"guid": "dev-138", "text_a": "are car san francisco the rental rates what in", "text_b": null, "label": "ground_fare"}
+{"guid": "dev-139", "text_a": "please from vegas new america flights on list las nonstop to york west", "text_b": null, "label": "flight"}
+{"guid": "dev-140", "text_a": "denver atlanta and to noon arrive to i that like from before 'd flights to flights to that 'd baltimore see from atlanta arrive before i see like noon", "text_b": null, "label": "flight"}
+{"guid": "dev-141", "text_a": "between boston and show all washington me flights", "text_b": null, "label": "flight"}
+{"guid": "dev-142", "text_a": "what atlanta provided by flights and airlines between for delta fares dfw the are", "text_b": null, "label": "airfare"}
+{"guid": "dev-143", "text_a": "boston between transportation downtown and in ground airport", "text_b": null, "label": "ground_service"}
+{"guid": "dev-144", "text_a": "seventh the evening what leaves on dallas atlanta twenty flight august in for", "text_b": null, "label": "flight"}
+{"guid": "dev-145", "text_a": "international much limousine a fort between dallas and airport how worth dallas is", "text_b": null, "label": "ground_fare"}
+{"guid": "dev-146", "text_a": "from flights to that afternoon in please francisco boston afternoon the leave san", "text_b": null, "label": "flight"}
+{"guid": "dev-147", "text_a": "meal the what from chicago that flights am in continental go morning have before to 10 seattle a", "text_b": null, "label": "flight"}
+{"guid": "dev-148", "text_a": "next show to flights san francisco the philadelphia week tuesday", "text_b": null, "label": "flight"}
+{"guid": "dev-149", "text_a": "dallas to from flights me show can baltimore you", "text_b": null, "label": "flight"}
+{"guid": "dev-150", "text_a": "york me new round from fares show to miami trip", "text_b": null, "label": "airfare"}
+{"guid": "dev-151", "text_a": "from to washington tampa florida list dc all flights", "text_b": null, "label": "flight"}
+{"guid": "dev-152", "text_a": "like 'd am boston leaves that san okay flight 8 a i to from francisco before", "text_b": null, "label": "flight"}
+{"guid": "dev-153", "text_a": "would pittsburgh i atlanta to fly like and denver from to", "text_b": null, "label": "flight"}
+{"guid": "dev-154", "text_a": "between way one pittsburgh fare denver the is cheapest and what", "text_b": null, "label": "airfare"}
+{"guid": "dev-155", "text_a": "to pittsburgh in the boston from august morning flights early sixth list on leaving", "text_b": null, "label": "flight"}
+{"guid": "dev-156", "text_a": "on the of from american tuesday eighteenth tacoma 's earliest on what to the nashville flight may", "text_b": null, "label": "flight"}
+{"guid": "dev-157", "text_a": "show cleveland 4 that from before miami pm flights to arrive", "text_b": null, "label": "flight"}
+{"guid": "dev-158", "text_a": "and 10 from pm baltimore to pittsburgh am flights 2 between", "text_b": null, "label": "flight"}
+{"guid": "dev-159", "text_a": "to airline fly from denver pittsburgh does american", "text_b": null, "label": "flight"}
+{"guid": "dev-160", "text_a": "like san a airlines flight in would making from in a stop boston i and denver arriving continental on francisco leaving", "text_b": null, "label": "flight"}
+{"guid": "dev-161", "text_a": "'d fly to boston from like i worth to fort", "text_b": null, "label": "flight"}
+{"guid": "dev-162", "text_a": "first the on pittsburgh thursday fares are from class boston to what", "text_b": null, "label": "airfare"}
+{"guid": "dev-163", "text_a": "going flight pittsburgh a okay originating want in denver i to", "text_b": null, "label": "flight"}
+{"guid": "dev-164", "text_a": "for boston leaving flights baltimore tuesday baltimore for i dallas on to boston and to need information dallas", "text_b": null, "label": "flight"}
+{"guid": "dev-165", "text_a": "from list philadelphia flights to all denver", "text_b": null, "label": "flight"}
+{"guid": "dev-166", "text_a": "6 dallas friday arrive that to and in on atlanta leave see before all i need flights pm", "text_b": null, "label": "flight"}
+{"guid": "dev-167", "text_a": "denver to flight boston only no the 'm for is a has in from stopovers looking and i afternoon that", "text_b": null, "label": "flight"}
+{"guid": "dev-168", "text_a": "on to vegas give all me a nonstops that city new las york arrive sunday from", "text_b": null, "label": "flight"}
+{"guid": "dev-169", "text_a": "from is pittsburgh to atlanta cheapest trip round flight what the", "text_b": null, "label": "flight"}
+{"guid": "dev-170", "text_a": "that from afternoon a i nonstop to on arrives okay june memphis first like memphis the flight in houston early tuesday in 'd", "text_b": null, "label": "flight"}
+{"guid": "dev-171", "text_a": "the sunday dallas list on american houston flights from please airlines to", "text_b": null, "label": "flight"}
+{"guid": "dev-172", "text_a": "after go pm dallas to leave san what francisco fort and 8 worth flights", "text_b": null, "label": "flight"}
+{"guid": "dev-173", "text_a": "american the class is what number flights on airlines first of", "text_b": null, "label": "flight_no"}
+{"guid": "dev-174", "text_a": "mornings from on orlando wednesday thursday show milwaukee flights or me to evening", "text_b": null, "label": "flight"}
+{"guid": "dev-175", "text_a": "that to depart from list nonstop in afternoon francisco the oakland san flights", "text_b": null, "label": "flight"}
+{"guid": "dev-176", "text_a": "and early tampa between morning flights cincinnati", "text_b": null, "label": "flight"}
+{"guid": "dev-177", "text_a": "available and fort denver worth flights afternoon dallas what between are", "text_b": null, "label": "flight"}
+{"guid": "dev-178", "text_a": "boston 5 after to newark what from pm go flights", "text_b": null, "label": "flight"}
+{"guid": "dev-179", "text_a": "dl does the code for airline stand what", "text_b": null, "label": "airline"}
+{"guid": "dev-180", "text_a": "denver from to boston airlines afternoon early nonstop what have flights", "text_b": null, "label": "airline"}
+{"guid": "dev-181", "text_a": "flights what continental in arrive from seattle on", "text_b": null, "label": "flight"}
+{"guid": "dev-182", "text_a": "from san to are what thursday the jose flights twentieth nashville on the", "text_b": null, "label": "flight"}
+{"guid": "dev-183", "text_a": "transportation ground the about show in boston me", "text_b": null, "label": "ground_service"}
+{"guid": "dev-184", "text_a": "need pittsburgh a from flight boston to i", "text_b": null, "label": "flight"}
+{"guid": "dev-185", "text_a": "orlando indianapolis me from give on december seventh eighth to flights twenty the and twenty", "text_b": null, "label": "flight"}
+{"guid": "dev-186", "text_a": "7 pm flights pittsburgh after boston to from what leave", "text_b": null, "label": "flight"}
+{"guid": "dev-187", "text_a": "dallas seventh nonstop oakland many flights twenty from going to how july", "text_b": null, "label": "quantity"}
+{"guid": "dev-188", "text_a": "leave san fifth arrive 7 in pittsburgh july pm and what flights after francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-189", "text_a": "the me show baltimore to philadelphia flights from", "text_b": null, "label": "flight"}
+{"guid": "dev-190", "text_a": "flight dallas have do in august morning from on to denver seventh twenty you what the", "text_b": null, "label": "flight"}
+{"guid": "dev-191", "text_a": "continental is francisco what on san the fare dallas from 271 to", "text_b": null, "label": "airfare"}
+{"guid": "dev-192", "text_a": "show september flights sixth please me on twenty", "text_b": null, "label": "flight"}
+{"guid": "dev-193", "text_a": "do airport from downtown the philadelphia i get how to", "text_b": null, "label": "ground_service"}
+{"guid": "dev-194", "text_a": "of ground transportation kind in what is there philadelphia", "text_b": null, "label": "ground_service"}
+{"guid": "dev-195", "text_a": "i from atlanta need to flight denver information on", "text_b": null, "label": "flight"}
+{"guid": "dev-196", "text_a": "baltimore boston fly want to from to i", "text_b": null, "label": "flight"}
+{"guid": "dev-197", "text_a": "monday from me on washington show flights to boston", "text_b": null, "label": "flight"}
+{"guid": "dev-198", "text_a": "to newark train", "text_b": null, "label": "ground_service"}
+{"guid": "dev-199", "text_a": "airline many june american flights how leave denver tenth", "text_b": null, "label": "quantity"}
+{"guid": "dev-200", "text_a": "next carolina i to fly from north need monday to atlanta charlotte", "text_b": null, "label": "flight"}
+{"guid": "dev-201", "text_a": "expensive like 'd one the from i find way to fare philadelphia boston to least", "text_b": null, "label": "airfare"}
+{"guid": "dev-202", "text_a": "airport and is tell ground if there you me boston boston downtown transportation could the between", "text_b": null, "label": "ground_service"}
+{"guid": "dev-203", "text_a": "orlando shortest ontario to california flight florida from", "text_b": null, "label": "flight"}
+{"guid": "dev-204", "text_a": "tampa morning from flight on would like an early sixth to book april i charlotte to", "text_b": null, "label": "flight"}
+{"guid": "dev-205", "text_a": "northwest airlines into on that denver and all out on united and fly united go list flights airlines of northwest all flights denver please and that airlines airlines", "text_b": null, "label": "flight"}
+{"guid": "dev-206", "text_a": "on for la guardia flights leave jose around and arrive 10 pm united what san", "text_b": null, "label": "flight"}
+{"guid": "dev-207", "text_a": "to what the are and pittsburgh from back flights denver", "text_b": null, "label": "flight"}
+{"guid": "dev-208", "text_a": "at vegas new vegas to and city las from give same that a memphis from time flight a arrive to flight the me york las", "text_b": null, "label": "flight"}
+{"guid": "dev-209", "text_a": "are sfo to on what denver wednesday evening from there flights", "text_b": null, "label": "flight"}
+{"guid": "dev-210", "text_a": "does what ap 57 restriction", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-211", "text_a": "leaving the field me flights love from show", "text_b": null, "label": "flight"}
+{"guid": "dev-212", "text_a": "to flights from show baltimore dallas cheap me", "text_b": null, "label": "flight"}
+{"guid": "dev-213", "text_a": "to city arriving the new york before flights city from 6 lake me give salt pm", "text_b": null, "label": "flight"}
+{"guid": "dev-214", "text_a": "flights i petersburg leaving please st. and florida of tacoma milwaukee a a like from need washington i stopover would in listing have to to tomorrow", "text_b": null, "label": "flight"}
+{"guid": "dev-215", "text_a": "okay arriving monday in me that pm 7 boston denver after give flights leave next the", "text_b": null, "label": "flight"}
+{"guid": "dev-216", "text_a": "flight what morning from is charlotte to earliest your indianapolis", "text_b": null, "label": "flight"}
+{"guid": "dev-217", "text_a": "baltimore pittsburgh to from", "text_b": null, "label": "flight"}
+{"guid": "dev-218", "text_a": "earliest what ontario to memphis from is flight the", "text_b": null, "label": "flight"}
+{"guid": "dev-219", "text_a": "is aircraft the philadelphia class to american airlines flight on san from a first what of kind francisco with dallas used stopover", "text_b": null, "label": "aircraft"}
+{"guid": "dev-220", "text_a": "would pittsburgh after like francisco 10 morning i from a on flight to friday o'clock san", "text_b": null, "label": "flight"}
+{"guid": "dev-221", "text_a": "like flight i i a cheapest on to fifteenth be july flight from to pittsburgh book would like to denver 'd it the", "text_b": null, "label": "flight"}
+{"guid": "dev-222", "text_a": "into how has continental atlanta and of many flights out", "text_b": null, "label": "quantity"}
+{"guid": "dev-223", "text_a": "flights all to pittsburgh list from philadelphia", "text_b": null, "label": "flight"}
+{"guid": "dev-224", "text_a": "boston san airlines to on to worth from i fly via dallas want fort american francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-225", "text_a": "denver to boston flights the earliest on me show from wednesday", "text_b": null, "label": "flight"}
+{"guid": "dev-226", "text_a": "from flights daily list continental airlines boston using oakland to", "text_b": null, "label": "flight"}
+{"guid": "dev-227", "text_a": "me denver pittsburgh from now get to", "text_b": null, "label": "flight"}
+{"guid": "dev-228", "text_a": "9 continental flights what arriving after are pm on chicago there in", "text_b": null, "label": "flight"}
+{"guid": "dev-229", "text_a": "have san morning francisco a united in do stopover on to and of pittsburgh flights twentieth the from denver september you what in airlines", "text_b": null, "label": "flight"}
+{"guid": "dev-230", "text_a": "and 'm las like in travel miami sunday 'd i on to to i vegas", "text_b": null, "label": "flight"}
+{"guid": "dev-231", "text_a": "'m a to to from i sorry i flight want denver book atlanta colorado", "text_b": null, "label": "flight"}
+{"guid": "dev-232", "text_a": "me trip flights from burbank please to round show all tacoma", "text_b": null, "label": "flight"}
+{"guid": "dev-233", "text_a": "orlando you fare list to round city can trip kansas from the cheapest", "text_b": null, "label": "airfare"}
+{"guid": "dev-234", "text_a": "diego show to flights from the san washington me dc", "text_b": null, "label": "flight"}
+{"guid": "dev-235", "text_a": "downtown la guardia from york what distance to is the new 's", "text_b": null, "label": "distance"}
+{"guid": "dev-236", "text_a": "what denver the way from one twelfth leaving ticket least october is to on atlanta expensive", "text_b": null, "label": "airfare"}
+{"guid": "dev-237", "text_a": "ground philadelphia transportation", "text_b": null, "label": "ground_service"}
+{"guid": "dev-238", "text_a": "718 dallas flights am cincinnati after from to departing", "text_b": null, "label": "flight"}
+{"guid": "dev-239", "text_a": "what is oakland ground there in transportation", "text_b": null, "label": "ground_service"}
+{"guid": "dev-240", "text_a": "cleveland newark to", "text_b": null, "label": "flight"}
+{"guid": "dev-241", "text_a": "are me december from available sixteen flights dallas show to on oakland can what you going", "text_b": null, "label": "flight"}
+{"guid": "dev-242", "text_a": "dallas morning on to on are what from atlanta dl flights available monday", "text_b": null, "label": "flight"}
+{"guid": "dev-243", "text_a": "flights continental on chicago denver sunday to on from", "text_b": null, "label": "flight"}
+{"guid": "dev-244", "text_a": "is the what fare for boston dallas cheapest flights to from", "text_b": null, "label": "airfare"}
+{"guid": "dev-245", "text_a": "boston ground transportation", "text_b": null, "label": "ground_service"}
+{"guid": "dev-246", "text_a": "on philadelphia right do to oakland all wednesday you what have from", "text_b": null, "label": "flight"}
+{"guid": "dev-247", "text_a": "pittsburgh show monday flights to me from francisco on san", "text_b": null, "label": "flight"}
+{"guid": "dev-248", "text_a": "the please 'd to on me air from travel times boston like baltimore to us 269 i tell", "text_b": null, "label": "flight"}
+{"guid": "dev-249", "text_a": "to like boston fare way find what is 'd all the do to denver from one i cheapest right", "text_b": null, "label": "airfare"}
+{"guid": "dev-250", "text_a": "a flights on list me show from to august of baltimore pittsburgh third", "text_b": null, "label": "flight"}
+{"guid": "dev-251", "text_a": "to denver flights atlanta to are any from there pittsburgh", "text_b": null, "label": "flight"}
+{"guid": "dev-252", "text_a": "in class airplane san francisco on dallas monday stops and first what philadelphia the from in afternoon to goes", "text_b": null, "label": "aircraft"}
+{"guid": "dev-253", "text_a": "to pittsburgh newark from flights", "text_b": null, "label": "flight"}
+{"guid": "dev-254", "text_a": "to pm for trip 8 pittsburgh arrangements after dallas round a flight arriving from find travel", "text_b": null, "label": "flight"}
+{"guid": "dev-255", "text_a": "boston afternoon would atlanta flight the like between i and day a in at one any on", "text_b": null, "label": "flight"}
+{"guid": "dev-256", "text_a": "into noon pittsburgh flights show san arriving after 12 francisco from", "text_b": null, "label": "flight"}
+{"guid": "dev-257", "text_a": "information flights francisco san trip on to first pittsburgh round class from", "text_b": null, "label": "flight"}
+{"guid": "dev-258", "text_a": "to pittsburgh atlanta", "text_b": null, "label": "flight"}
+{"guid": "dev-259", "text_a": "boston to from me show the flights baltimore", "text_b": null, "label": "flight"}
+{"guid": "dev-260", "text_a": "baltimore express does midwest serve", "text_b": null, "label": "flight"}
+{"guid": "dev-261", "text_a": "cleveland fourth cheapest fare the february from on miami first air on us class to what twenty is", "text_b": null, "label": "airfare"}
+{"guid": "dev-262", "text_a": "is code what fare fn", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-263", "text_a": "washington from to atlanta", "text_b": null, "label": "flight"}
+{"guid": "dev-264", "text_a": "for flight toronto looking diego from san to a", "text_b": null, "label": "flight"}
+{"guid": "dev-265", "text_a": "show me all twa flights please", "text_b": null, "label": "flight"}
+{"guid": "dev-266", "text_a": "from friday san evening list jose cincinnati flights to", "text_b": null, "label": "flight"}
+{"guid": "dev-267", "text_a": "to philadelphia from flights show me atlanta morning", "text_b": null, "label": "flight"}
+{"guid": "dev-268", "text_a": "okay there the in to from leaving afternoon orlando us air are cleveland flights what", "text_b": null, "label": "flight"}
+{"guid": "dev-269", "text_a": "to philadelphia 270 ua does from cost much flight how denver", "text_b": null, "label": "airfare"}
+{"guid": "dev-270", "text_a": "from i a reservation san francisco baltimore to need", "text_b": null, "label": "flight"}
+{"guid": "dev-271", "text_a": "round fares baltimore from philadelphia 1000 under dollars trip to", "text_b": null, "label": "airfare"}
+{"guid": "dev-272", "text_a": "to a philadelphia fly on from stop a want breakfast atlanta in dallas flight with i to", "text_b": null, "label": "flight"}
+{"guid": "dev-273", "text_a": "first memphis please class show me one to all from flights indianapolis way", "text_b": null, "label": "flight"}
+{"guid": "dev-274", "text_a": "me ground dc washington transportation in show all", "text_b": null, "label": "ground_service"}
+{"guid": "dev-275", "text_a": "all flights to francisco united boston list san from on", "text_b": null, "label": "flight"}
+{"guid": "dev-276", "text_a": "flights and the atlanta morning list dallas between", "text_b": null, "label": "flight"}
+{"guid": "dev-277", "text_a": "to from denver i to go want oakland", "text_b": null, "label": "flight"}
+{"guid": "dev-278", "text_a": "from washington a twentieth would flight i to like august on flight 324 boston", "text_b": null, "label": "flight"}
+{"guid": "dev-279", "text_a": "me the to nonstop dallas show flights from houston", "text_b": null, "label": "flight"}
+{"guid": "dev-280", "text_a": "after arrangements pittsburgh pm travel trip flight to dallas a 8 from round find for", "text_b": null, "label": "flight"}
+{"guid": "dev-281", "text_a": "a want with stop i philadelphia in to denver boston from to fly", "text_b": null, "label": "flight"}
+{"guid": "dev-282", "text_a": "you from would atlanta be flight traveling the fourth what to cheapest 'll be tell can pittsburgh me i on september", "text_b": null, "label": "flight"}
+{"guid": "dev-283", "text_a": "francisco weekday from to san denver flights", "text_b": null, "label": "flight"}
+{"guid": "dev-284", "text_a": "at flight november is there on noon from san seventh francisco to atlanta a", "text_b": null, "label": "flight"}
+{"guid": "dev-285", "text_a": "dallas to leaving of what type aircraft philadelphia", "text_b": null, "label": "aircraft"}
+{"guid": "dev-286", "text_a": "san francisco me flights to from show seattle", "text_b": null, "label": "flight"}
+{"guid": "dev-287", "text_a": "to florida ontario flights from", "text_b": null, "label": "flight"}
+{"guid": "dev-288", "text_a": "to san dallas francisco to on fly eighth july i want monday", "text_b": null, "label": "flight"}
+{"guid": "dev-289", "text_a": "car in rental the what dallas are rates", "text_b": null, "label": "ground_fare"}
+{"guid": "dev-290", "text_a": "i denver fort toronto flight diego from have of instead to in but dallas san stopping the same can worth", "text_b": null, "label": "flight"}
+{"guid": "dev-291", "text_a": "flight information from requesting to on flight for baltimore tuesday boston", "text_b": null, "label": "flight"}
+{"guid": "dev-292", "text_a": "atlanta from what flights toronto to", "text_b": null, "label": "flight"}
+{"guid": "dev-293", "text_a": "atlanta approximately to pm leave boston boston from flight leave 1", "text_b": null, "label": "flight"}
+{"guid": "dev-294", "text_a": "there boston to the downtown airport boston is from transportation ground", "text_b": null, "label": "ground_service"}
+{"guid": "dev-295", "text_a": "go atlanta 5 want i of 's to to 'd after sometime airplane it from 'm traveling boston and to but i like i kind on know what pm", "text_b": null, "label": "aircraft"}
+{"guid": "dev-296", "text_a": "please with to denver boston airlines from me show flights", "text_b": null, "label": "airline"}
+{"guid": "dev-297", "text_a": "to the fare baltimore from me flights you show dallas economy can", "text_b": null, "label": "airfare"}
+{"guid": "dev-298", "text_a": "long sfo from all beach flights to", "text_b": null, "label": "flight"}
+{"guid": "dev-299", "text_a": "flights show baltimore first from to me denver class the", "text_b": null, "label": "flight"}
+{"guid": "dev-300", "text_a": "go denver francisco san what from to flights", "text_b": null, "label": "flight"}
+{"guid": "dev-301", "text_a": "philadelphia san francisco to which flights from go", "text_b": null, "label": "flight"}
+{"guid": "dev-302", "text_a": "from flights philadelphia 10 pm to show and baltimore between am 2 please me", "text_b": null, "label": "flight"}
+{"guid": "dev-303", "text_a": "go like in to to 'd stopping francisco pittsburgh i san boston from", "text_b": null, "label": "flight"}
+{"guid": "dev-304", "text_a": "the limousine francisco san how is expensive service", "text_b": null, "label": "ground_fare"}
+{"guid": "dev-305", "text_a": "san i from in a on stop francisco to denver a flight with baltimore twa like would", "text_b": null, "label": "flight"}
+{"guid": "dev-306", "text_a": "flights list houston the and jose san between", "text_b": null, "label": "flight"}
+{"guid": "dev-307", "text_a": "new miami class sunday fare on first show least with to me a from york flight the expensive", "text_b": null, "label": "flight"}
+{"guid": "dev-308", "text_a": "francisco 1992 first oakland twenty january flights from san on to", "text_b": null, "label": "flight"}
+{"guid": "dev-309", "text_a": "mean does y fare code what", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-310", "text_a": "airline nw what is", "text_b": null, "label": "airline"}
+{"guid": "dev-311", "text_a": "dallas baltimore night to from on flights sunday are what the", "text_b": null, "label": "flight"}
+{"guid": "dev-312", "text_a": "all me boston philadelphia from san baltimore to show or francisco flights", "text_b": null, "label": "flight"}
+{"guid": "dev-313", "text_a": "to from on july boston thirtieth all flights display dallas", "text_b": null, "label": "flight"}
+{"guid": "dev-314", "text_a": "pittsburgh airlines flights to me please with from boston show", "text_b": null, "label": "airline"}
+{"guid": "dev-315", "text_a": "wednesday from thursday morning night to flights me milwaukee show or orlando on", "text_b": null, "label": "flight"}
+{"guid": "dev-316", "text_a": "does dl stand for delta", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-317", "text_a": "and 10 pm am from flights 2 between pittsburgh to baltimore", "text_b": null, "label": "flight"}
+{"guid": "dev-318", "text_a": "the are available meals all what", "text_b": null, "label": "meal"}
+{"guid": "dev-319", "text_a": "cheapest dallas me in flight on baltimore from starting arriving show the fourteenth june", "text_b": null, "label": "flight"}
+{"guid": "dev-320", "text_a": "los on a to phoenix angeles from friday", "text_b": null, "label": "flight"}
+{"guid": "dev-321", "text_a": "is washington bwi", "text_b": null, "label": "city"}
+{"guid": "dev-322", "text_a": "show to flights baltimore the pm between 2 denver me and please 10 am from", "text_b": null, "label": "flight"}
+{"guid": "dev-323", "text_a": "from me show flights to boston the baltimore", "text_b": null, "label": "flight"}
+{"guid": "dev-324", "text_a": "boston the flights and schedule is july between of on for what evening pittsburgh ninth the", "text_b": null, "label": "flight_time"}
+{"guid": "dev-325", "text_a": "show love flights field me arriving the at", "text_b": null, "label": "flight"}
+{"guid": "dev-326", "text_a": "to in the stop san me with denver one miami from diego show flights", "text_b": null, "label": "flight"}
+{"guid": "dev-327", "text_a": "lake delta am airlines information i utah flights those missouri i interested to only from flights in kansas salt city on city need on", "text_b": null, "label": "flight"}
+{"guid": "dev-328", "text_a": "arriving the afternoon would from like oakland at philadelphia i in one pm 5 a flight at to", "text_b": null, "label": "flight"}
+{"guid": "dev-329", "text_a": "is flight what in baltimore boston the morning leaving the earliest for", "text_b": null, "label": "flight"}
+{"guid": "dev-330", "text_a": "1993 minneapolis to show july first on for seattle me from flights fares", "text_b": null, "label": "airfare"}
+{"guid": "dev-331", "text_a": "5 go after tell sometime to you pm can boston flights atlanta me the that from", "text_b": null, "label": "flight"}
+{"guid": "dev-332", "text_a": "car i at a new york will need", "text_b": null, "label": "ground_service"}
+{"guid": "dev-333", "text_a": "san last what in is flight denver and your leaving arriving francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-334", "text_a": "to from flights go what washington boston next tuesday", "text_b": null, "label": "flight"}
+{"guid": "dev-335", "text_a": "any flights have express midwest does", "text_b": null, "label": "flight"}
+{"guid": "dev-336", "text_a": "me the to philadelphia show from boston flights", "text_b": null, "label": "flight"}
+{"guid": "dev-337", "text_a": "on possible book to i would flight like earliest airlines their francisco delta dc to from washington san", "text_b": null, "label": "flight"}
+{"guid": "dev-338", "text_a": "fare me expensive show most the", "text_b": null, "label": "airfare"}
+{"guid": "dev-339", "text_a": "atlanta flight the boston to the find same from in earliest me from day to i boston go need", "text_b": null, "label": "flight"}
+{"guid": "dev-340", "text_a": "to francisco indianapolis go which washington airlines of by way from san", "text_b": null, "label": "airline"}
+{"guid": "dev-341", "text_a": "after pm flights 723 from to boston what pittsburgh", "text_b": null, "label": "flight"}
+{"guid": "dev-342", "text_a": "from is flight atlanta earliest the what to boston", "text_b": null, "label": "flight"}
+{"guid": "dev-343", "text_a": "the airport get downtown toronto i how do from", "text_b": null, "label": "ground_service"}
+{"guid": "dev-344", "text_a": "the flight on november boston and leaving in is earliest what atlanta arriving seventh", "text_b": null, "label": "flight"}
+{"guid": "dev-345", "text_a": "boston the flight back and thanks from 's washington to last what", "text_b": null, "label": "flight"}
+{"guid": "dev-346", "text_a": "boston philadelphia flights fly to which from delta", "text_b": null, "label": "flight"}
+{"guid": "dev-347", "text_a": "from flights boston to me oakland the show", "text_b": null, "label": "flight"}
+{"guid": "dev-348", "text_a": "is in zone time denver what", "text_b": null, "label": "city"}
+{"guid": "dev-349", "text_a": "have and same atlanta in atlanta day in how most back and the i on can get from the to ground boston hours the", "text_b": null, "label": "flight"}
+{"guid": "dev-350", "text_a": "list using as and boston oakland and oakland all flights between daily well boston as american airline", "text_b": null, "label": "flight"}
+{"guid": "dev-351", "text_a": "cincinnati lake all me from nonstop salt show to flights city", "text_b": null, "label": "flight"}
+{"guid": "dev-352", "text_a": "the dallas economy me flights available fares baltimore can to show from with you", "text_b": null, "label": "flight"}
+{"guid": "dev-353", "text_a": "tampa going sixth a for may i milwaukee flight possible direct from like twenty to flight book if a to would", "text_b": null, "label": "flight"}
+{"guid": "dev-354", "text_a": "leaving from can arriving in morning to get san i morning dallas in and francisco the the", "text_b": null, "label": "flight"}
+{"guid": "dev-355", "text_a": "class new show me with flights from coach nonstop york to miami fares", "text_b": null, "label": "flight"}
+{"guid": "dev-356", "text_a": "flights city to the friday st. from paul kansas please list night", "text_b": null, "label": "flight"}
+{"guid": "dev-357", "text_a": "morning baltimore in and information in on pittsburgh i need arriving flight the leaving thursday", "text_b": null, "label": "flight"}
+{"guid": "dev-358", "text_a": "flights 1700 from wednesday boston after pittsburgh me show to hours on", "text_b": null, "label": "flight"}
+{"guid": "dev-359", "text_a": "july sixth i july for tuesday ground san need transportation and in wednesday seventh to diego 'll", "text_b": null, "label": "ground_service"}
+{"guid": "dev-360", "text_a": "airfares denver the between dollars to 500 i denver for under me show like fly would please pittsburgh to and", "text_b": null, "label": "flight"}
+{"guid": "dev-361", "text_a": "for arrangements flight a travel pittsburgh from dallas round find to trip", "text_b": null, "label": "flight"}
+{"guid": "dev-362", "text_a": "what prices of flights the to in dallas are the atlanta morning the from", "text_b": null, "label": "airfare"}
+{"guid": "dev-363", "text_a": "is what at tampa airport", "text_b": null, "label": "airport"}
+{"guid": "dev-364", "text_a": "to go on want atlanta to i boston from monday", "text_b": null, "label": "flight"}
+{"guid": "dev-365", "text_a": "from to baltimore flights atlanta me the show", "text_b": null, "label": "flight"}
+{"guid": "dev-366", "text_a": "what 98 is dl airline", "text_b": null, "label": "airline"}
+{"guid": "dev-367", "text_a": "does code y mean what", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-368", "text_a": "denver continental a boston is to way what airlines fare one price the of on from", "text_b": null, "label": "airfare"}
+{"guid": "dev-369", "text_a": "me atlanta on seventh evening you denver flight to latest the tell from can july", "text_b": null, "label": "flight"}
+{"guid": "dev-370", "text_a": "to baltimore evening flights show me", "text_b": null, "label": "flight"}
+{"guid": "dev-371", "text_a": "does francisco from san delta fly to atlanta", "text_b": null, "label": "flight"}
+{"guid": "dev-372", "text_a": "atlanta kind ground transportation is available what of in", "text_b": null, "label": "ground_service"}
+{"guid": "dev-373", "text_a": "to on flights show monday a me philadelphia boston from", "text_b": null, "label": "flight"}
+{"guid": "dev-374", "text_a": "to want oakland leaves a from a that flight i boston direct on wednesday", "text_b": null, "label": "flight"}
+{"guid": "dev-375", "text_a": "flights to philadelphia what to from available delta fly are boston", "text_b": null, "label": "flight"}
+{"guid": "dev-376", "text_a": "what washington to 1991 october are boston from the on fifteenth flights", "text_b": null, "label": "flight"}
+{"guid": "dev-377", "text_a": "to from denver available philadelphia wednesday are what flights on", "text_b": null, "label": "flight"}
+{"guid": "dev-378", "text_a": "for to me is baltimore san possible from fly it to francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-379", "text_a": "to the flights leave in philadelphia dallas philadelphia the should you from flights tell about could me morning", "text_b": null, "label": "flight"}
+{"guid": "dev-380", "text_a": "fare is to boston the dallas from what first class", "text_b": null, "label": "airfare"}
+{"guid": "dev-381", "text_a": "from dallas me the flights to show baltimore", "text_b": null, "label": "flight"}
+{"guid": "dev-382", "text_a": "me all prices to from class first of dallas baltimore show", "text_b": null, "label": "airfare"}
+{"guid": "dev-383", "text_a": "from june on to denver your fourth atlanta me flights show", "text_b": null, "label": "flight"}
+{"guid": "dev-384", "text_a": "between daily flights american boston using oakland and all list airlines", "text_b": null, "label": "flight"}
+{"guid": "dev-385", "text_a": "does san to from fly denver francisco continental", "text_b": null, "label": "flight"}
+{"guid": "dev-386", "text_a": "flights denver to philadelphia list from", "text_b": null, "label": "flight"}
+{"guid": "dev-387", "text_a": "to from flights philadelphia show pittsburgh me", "text_b": null, "label": "flight"}
+{"guid": "dev-388", "text_a": "from a to canada with flight layover toronto dc i air in a need san on diego", "text_b": null, "label": "flight"}
+{"guid": "dev-389", "text_a": "to denver flights list from baltimore daily", "text_b": null, "label": "flight"}
+{"guid": "dev-390", "text_a": "airlines which cities service does united", "text_b": null, "label": "city"}
+{"guid": "dev-391", "text_a": "to washington i wednesday from atlanta flights dc want", "text_b": null, "label": "flight"}
+{"guid": "dev-392", "text_a": "to baltimore fly airlines dallas from what", "text_b": null, "label": "airline"}
+{"guid": "dev-393", "text_a": "show san francisco from me the cheapest flights to philadelphia", "text_b": null, "label": "flight"}
+{"guid": "dev-394", "text_a": "flights all with show in stop philadelphia san francisco one from me dallas to", "text_b": null, "label": "flight"}
+{"guid": "dev-395", "text_a": "from after pm flight francisco to leaving 9 show san francisco cheapest way boston the me san one", "text_b": null, "label": "flight"}
+{"guid": "dev-396", "text_a": "san is friday what washington on earliest the francisco from to flight", "text_b": null, "label": "flight"}
+{"guid": "dev-397", "text_a": "fare baltimore us for show flight 3357 to from the me philadelphia", "text_b": null, "label": "airfare"}
+{"guid": "dev-398", "text_a": "to i san diego now right need from a seattle all flight", "text_b": null, "label": "flight"}
+{"guid": "dev-399", "text_a": "on twenty to american from dallas on about ninth me tell june francisco flights san airlines", "text_b": null, "label": "flight"}
+{"guid": "dev-400", "text_a": "what of on service are the lufthansa classes", "text_b": null, "label": "flight"}
+{"guid": "dev-401", "text_a": "give baltimore flights me from to atlanta", "text_b": null, "label": "flight"}
+{"guid": "dev-402", "text_a": "me the flights montreal show to from philly", "text_b": null, "label": "flight"}
+{"guid": "dev-403", "text_a": "flights san friday on to do leave francisco the of any boston", "text_b": null, "label": "flight"}
+{"guid": "dev-404", "text_a": "to flies seventh that pittsburgh may the what smallest baltimore from arriving aircraft is", "text_b": null, "label": "aircraft"}
+{"guid": "dev-405", "text_a": "an baltimore inexpensive to need san flight from francisco", "text_b": null, "label": "flight"}
+{"guid": "dev-406", "text_a": "anywhere us from to air flights all charlotte on", "text_b": null, "label": "flight"}
+{"guid": "dev-407", "text_a": "of from afternoon boston earliest used to is flight francisco plane kind san the on what", "text_b": null, "label": "aircraft"}
+{"guid": "dev-408", "text_a": "code as same class the fare is b business", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-409", "text_a": "flights all show from to me cincinnati philadelphia the", "text_b": null, "label": "flight"}
+{"guid": "dev-410", "text_a": "ewr what is", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-411", "text_a": "there flights to from what las are new vegas york", "text_b": null, "label": "flight"}
+{"guid": "dev-412", "text_a": "dc from to flights are washington san francisco what the", "text_b": null, "label": "flight"}
+{"guid": "dev-413", "text_a": "the flights boston all me show today out of", "text_b": null, "label": "flight"}
+{"guid": "dev-414", "text_a": "me all class miami from a york to leaving on show fares tuesday new first", "text_b": null, "label": "airfare"}
+{"guid": "dev-415", "text_a": "flights give leaving washington before me thursday atlanta information to 0900 on from dc on", "text_b": null, "label": "flight"}
+{"guid": "dev-416", "text_a": "can take what transportation i ground boston into", "text_b": null, "label": "ground_service"}
+{"guid": "dev-417", "text_a": "american information fort worth washington to from on airlines", "text_b": null, "label": "flight"}
+{"guid": "dev-418", "text_a": "the the on give indianapolis december orlando from with flights seventh to me fares twenty", "text_b": null, "label": "flight"}
+{"guid": "dev-419", "text_a": "flight american houston 4400 to from cincinnati", "text_b": null, "label": "flight"}
+{"guid": "dev-420", "text_a": "san tacoma from what are tomorrow to flights there jose", "text_b": null, "label": "flight"}
+{"guid": "dev-421", "text_a": "what city bwi trip fare lowest to any round from the 's", "text_b": null, "label": "airfare"}
+{"guid": "dev-422", "text_a": "rental at you car 'll can i available me what airport 's a atlanta need the show", "text_b": null, "label": "ground_service"}
+{"guid": "dev-423", "text_a": "early morning i boston from flight want philadelphia an to", "text_b": null, "label": "flight"}
+{"guid": "dev-424", "text_a": "the newark to from list times please flight boston", "text_b": null, "label": "flight_time"}
+{"guid": "dev-425", "text_a": "to i fly to pittsburgh denver want", "text_b": null, "label": "flight"}
+{"guid": "dev-426", "text_a": "dallas on flights worth show to from first american philadelphia fort class", "text_b": null, "label": "flight"}
+{"guid": "dev-427", "text_a": "like las goes would memphis vegas to that to i a book from flight", "text_b": null, "label": "flight"}
+{"guid": "dev-428", "text_a": "is what ewr", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-429", "text_a": "is of a from flight what the boston francisco san to cost", "text_b": null, "label": "airfare"}
+{"guid": "dev-430", "text_a": "one do you have denver philadelphia from to", "text_b": null, "label": "flight"}
+{"guid": "dev-431", "text_a": "indianapolis twa may on on delta from to wednesday continental what either twelfth flights or are cleveland the", "text_b": null, "label": "flight"}
+{"guid": "dev-432", "text_a": "atlanta to charlotte all north that next from monday the leave list carolina flights", "text_b": null, "label": "flight"}
+{"guid": "dev-433", "text_a": "transportation there ground atlanta what in is", "text_b": null, "label": "ground_service"}
+{"guid": "dev-434", "text_a": "the leaving san flight is francisco to what washington earliest", "text_b": null, "label": "flight"}
+{"guid": "dev-435", "text_a": "san continental flight leaving i pennsylvania arriving airlines on francisco a california want pittsburgh", "text_b": null, "label": "flight"}
+{"guid": "dev-436", "text_a": "find sunday 4 arrive i pm nevada to miami florida would on flight like that las to 'd a vegas before from", "text_b": null, "label": "flight"}
+{"guid": "dev-437", "text_a": "on flights are thursday leaving out francisco know to available of 9 that to i like after pittsburgh the san night would pm", "text_b": null, "label": "flight"}
+{"guid": "dev-438", "text_a": "toronto from is toronto international distance the to what airport", "text_b": null, "label": "distance"}
+{"guid": "dev-439", "text_a": "to that you evening can me flights houston show from nashville dinner serve", "text_b": null, "label": "flight"}
+{"guid": "dev-440", "text_a": "on least twenty morning one expensive to let okay go one that in dallas april fare way sounds 's the great from atlanta", "text_b": null, "label": "flight"}
+{"guid": "dev-441", "text_a": "flights houston from afternoon to show dallas", "text_b": null, "label": "flight"}
+{"guid": "dev-442", "text_a": "on are first denver from available united class three flights baltimore airfare what to july airlines", "text_b": null, "label": "airfare"}
+{"guid": "dev-443", "text_a": "city from california lake oakland salt flight to", "text_b": null, "label": "flight"}
+{"guid": "dev-444", "text_a": "boston what one most from on atlanta is airlines way the american to fare expensive", "text_b": null, "label": "airfare"}
+{"guid": "dev-445", "text_a": "pittsburgh the denver 's what flight from cheapest to", "text_b": null, "label": "flight"}
+{"guid": "dev-446", "text_a": "an airline flight any does to from atlanta have afternoon boston", "text_b": null, "label": "airline"}
+{"guid": "dev-447", "text_a": "washington the are late early available twenty boston what dc the fifth flights or to from sixth twenty", "text_b": null, "label": "flight"}
+{"guid": "dev-448", "text_a": "ground me denver in transportation show", "text_b": null, "label": "ground_service"}
+{"guid": "dev-449", "text_a": "second to from me show on seattle minneapolis july flights", "text_b": null, "label": "flight"}
+{"guid": "dev-450", "text_a": "may the the are eighteenth tuesday from tacoma flights what to nashville on of", "text_b": null, "label": "flight"}
+{"guid": "dev-451", "text_a": "to the cost worth i from 'd boston fare like fort cheapest", "text_b": null, "label": "airfare"}
+{"guid": "dev-452", "text_a": "code fare what is mean y", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-453", "text_a": "fares class first trip new to york round miami", "text_b": null, "label": "airfare"}
+{"guid": "dev-454", "text_a": "first of going what baltimore to cost leaving the ticket seventh from on traveling trip class july airlines united denver is round a", "text_b": null, "label": "airfare"}
+{"guid": "dev-455", "text_a": "york new leaving from montreal to i on canada have listings flights could wednesday of", "text_b": null, "label": "flight"}
+{"guid": "dev-456", "text_a": "fares please oakland for all to denver from flights me show", "text_b": null, "label": "airfare"}
+{"guid": "dev-457", "text_a": "sunday returning and flights a tuesday on all leaving york show from miami new me to on", "text_b": null, "label": "flight"}
+{"guid": "dev-458", "text_a": "what for airline stands hp", "text_b": null, "label": "airline"}
+{"guid": "dev-459", "text_a": "stops to denver between that i of amount get takes boston like flight least the boston a 'd and to", "text_b": null, "label": "flight"}
+{"guid": "dev-460", "text_a": "boston nonstop to denver flights", "text_b": null, "label": "flight"}
+{"guid": "dev-461", "text_a": "jose afternoon on dallas to from friday flights what san", "text_b": null, "label": "flight"}
+{"guid": "dev-462", "text_a": "baltimore from round please trip give me philadelphia fares to", "text_b": null, "label": "airfare"}
+{"guid": "dev-463", "text_a": "please ground pittsburgh transportation list available in", "text_b": null, "label": "ground_service"}
+{"guid": "dev-464", "text_a": "flights baltimore morning and wednesday newark between", "text_b": null, "label": "flight"}
+{"guid": "dev-465", "text_a": "flight on washington american want i dallas airlines to return from a", "text_b": null, "label": "flight"}
+{"guid": "dev-466", "text_a": "to from on show atlanta me flights sixteenth june denver", "text_b": null, "label": "flight"}
+{"guid": "dev-467", "text_a": "flights me washington on to denver show thursday", "text_b": null, "label": "flight"}
+{"guid": "dev-468", "text_a": "all to phoenix flights from long beach", "text_b": null, "label": "flight"}
+{"guid": "dev-469", "text_a": "what is ff", "text_b": null, "label": "abbreviation"}
+{"guid": "dev-470", "text_a": "me show on flights boston the from pittsburgh to thursday", "text_b": null, "label": "flight"}
+{"guid": "dev-471", "text_a": "worth available what and between pittsburgh are all flights fort the dallas", "text_b": null, "label": "flight"}
+{"guid": "dev-472", "text_a": "united baltimore from to denver show class service flights first that offer on round me trip", "text_b": null, "label": "flight"}
+{"guid": "dev-473", "text_a": "st. on airlines earliest tomorrow milwaukee petersburg flight to me from give the american", "text_b": null, "label": "flight"}
+{"guid": "dev-474", "text_a": "oakland does to 281 stop where flight boston ua from", "text_b": null, "label": "flight"}
+{"guid": "dev-475", "text_a": "arriving the field me show love flights at", "text_b": null, "label": "flight"}
+{"guid": "dev-476", "text_a": "aircraft me at you the of please on used eastern denver flight tell can 555 flying 825 to atlanta type leaving from", "text_b": null, "label": "aircraft"}
+{"guid": "dev-477", "text_a": "from have flights could please the orlando i to newark", "text_b": null, "label": "flight"}
+{"guid": "dev-478", "text_a": "from i on need information denver to a boston flight", "text_b": null, "label": "flight"}
+{"guid": "dev-479", "text_a": "montreal chicago the flights to show me from", "text_b": null, "label": "flight"}
+{"guid": "dev-480", "text_a": "price ticket least of first trip us air from class the the cleveland what expensive round miami 's to on", "text_b": null, "label": "airfare"}
+{"guid": "dev-481", "text_a": "class from what indianapolis orlando is first fare to the", "text_b": null, "label": "airfare"}
+{"guid": "dev-482", "text_a": "afternoon flights information on philadelphia to from denver", "text_b": null, "label": "flight"}
+{"guid": "dev-483", "text_a": "and the is on july denver to airlines earliest from arriving flight united fourth what flying baltimore", "text_b": null, "label": "flight"}
+{"guid": "dev-484", "text_a": "to cleveland newark", "text_b": null, "label": "flight"}
+{"guid": "dev-485", "text_a": "denver in show me ground transportation", "text_b": null, "label": "ground_service"}
+{"guid": "dev-486", "text_a": "francisco boston me the show delta to san from flights", "text_b": null, "label": "flight"}
+{"guid": "dev-487", "text_a": "noon are cleveland from that on before flights of to what type leave aircraft dallas used", "text_b": null, "label": "aircraft"}
+{"guid": "dev-488", "text_a": "coach the from to for pittsburgh fares are flights denver what", "text_b": null, "label": "airfare"}

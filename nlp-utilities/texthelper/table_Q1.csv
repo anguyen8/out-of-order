@@ -1,0 +1,56 @@
+identifier,task_type,benchmark,input,shuffled_data,output,human_experiment,reported,ours,original,shuffled_unigram,shuffled_bigram,shuffled_trigram,baseline_dist,baseline_random,note,examples_dev_set,original_metrics,chosen_metric,score_unigram,score_bigram,score_trigram
+CoLA,Acceptability,GLUE,1 sentence,Sentence,0/1,/ 66.4,49.23 / 52.1,57.78 / 52.3,81.89,33.72,45.66,52.89,69.13,,Unacceptable / Acceptable,1038,Matthew's Corr,Accuracy,3.78,2.84,2.27
+WSC,Coreference Resolution,SuperGLUE,text + 2 spans,Sentence includes span2,true / false,/ 100.0,68.3 / 64.4,66.3 / 63.0,66.3,62.12,64.62,63.06,63.46,38.5,Detect if the second span refers to the first one. Span2 may be in the same or different sentence with span1.,104,Accuracy,Accuracy,1.47,0.59,1.14
+RTE_G,NLI,GLUE,2 sentences,"Hypothesis
+(sentence2)","entailment / 
+not_entailment",/ 93.6,61.73 / 66.4,64.26 / 65.0,64.25,54.73,57.76,62.74,52.71,,,277,Accuracy,Accuracy,0.82,0.56,0.13
+ReCoRD,Q/A,SuperGLUE,passage + query (with placeholder) + multiple spans,Question,spans,/ 91.3,F1: 70.6 / 72.0,F1: 63.9 / 64.2,63.6,29.2,37.3,43.6,,20.1,"Given multiple spans, which can be used to fill in the blank (@placeholder) of query, select the most correct one",9999,F1 / EM,Precision,0.79,0.6,0.46
+RTE_SG,NLI,SuperGLUE,premise + hypothesis,Hypothesis,entailment / not_entailment,/ 93.6,75.8 / 71.7,69.7 / 68,69.7,58.8,64.04,66.86,52.71,,,277,Accuracy,Accuracy,0.64,0.33,0.17
+SemEval2014,Text Classification,,1 sentence (almost),Sentence,4 tags,,n/a,97.05 / 84.15,97.1,80.52,85.51,90.02,68,,Classify a sentence to one of 4 tags,617,Accuracy,Accuracy,0.57,0.4,0.24
+ATIS-NER,NER,,1 sentence,Sentence,130 tags,,n/a,96.29 / 93.62,96.34,58.06,76.89,84.77,20.15,,Classify each token to one of 130 tags,489,F1,Precision,0.5,0.26,0.15
+ATIS,Text Classification,,1 sentence,Sentence,26 tags,,n/a,99.95 / 97.49,99.99,90.14,93.66,95.5,75,,Classify a sentence to one of 26 tags,489,Accuracy,Accuracy,0.39,0.25,0.18
+QQP,Paraphrase,GLUE,2 questions,Question 1,0/1,/ 80.4,"Acc: 88.4 / n/a
+F1: 84.31 / 71.2","Acc: 91.08 / 89.3 
+F1: 87.95 / 71.6",90.81,80.64,84.55,86.3,63.18,,Not duplicated / Duplicated,37233,Acc / F1,Accuracy,0.37,0.23,0.16
+BoolQ,Q/A,SuperGLUE,passage + question,Question,true / false,/ 89,77.7 / 77.4,76.1 / 74.8,76.5,71.9,73.6,74.5,62.17,,Question answering dataset for Yes/No questions,3270,Accuracy,Accuracy,0.32,0.2,0.14
+SST-2,Text Classification,GLUE,1 sentence,Sentence,0/1,/ 97.8,91.97 / 93.5,92.09 / 93.6,92.09,79.93,85.44,85.55,50.92,,Negative / Positive,872,Accuracy,Accuracy,0.3,0.16,0.16
+MRPC,Paraphrase,GLUE,2 sentences,Sentence 1,0/1,/ 80.8,"Acc: 85.29 / n/a
+F1: 89.47 / 88.9","Acc: 85.54 / 83.9 
+F1: 89.77 / 88.2",85.54,80.34,81.47,82.35,68.38,,Not paraphrased / Paraphrased,408,Acc / F1,Accuracy,0.3,0.24,0.19
+SQuAD-v1,Q/A,Stanford,"question (1 sent) 
++ passage",Question,start_index & end_index,"EM: 80.3 / 77.0
+F1: 90.5 / 86.8","F1 (Dev only): 
+88.5: base-unc
+93.15: large-unc-wwm","F1 (Dev only):
+88.68: base-unc 
+93.16: large-unc-wwm",89.19,67.25,80.25,84.3,,5.49,,10564,F1,Precision,0.26,0.11,0.06
+WiC,Word Sense Disambiguation,SuperGLUE,2 sentences,Sentence 1,true / false,/ 80.0,74.9 / 69.6,70.4 / 69.3,70.4,65,68.8,69.3,50,,"Given the same word in 2 contexts, predict if they have the same meaning",638,Accuracy,Accuracy,0.26,0.08,0.05
+COPA,Multiple Choice,SuperGLUE,"premise + question (cause / effect) + 
+2 choices",Premise,0 / 1,/ 100.0,69.0 / 70.6,65.0 / 63.6,65,62.6,62.8,63.6,55,,Select the plausible choice for a given question (cause/effect): 0 for choice 1 and 1 for choice 2,100,Accuracy,Accuracy,0.24,0.22,0.14
+MNLI-mm,NLI,GLUE,2 sentences,Hypothesis,"entailment / 
+contradiction / 
+neutral",/ 92.8,81.08 / 83.4,84.78 / 83.6,84.79,73.38,78.27,79.81,35.22,,,9804,Accuracy,Accuracy,0.23,0.13,0.1
+MNLI-m,NLI,GLUE,2 sentences,Hypothesis,"entailment / 
+contradiction / 
+neutral",/ 92,80.61 / 84.6,84.89 / 84.6,84.87,73.75,79.02,80.54,35.44,,,9790,Accuracy,Accuracy,0.22,0.12,0.09
+QNLI,NLI,GLUE,"1 question +
+1 sentence",Question,"entailment / 
+not_entailment",/ 91.2,87.46 / 90.5,91.38 / 90.4,91.38,84.61,88.43,89.07,50.54,,Check if the given sentence is a correct answer to the question,5463,Accuracy,Accuracy,0.17,0.07,0.06
+SNLI,NLI,Stanford,premise + hypothesis,Hypothesis,entailment / contradiction / neutral,,"n/a / 91.9
+(bert-wwm)","92.2 / 91.94: bert-wwm
+90.46 / 90.43: base-unc",89.35,82.7,85.31,87.21,33.82,,,10000,Accuracy,Accuracy,0.12,0.07,0.04
+SWAG,Multiple Choice,,context (1 sent) + question (one word) + 4 answers),Context,0 / 1 / 2 / 3,88,81.6 / n/a,81.51 / n/a,81.5,76.56,78.35,80.04,25.18,,Question has 1-2 words. Select the best answer between 4 options following the question.,19991,Accuracy,Accuracy,0.09,0.06,0.03
+CB,NLI,SuperGLUE,premise + hypothesis,Hypothesis,entailment / contradiction / neutral,/ 98.9,94.6 / 83.6,87.5 / 86.8,87.5,86.42,84.26,86.42,50,,,56,Avg. F1 / Accuracy,Accuracy,0.03,0.09,0.03
+STS-B,Sentence Similarity,GLUE,2 sentences,Sentence 1,"[0,5]",/ 92.6,"Spearman: 
+83.7 / 85.8","Spearman:
+88.49 / 81.0",88.69,87.77,88.25,88.11,,61.82,,1500,Pearson / Spearmanr / Corr,Correlation,0.03,0.02,0.02
+MultiRC,Q/A,SuperGLUE,passage + question + multiple answers per question,Question,0 / 1,"EM: 51.9
+F1a: 81.8",F1: 70.5 / 70.0,F1: 66.6 / 66.3,69.5,69.2,69.1,69.3,,46.2,Evaluate the correctness (label=1) of each answer-option individually. The correct answer(s) is not required to be a span in the text.,4798,F1a / EM,Accuracy,0.01,0.02,0.01
+WNLI,Coreference Resolution,GLUE,2 sentences,Sentence 1,0/1,/ 95.9,45.07 / n/a,56.34 / 65.1,56.34,56.34,56.34,56.34,56.34,,"Not entailment / Entailment
+Sentence 1 includes coref information",71,Accuracy,Accuracy,0,0,0
+SQuAD-v2,Q/A,Stanford,"question (1 sent) 
++ passage",Question,"start_index & end_index
+or no_answer","EM: 86.3 / 86.9
+F1: 89.0 / 89.45","F1 (Dev only): 
+75.75: base-unc","F1 (Dev only): 
+75.83: base-unc",71.92,76.13,74.09,72.82,50,0.98,,5944,F1,Precision,-0.19,-0.1,-0.04

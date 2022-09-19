@@ -1,0 +1,1056 @@
+*********** Sample 0 ***********
+Sentence: {'text_a': "He said the foodservice pie business doesn 't fit the company 's long-term growth strategy .", 'text_b': '" The foodservice pie business does not fit our long-term growth strategy .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "He said the foodservice growth business doesn 't fit the company 's long-term pie strategy .", 'text_b': '" The foodservice pie business does not fit our long-term growth strategy .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 3 ***********
+Sentence: {'text_a': 'The AFL-CIO is waiting until October to decide if it will endorse a candidate .', 'text_b': 'The AFL-CIO announced Wednesday that it will decide in October whether to endorse a candidate before the primaries .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The October is waiting until AFL-CIO to decide if it will endorse a candidate .', 'text_b': 'The AFL-CIO announced Wednesday that it will decide in October whether to endorse a candidate before the primaries .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 5 ***********
+Sentence: {'text_a': 'Wal-Mart said it would check all of its million-plus domestic workers to ensure they were legally employed .', 'text_b': 'It has also said it would review all of its domestic employees more than 1 million to ensure they have legal status .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'workers said it would check all of its million-plus domestic Wal-Mart to ensure they were legally employed .', 'text_b': 'It has also said it would review all of its domestic employees more than 1 million to ensure they have legal status .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 6 ***********
+Sentence: {'text_a': 'The delegates said raising and distributing funds has been complicated by the U.S. crackdown on jihadi charitable foundations , bank accounts of terror-related organizations and money transfers .', 'text_b': 'Bin Laden ’ s men pointed out that raising and distributing funds has been complicated by the U.S. crackdown on jihadi charitable foundations , bank accounts of terror-related organizations and money transfers .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The delegates said raising and distributing funds has been complicated by the U.S. crackdown on accounts charitable foundations , bank jihadi of terror-related organizations and money transfers .', 'text_b': 'Bin Laden ’ s men pointed out that raising and distributing funds has been complicated by the U.S. crackdown on jihadi charitable foundations , bank accounts of terror-related organizations and money transfers .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 9 ***********
+Sentence: {'text_a': 'The only announced Republican to replace Davis is Rep. Darrell Issa of Vista , who has spent $ 1.71 million of his own money to force a recall .', 'text_b': 'So far the only declared major party candidate is Rep. Darrell Issa , a Republican who has spent $ 1.5 million of his own money to fund the recall .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The only announced Davis to replace Republican is Rep. Darrell Issa of Vista , who has spent $ 1.71 million of his own money to force a recall .', 'text_b': 'So far the only declared major party candidate is Rep. Darrell Issa , a Republican who has spent $ 1.5 million of his own money to fund the recall .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 10 ***********
+Sentence: {'text_a': 'The decision to issue new guidance has been prompted by intelligence passed to Britain by the FBI in a secret briefing in late July .', 'text_b': "Scotland Yard 's decision to issue new guidance has been prompted by new intelligence passed to Britain by the FBI in late July ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The decision to issue new guidance has been prompted by intelligence passed to July by the FBI in a secret briefing in late Britain .', 'text_b': "Scotland Yard 's decision to issue new guidance has been prompted by new intelligence passed to Britain by the FBI in late July ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 11 ***********
+Sentence: {'text_a': "The decision came a year after Whipple ended federal oversight of the district 's racial balance , facilities , budget , and busing .", 'text_b': "The decision came a year after Whipple ended federal oversight of school busing as well as the district 's racial balance , facilities and budget ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "The budget came a year after Whipple ended federal oversight of the district 's racial balance , facilities , decision , and busing .", 'text_b': "The decision came a year after Whipple ended federal oversight of school busing as well as the district 's racial balance , facilities and budget ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 14 ***********
+Sentence: {'text_a': 'Last month Intel raised its revenue guidance for the quarter to between $ 7.6 billion and $ 7.8 billion .', 'text_b': 'At the end of the second quarter , Intel initially predicted sales of between $ 6.9 billion and $ 7.5 billion .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Last revenue Intel raised its month guidance for the quarter to between $ 7.6 billion and $ 7.8 billion .', 'text_b': 'At the end of the second quarter , Intel initially predicted sales of between $ 6.9 billion and $ 7.5 billion .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 16 ***********
+Sentence: {'text_a': 'The association said 28.2 million DVDs were rented in the week that ended June 15 , compared with 27.3 million VHS cassettes .', 'text_b': 'The Video Software Dealers Association said 28.2 million DVDs were rented out last week , compared to 27.3 million VHS cassettes .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The association said 28.2 million week were rented in the DVDs that ended June 15 , compared with 27.3 million VHS cassettes .', 'text_b': 'The Video Software Dealers Association said 28.2 million DVDs were rented out last week , compared to 27.3 million VHS cassettes .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 18 ***********
+Sentence: {'text_a': 'At community colleges , tuition will jump to $ 2,800 from $ 2,500 .', 'text_b': 'Community college students will see their tuition rise by $ 300 to $ 2,800 or 12 percent .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'At tuition colleges , community will jump to $ 2,800 from $ 2,500 .', 'text_b': 'Community college students will see their tuition rise by $ 300 to $ 2,800 or 12 percent .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 22 ***********
+Sentence: {'text_a': 'Per-user pricing is $ 29 for Workplace Messaging , $ 89 for Team Collaboration and $ 35 for Collaborative Learning .', 'text_b': 'Workplace Messaging is $ 29 , Workplace Team Collaboration is $ 89 , and Collaborative Learning is $ 35 .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Per - user pricing is $ 29 for Workplace Messaging , $ 89 for Team Collaborative and $ 35 for Collaboration Learning .', 'text_b': 'Workplace Messaging is $ 29 , Workplace Team Collaboration is $ 89 , and Collaborative Learning is $ 35 .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 24 ***********
+Sentence: {'text_a': 'Authorities had no evidence to suggest the two incidents were connected .', 'text_b': 'There was no immediate evidence that the two incidents were connected , police said .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'evidence had no Authorities to suggest the two incidents were connected .', 'text_b': 'There was no immediate evidence that the two incidents were connected , police said .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 28 ***********
+Sentence: {'text_a': 'United issued a statement saying it will " work professionally and cooperatively with all its unions . "', 'text_b': 'Senior vice president Sara Fields said the airline " will work professionally and cooperatively with all our unions . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'United issued a unions saying it will " work professionally and cooperatively with all its statement . "', 'text_b': 'Senior vice president Sara Fields said the airline " will work professionally and cooperatively with all our unions . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 29 ***********
+Sentence: {'text_a': '" But they never climb out of the pot of beer again . "', 'text_b': 'It \'s just that they never climb out of the beer again . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" But they never climb out of the beer of pot again . "', 'text_b': 'It \'s just that they never climb out of the beer again . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 30 ***********
+Sentence: {'text_a': "HP 's shipments increased 48 percent year-over-year , compared to an increase of 31 percent for Dell .", 'text_b': 'HPs shipments increased 48 per cent year-on-year , compared to an increase of 31 per cent for Dell .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "HP 's year increased 48 percent shipments - over - year , compared to an increase of 31 percent for Dell .", 'text_b': 'HPs shipments increased 48 per cent year-on-year , compared to an increase of 31 per cent for Dell .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 31 ***********
+Sentence: {'text_a': 'Prosecutors allege that Nichols and co-conspirator Timothy McVeigh worked together to prepare a bomb that destroyed the Alfred P. Murrah Federal Building .', 'text_b': 'Prosecutors allege that Nichols and coconspirator Timothy McVeigh worked together to prepare a 4,000-pound fuel-and-fertilizer bomb that destroyed the Murrah building .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Prosecutors allege that Nichols and Alfred Timothy McVeigh worked together to prepare a bomb that destroyed the co-conspirator P. Murrah Federal Building .', 'text_b': 'Prosecutors allege that Nichols and coconspirator Timothy McVeigh worked together to prepare a 4,000-pound fuel-and-fertilizer bomb that destroyed the Murrah building .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 32 ***********
+Sentence: {'text_a': "PeopleSoft also said its board had officially rejected Oracle 's offer .", 'text_b': "Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "PeopleSoft also said its Oracle had officially rejected board 's offer .", 'text_b': "Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 34 ***********
+Sentence: {'text_a': '" The idea that Tony Abbott is in some way a one-dimensional political head-kicker couldn \'t be more wrong , " Mr Howard said .', 'text_b': '" The idea that Tony Abbott is in some way a one-dimensional political head kicker couldn \'t be more wrong . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" The idea that Tony Mr is in some way a one-dimensional political head-kicker couldn \'t be more wrong , " Abbott Howard said .', 'text_b': '" The idea that Tony Abbott is in some way a one-dimensional political head kicker couldn \'t be more wrong . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 36 ***********
+Sentence: {'text_a': 'The rate of skin cancer has tripled since the 1950s in Norway and Sweden , according to the study .', 'text_b': 'The study also found that skin cancer nearly tripled in Norway and Sweden since the 1950s .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The rate of skin cancer has tripled since the 1950s in Sweden and Norway , according to the study .', 'text_b': 'The study also found that skin cancer nearly tripled in Norway and Sweden since the 1950s .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 37 ***********
+Sentence: {'text_a': 'Carlson on Tuesday said he would not recuse himself from the case .', 'text_b': 'Service officials said Carlson refused to recuse himself from the case .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'case on Tuesday said he would not recuse himself from the Carlson .', 'text_b': 'Service officials said Carlson refused to recuse himself from the case .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 40 ***********
+Sentence: {'text_a': 'University of Michigan President Mary Sue Coleman said in a statement on the university \'s Web site , " Our fundamental values haven \'t changed .', 'text_b': '" Our fundamental values haven \'t changed , " Mary Sue Coleman , president of the university , said in a statement in Ann Arbor .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'University of Coleman President Mary Sue Michigan said in a statement on the university \'s Web site , " Our fundamental values haven \'t changed .', 'text_b': '" Our fundamental values haven \'t changed , " Mary Sue Coleman , president of the university , said in a statement in Ann Arbor .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 42 ***********
+Sentence: {'text_a': "Michel , who remains in the government , denied that US pressure had provoked the government 's move .", 'text_b': "Michel , who has stayed in the new government , denied that it was U.S. pressure which had provoked the government 's move ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Michel , who remains in the pressure , denied that US government had provoked the government 's move .", 'text_b': "Michel , who has stayed in the new government , denied that it was U.S. pressure which had provoked the government 's move ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 43 ***********
+Sentence: {'text_a': 'Later this year , the command will send trainers with soldiers from four North African nations on patrolling and intelligence gathering missions .', 'text_b': 'This fall the command will send trainers to work with soldiers from four North African nations on patrolling and gathering intelligence .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Later this North , the command will send trainers with soldiers from four year African nations on patrolling and intelligence gathering missions .', 'text_b': 'This fall the command will send trainers to work with soldiers from four North African nations on patrolling and gathering intelligence .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 45 ***********
+Sentence: {'text_a': "If the MTA 's appeal to a higher court is successful , the $ 2 bus and subway base fare won 't be rolled back .", 'text_b': "If the MTA 's appeal is successful , the $ 2 bus and subway base fare won 't change ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "If the MTA 's court to a higher appeal is successful , the $ 2 bus and subway base fare won ' t be rolled back .", 'text_b': "If the MTA 's appeal is successful , the $ 2 bus and subway base fare won 't change ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 46 ***********
+Sentence: {'text_a': 'The Guru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS ( Basic Input Output System ) update and a troubleshooting-assistance feature called Black Box .', 'text_b': 'The µGuru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS update and a troubleshooting-assistance feature called Black Box .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Guru microcontroller serves four functions : hardware monitoring , overclocking management , Box ( Basic Input Output System ) update and a troubleshooting-assistance feature called Black BIOS .', 'text_b': 'The µGuru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS update and a troubleshooting-assistance feature called Black Box .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 48 ***********
+Sentence: {'text_a': "Twenty-eight people were believed to have been spending Christmas Day with the caretaker of the St Sophia 's camp , when the mudslide smashed into two cabins .", 'text_b': 'Twenty-seven people were believed to have been spending Christmas Day with the caretaker of Saint Sophia Camp , a Greek Orthodox facility , when the mudslide roared through .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Twenty-eight cabins were believed to have been spending Christmas Day with the caretaker of the St Sophia 's camp , when the mudslide smashed into two people .", 'text_b': 'Twenty-seven people were believed to have been spending Christmas Day with the caretaker of Saint Sophia Camp , a Greek Orthodox facility , when the mudslide roared through .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 51 ***********
+Sentence: {'text_a': '" There is no conscious policy of the United States , I can assure you of this , to move the dollar at all , " he said .', 'text_b': 'He also said there is no conscious policy by the United States to move the value of the dollar .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" There is no conscious dollar of the United States , I can assure you of this , to move the policy at all , " he said .', 'text_b': 'He also said there is no conscious policy by the United States to move the value of the dollar .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 52 ***********
+Sentence: {'text_a': "It 's the first such drill since the September 11 terrorist attacks on New York and Washington .", 'text_b': "It is the nation 's first large-scale counterterrorism exercise since the Sept . 11 terrorist attacks ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "It 's the first such drill since the September 11 terrorist attacks on New Washington and York .", 'text_b': "It is the nation 's first large-scale counterterrorism exercise since the Sept . 11 terrorist attacks ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 53 ***********
+Sentence: {'text_a': 'According to the Merchant Marine Ministry , the 37-year-old ship is registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .', 'text_b': 'The Baltic Sky is a 37-year-old ship registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'According to the Merchant Marine Ministry , the 37-year-old ship is registered to Islands Shipping Inc. based in the Pacific Ocean nation of Marshall Alpha .', 'text_b': 'The Baltic Sky is a 37-year-old ship registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 54 ***********
+Sentence: {'text_a': 'In an unusual move , the U.S. Patent and Trademark Office is reconsidering a patent affecting Internet pages that critics contend could disrupt millions of Web sites .', 'text_b': 'In an unusual move that critics contend could disrupt millions of Web sites , the U.S. Patent and Trademark Office is reconsidering a patent affecting Internet pages .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'In an unusual move , the U.S. Patent and Trademark Office is reconsidering a patent affecting Internet pages that sites contend could disrupt millions of Web critics .', 'text_b': 'In an unusual move that critics contend could disrupt millions of Web sites , the U.S. Patent and Trademark Office is reconsidering a patent affecting Internet pages .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 57 ***********
+Sentence: {'text_a': "Barry Callebaut will be able to use Brach 's retail network to sell products made from its German subsidiary Stollwerck , which makes chocolate products not sold in the United States .", 'text_b': "Barry Callebaut will be able to use Brach 's retail network to sell products made from its German subsidiary Stollwerck , which makes chocolate products unknown to the American market ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Barry States will be able to use Brach 's retail network to sell products made from its German subsidiary Stollwerck , which makes chocolate products not sold in the United Callebaut .", 'text_b': "Barry Callebaut will be able to use Brach 's retail network to sell products made from its German subsidiary Stollwerck , which makes chocolate products unknown to the American market ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 60 ***********
+Sentence: {'text_a': 'No company employee has received an individual target letter at this time .', 'text_b': 'She said no company official had received " an individual target letter at this time . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'No company time has received an individual target letter at this employee .', 'text_b': 'She said no company official had received " an individual target letter at this time . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 62 ***********
+Sentence: {'text_a': 'Worldwide , more than 50 million people have seen " Les Miz , " with gross receipts of $ 1.8 billion .', 'text_b': 'Worldwide , Les Misérables has been seen by over 50 million people , with a total gross of over $ 2 billion .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Worldwide , more than 50 million receipts have seen " Les Miz , " with gross people of $ 1.8 billion .', 'text_b': 'Worldwide , Les Misérables has been seen by over 50 million people , with a total gross of over $ 2 billion .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 65 ***********
+Sentence: {'text_a': 'The Centers for Medicare and Medicaid Services , the federal agency that runs Medicare , last year began a similar effort for nursing homes .', 'text_b': 'The Centers for Medicare and Medicaid launched a similar consumer tool for nursing homes last year .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Services for Medicare and Medicaid Centers , the federal agency that runs Medicare , last year began a similar effort for nursing homes .', 'text_b': 'The Centers for Medicare and Medicaid launched a similar consumer tool for nursing homes last year .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 68 ***********
+Sentence: {'text_a': "The Democratic candidates also began announcing their fund-raising totals before Wednesday 's deadline to file quarterly reports with the Federal Election Commission .", 'text_b': 'The Democratic candidates also began announcing their fund-raising totals in advance of the deadline today to file quarterly reports with the Federal Election Commission .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "The Democratic candidates also began announcing their reports totals before Wednesday 's deadline to file quarterly fund-raising with the Federal Election Commission .", 'text_b': 'The Democratic candidates also began announcing their fund-raising totals in advance of the deadline today to file quarterly reports with the Federal Election Commission .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 69 ***********
+Sentence: {'text_a': "Prosecutors said PW Marketing violated the state 's 1998 anti-spam law by sending unsolicited e-mail without a toll-free number for recipients to call to stop additional mailings .", 'text_b': 'Prosecutors said PW Marketing violated the 1998 anti-spam law because these unsolicited e-mails were sent without a free call number for recipients to phone to stop additional mailings .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Prosecutors said PW Marketing violated the state 's 1998 anti-spam mailings by sending unsolicited e-mail without a toll-free number for recipients to call to stop additional law .", 'text_b': 'Prosecutors said PW Marketing violated the 1998 anti-spam law because these unsolicited e-mails were sent without a free call number for recipients to phone to stop additional mailings .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 72 ***********
+Sentence: {'text_a': "He added : ``I 've never heard of more reprehensiblebehaviour by a doctor .", 'text_b': 'The Harrisons ’ lawyer Paul LiCalsi said : “ I ’ ve never heard of more reprehensible behaviour by a doctor .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "He added : ` ` I ' ve never heard of more doctor by a reprehensiblebehaviour .", 'text_b': 'The Harrisons ’ lawyer Paul LiCalsi said : “ I ’ ve never heard of more reprehensible behaviour by a doctor .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 73 ***********
+Sentence: {'text_a': 'Other staff members , however , defended the document , saying it would still help policy-makers and the agency improve efforts to address the climate issue .', 'text_b': 'Some E.P.A. staff members defended the document , saying that although pared down it would still help policy makers and the agency address the climate issue .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Other staff efforts , however , defended the document , saying it would still help policy-makers and the agency improve members to address the climate issue .', 'text_b': 'Some E.P.A. staff members defended the document , saying that although pared down it would still help policy makers and the agency address the climate issue .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 75 ***********
+Sentence: {'text_a': '" He may not have been there , " the defence official said on Thursday .', 'text_b': '" He may not have been there , " said a defence official speaking on condition of anonymity .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" He may not have been there , " the defence Thursday said on official .', 'text_b': '" He may not have been there , " said a defence official speaking on condition of anonymity .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 76 ***********
+Sentence: {'text_a': 'The U.N. troops are in Congo to protect U.N. installations and personnel , and they can only fire in self defense and have been unable to stem the violence .', 'text_b': 'The troops - whose mandate is to protect U.N. installations and personnel - can only fire in self-defense and have been unable to stem the violence .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The U.N. troops are in Congo to protect U.N. installations and self , and they can only fire in personnel defense and have been unable to stem the violence .', 'text_b': 'The troops - whose mandate is to protect U.N. installations and personnel - can only fire in self-defense and have been unable to stem the violence .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 77 ***********
+Sentence: {'text_a': 'North American markets grabbed early gains Monday morning , as earnings season begins to slow and economic indicators take the spotlight .', 'text_b': 'North American futures pointed to a strong start to the first trading session of the week Monday , as earnings season slows and economic indicators take the spotlight .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'North American markets grabbed early spotlight Monday morning , as earnings season begins to slow and economic indicators take the gains .', 'text_b': 'North American futures pointed to a strong start to the first trading session of the week Monday , as earnings season slows and economic indicators take the spotlight .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 80 ***********
+Sentence: {'text_a': "Gamarekian told The News she remembers only the woman 's first name - and refused to reveal it .", 'text_b': "She told the New York Daily News she remembers only the intern 's first name , which she refused to reveal ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "News told The Gamarekian she remembers only the woman 's first name - and refused to reveal it .", 'text_b': "She told the New York Daily News she remembers only the intern 's first name , which she refused to reveal ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 81 ***********
+Sentence: {'text_a': 'One of the FBI ’ s key operatives , who had a falling out with the bureau , provided an account of the operation at a friend ’ s closed immigration court proceeding .', 'text_b': "One of the FBI 's key operatives , who has had a falling-out with the bureau , provided an account of the operation at a friend 's closed immigration court proceeding ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'One of the FBI ’ s key operatives , who had a falling out with the friend , provided an account of the operation at a bureau ’ s closed immigration court proceeding .', 'text_b': "One of the FBI 's key operatives , who has had a falling-out with the bureau , provided an account of the operation at a friend 's closed immigration court proceeding ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 82 ***********
+Sentence: {'text_a': "A nationally board certified teacher with a master 's degree , Kelley makes a salary of $ 65,000 in his 30th year .", 'text_b': "A nationally board certified teacher with a master 's degree , Kelley , in his 30th year teaching , makes $ 65,000 ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "A nationally board certified teacher with a master 's degree , Kelley makes a year of $ 65,000 in his 30th salary .", 'text_b': "A nationally board certified teacher with a master 's degree , Kelley , in his 30th year teaching , makes $ 65,000 ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 83 ***********
+Sentence: {'text_a': 'They were being held Sunday in the Camden County Jail on $ 100,000 bail .', 'text_b': 'They remained in Camden County Jail on Sunday on $ 100,000 bail .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'They were being held Camden in the Sunday County Jail on $ 100,000 bail .', 'text_b': 'They remained in Camden County Jail on Sunday on $ 100,000 bail .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 84 ***********
+Sentence: {'text_a': 'Ms Stewart , the chief executive , was not expected to attend .', 'text_b': 'Ms Stewart , 61 , its chief executive officer and chairwoman , did not attend .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'executive Stewart , the chief Ms , was not expected to attend .', 'text_b': 'Ms Stewart , 61 , its chief executive officer and chairwoman , did not attend .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 85 ***********
+Sentence: {'text_a': 'The Justice Department Aug. 19 gave pre-clearance for the Oct. 7 date for the election to recall Gov. Gray Davis , saying it would not affect minority voting rights .', 'text_b': 'The Justice Department on Aug. 19 sanctioned the Oct. 7 date for recall election , saying it would not affect voting rights .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Justice Aug. Department 19 gave pre-clearance for the Oct. 7 date for the election to recall Gov. Gray Davis , saying it would not affect minority voting rights .', 'text_b': 'The Justice Department on Aug. 19 sanctioned the Oct. 7 date for recall election , saying it would not affect voting rights .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 89 ***********
+Sentence: {'text_a': 'For the second year in a row , rises in hospital costs accounted for much of the inflation , accounting for 51 percent of the overall cost increase .', 'text_b': 'For the second year in a row , rises in hospital costs dominated the increase , accounting for 51 percent of the overall cost spiral .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'For the second year in a percent , rises in hospital costs accounted for much of the inflation , accounting for 51 row of the overall cost increase .', 'text_b': 'For the second year in a row , rises in hospital costs dominated the increase , accounting for 51 percent of the overall cost spiral .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 90 ***********
+Sentence: {'text_a': 'The airline also said it has the option to buy 380 more airplanes , orders that would be split evenly between the two manufacturers .', 'text_b': 'The airline has the option to buy 380 more , split evenly between the two manufacturers .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The option also said it has the airline to buy 380 more airplanes , orders that would be split evenly between the two manufacturers .', 'text_b': 'The airline has the option to buy 380 more , split evenly between the two manufacturers .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 91 ***********
+Sentence: {'text_a': "Dr Mark McClean , Jonathan 's family doctor , said if the drug had been administered earlier Jonathan would have retained more of his brain functions .", 'text_b': "Dr Mark McClean , the family 's GP , said had the drug been administered to Jonathan earlier , he would have retained more of his brain function ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Jonathan Mark McClean , Dr 's family doctor , said if the drug had been administered earlier Jonathan would have retained more of his brain functions .", 'text_b': "Dr Mark McClean , the family 's GP , said had the drug been administered to Jonathan earlier , he would have retained more of his brain function ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 93 ***********
+Sentence: {'text_a': "Federal regulators have turned from sour to sweet on a proposed $ 2.8 billion merger of ice cream giants Nestle Holdings Inc. and Dreyer 's Grand Ice Cream Inc .", 'text_b': "Federal regulators have changed their minds on a proposed $ 2.8 billion merger of ice cream giants Nestle Holdings and Dreyer 's Grand Ice Cream ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Federal regulators have turned from sour to sweet on a proposed $ 2.8 billion merger of Dreyer cream giants Nestle Holdings Inc. and ice 's Grand Ice Cream Inc .", 'text_b': "Federal regulators have changed their minds on a proposed $ 2.8 billion merger of ice cream giants Nestle Holdings and Dreyer 's Grand Ice Cream ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 95 ***********
+Sentence: {'text_a': "Kelly killed himself after being exposed as the source for a BBC report which claimed the government had embellished evidence of Iraq 's banned weapons to justify the war .", 'text_b': 'He killed himself after being exposed as the source for a BBC report which claimed the government exaggerated the case for war against Iraq .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Kelly killed himself after being exposed as the source for a BBC report which claimed the government had embellished war of Iraq 's banned weapons to justify the evidence .", 'text_b': 'He killed himself after being exposed as the source for a BBC report which claimed the government exaggerated the case for war against Iraq .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 100 ***********
+Sentence: {'text_a': 'Cindy Yeast , a 50-year-old Washington-area publicist , says she began taking supplements two years ago in part to avoid mild dementia that affects her elderly parents .', 'text_b': 'She started taking supplements two years ago - partly to stave off mild dementia that affects her elderly parents .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Cindy Yeast , a 50-year-old Washington-area publicist , says she began taking part two years ago in supplements to avoid mild dementia that affects her elderly parents .', 'text_b': 'She started taking supplements two years ago - partly to stave off mild dementia that affects her elderly parents .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 101 ***********
+Sentence: {'text_a': 'Gibson said last month in a press statement that " neither I nor my film are anti-Semitic .', 'text_b': 'Gibson said in a June statement that he and his film are not anti-Semitic .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Gibson said last press in a month statement that " neither I nor my film are anti - Semitic .', 'text_b': 'Gibson said in a June statement that he and his film are not anti-Semitic .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 103 ***********
+Sentence: {'text_a': '" We will work with the board to ensure a smooth transition . "', 'text_b': 'He said federal regulators would work with the corporation to ensure a " smooth transition . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" We will work with the transition to ensure a smooth board . "', 'text_b': 'He said federal regulators would work with the corporation to ensure a " smooth transition . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 106 ***********
+Sentence: {'text_a': 'We firmly believe we have an absolute right to use the common word \' spike \' as the name of our network . "', 'text_b': "We firmly believe that we have an absolute right to use the common word ' spike ' to name our network ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'We firmly believe we have an word right to use the common absolute \' spike \' as the name of our network . "', 'text_b': "We firmly believe that we have an absolute right to use the common word ' spike ' to name our network ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 107 ***********
+Sentence: {'text_a': 'But MTA officials appropriated the money to the 2003 and 2004 budgets without notifying riders or even the MTA board members considering the 50-cent hike , Hevesi found .', 'text_b': "MTA officials appropriated the surplus money to later years ' budgets without notifying riders or the MTA board members when the 50-cent hike was being considered , he said ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'But budgets officials appropriated the money to the 2003 and 2004 MTA without notifying riders or even the MTA board members considering the 50-cent hike , Hevesi found .', 'text_b': "MTA officials appropriated the surplus money to later years ' budgets without notifying riders or the MTA board members when the 50-cent hike was being considered , he said ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 110 ***********
+Sentence: {'text_a': 'He is charged in three bombings in Atlanta including a blast at the 1996 Olympics and one in Alabama .', 'text_b': 'He is charged in three bombings in Atlanta - including a blast at the 1996 Olympics - along with the bombing in Alabama .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'He is charged in three bombings in Atlanta including a blast at the 1996 Alabama and one in Olympics .', 'text_b': 'He is charged in three bombings in Atlanta - including a blast at the 1996 Olympics - along with the bombing in Alabama .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 111 ***********
+Sentence: {'text_a': 'He said his hatred for such people grew from these discussions and had helped convince him violence was the answer .', 'text_b': 'His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'He said his hatred for such people grew from these discussions and had helped convince him answer was the violence .', 'text_b': 'His hatred for these people had germinated from these discussions and helped cement his belief that violence was the panacea .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 112 ***********
+Sentence: {'text_a': 'The announcement was made during the recording of a Christmas concert attended by top Vatican cardinals , bishops , and many elite from Italian society , witnesses said .', 'text_b': 'The broadside came during the recording on Saturday night of a Christmas concert attended by top Vatican cardinals , bishops and many elite of Italian society , witnesses said .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The announcement was made during the recording of a Christmas concert attended by top Vatican cardinals , bishops , and many witnesses from Italian society , elite said .', 'text_b': 'The broadside came during the recording on Saturday night of a Christmas concert attended by top Vatican cardinals , bishops and many elite of Italian society , witnesses said .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 113 ***********
+Sentence: {'text_a': 'The additional contribution brings total U.S. food aid to North Korea this year to 100,000 tonnes .', 'text_b': 'The donation of 60,000 tons brings the total of U.S. contributions for the year to 100,000 .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The additional aid brings total U.S. food contribution to North Korea this year to 100,000 tonnes .', 'text_b': 'The donation of 60,000 tons brings the total of U.S. contributions for the year to 100,000 .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 114 ***********
+Sentence: {'text_a': "Leon Williams ' body was found inside his third-floor apartment at 196 Bay St. , in Tompkinsville .", 'text_b': 'The dead man , Leon Williams , was found in his third-floor apartment .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Leon Williams ' body was found inside his third-floor apartment at 196 Bay Tompkinsville , in St. .", 'text_b': 'The dead man , Leon Williams , was found in his third-floor apartment .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 116 ***********
+Sentence: {'text_a': 'The announcement , which economists said was not a surprise , may be bittersweet for the millions of Americans without jobs .', 'text_b': 'Economists said the announcement was not a surprise , and politicians said it offered little comfort to the millions of Americans without jobs .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The surprise , which economists said was not a announcement , may be bittersweet for the millions of Americans without jobs .', 'text_b': 'Economists said the announcement was not a surprise , and politicians said it offered little comfort to the millions of Americans without jobs .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 120 ***********
+Sentence: {'text_a': 'Let me just say this : the evidence that we have of weapons of mass destruction was evidence drawn up and accepted by the joint intelligence community .', 'text_b': '" The evidence that we had of weapons of mass destruction was drawn up and accepted by the Joint Intelligence Committee , " he said .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Let me just say this : the evidence that we have of mass of weapons destruction was evidence drawn up and accepted by the joint intelligence community .', 'text_b': '" The evidence that we had of weapons of mass destruction was drawn up and accepted by the Joint Intelligence Committee , " he said .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 123 ***********
+Sentence: {'text_a': 'Terri Schiavo , 39 , underwent the procedure at the Tampa Bay area hospice where she has been living for several years , said her father , Bob Schindler .', 'text_b': 'The tube was removed Wednesday from Terri Schiavo , 39 , at the Tampa Bay-area hospice where she has lived for several years .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Terri Bob , 39 , underwent the procedure at the Tampa Bay area hospice where she has been living for several years , said her father , Schiavo Schindler .', 'text_b': 'The tube was removed Wednesday from Terri Schiavo , 39 , at the Tampa Bay-area hospice where she has lived for several years .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 126 ***********
+Sentence: {'text_a': "Metro , bus and local rail services in France 's four largest towns -- Paris , Lyon , Lille and Marseille -- were severely disrupted , Europe 1 radio reported .", 'text_b': "Subway , bus and suburban rail services in France 's four largest cities -- Paris , Lyon , Lille and Marseille -- were severely disrupted , transport authorities said ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Lille , bus and local rail services in France 's four largest towns -- Paris , Lyon , Metro and Marseille -- were severely disrupted , Europe 1 radio reported .", 'text_b': "Subway , bus and suburban rail services in France 's four largest cities -- Paris , Lyon , Lille and Marseille -- were severely disrupted , transport authorities said ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 130 ***********
+Sentence: {'text_a': "O 'Brien was charged with leaving the scene of a fatal accident , a felony .", 'text_b': "Bishop Thomas O 'Brien , 67 , was booked on a charge of leaving the scene of a fatal accident ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "O 'Brien was charged with leaving the scene of a fatal felony , a accident .", 'text_b': "Bishop Thomas O 'Brien , 67 , was booked on a charge of leaving the scene of a fatal accident ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 133 ***********
+Sentence: {'text_a': 'Quattrone lawyer John W. Keker said his client is innocent .', 'text_b': 'In a statement Monday , his lawyer John Keker said ``Frank Quattrone is innocent .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Quattrone client John W. Keker said his lawyer is innocent .', 'text_b': 'In a statement Monday , his lawyer John Keker said ``Frank Quattrone is innocent .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 135 ***********
+Sentence: {'text_a': 'The disagreement over online music sales was disclosed in documents filed last week with the judge and made available by the court yesterday .', 'text_b': 'The fight over online music sales was disclosed in documents made available Monday by the court .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The week over online music sales was disclosed in documents filed last disagreement with the judge and made available by the court yesterday .', 'text_b': 'The fight over online music sales was disclosed in documents made available Monday by the court .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 136 ***********
+Sentence: {'text_a': '" The court and the public need to know much more of the details of the defendant \'s seemingly massive fraud , " the judge said .', 'text_b': '" The court and the public need to know more of the defendants \' seemingly massive fraud , " he said .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" The court and the public details to know much more of the need of the defendant \'s seemingly massive fraud , " the judge said .', 'text_b': '" The court and the public need to know more of the defendants \' seemingly massive fraud , " he said .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 137 ***********
+Sentence: {'text_a': 'The IRS said taxpayers can avoid undelivered checks by having refunds deposited directly into their checking or savings accounts .', 'text_b': 'The IRS said taxpayers can avoid problems with lost or stolen refunds by having refunds deposited directly into personal checking or savings accounts .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The IRS said taxpayers can avoid undelivered refunds by having checks deposited directly into their checking or savings accounts .', 'text_b': 'The IRS said taxpayers can avoid problems with lost or stolen refunds by having refunds deposited directly into personal checking or savings accounts .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 141 ***********
+Sentence: {'text_a': '" We are committed to helping the Iraqi people get on the path to a free society , " Rumsfeld said in a speech to the Council on Foreign Relations .', 'text_b': '" We are committed to helping the Iraqi people get on the path to a free society , " he said .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '" We are committed to helping the Iraqi people get on the path to a free society , " Rumsfeld said in a speech to the Relations on Foreign Council .', 'text_b': '" We are committed to helping the Iraqi people get on the path to a free society , " he said .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 142 ***********
+Sentence: {'text_a': 'In February 2000 , the officers — Kenneth Boss , Sean Carroll , Edward McMellon and Richard Murphy — were acquitted of all charges in the killing .', 'text_b': 'The officers -- Kenneth Boss , Sean Carroll , Edward McMellon and Richard Murphy -- were acquitted in 2000 of state murder charges .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'In Richard 2000 , the officers — Kenneth Boss , Sean Carroll , Edward McMellon and February Murphy — were acquitted of all charges in the killing .', 'text_b': 'The officers -- Kenneth Boss , Sean Carroll , Edward McMellon and Richard Murphy -- were acquitted in 2000 of state murder charges .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 144 ***********
+Sentence: {'text_a': "We 'll be listening carefully to the [ IAEA ] director general 's report at the next board meeting .", 'text_b': '" We \'ll be listening carefully to the ( IAEA ) director-general \'s report at the next board meeting . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "We 'll be listening carefully to the [ IAEA ] director general 's board at the next report meeting .", 'text_b': '" We \'ll be listening carefully to the ( IAEA ) director-general \'s report at the next board meeting . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 145 ***********
+Sentence: {'text_a': 'In that position , Elias will report to Joe Tucci , president and CEO of EMC .', 'text_b': "As executive vice president of new ventures , Elias will report to Joe Tucci , EMC 's president and chief executive ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'In that position , Elias will report to Joe Tucci , president and EMC of CEO .', 'text_b': "As executive vice president of new ventures , Elias will report to Joe Tucci , EMC 's president and chief executive ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 149 ***********
+Sentence: {'text_a': 'It was not immediately known how many people were on flight UTA 141 , which could carry 141 passengers and crew .', 'text_b': 'It was still not known exactly how many people were on the plane , which could carry 141 passengers and crew .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'It was not immediately known how many people were on flight UTA 141 , which could carry 141 crew and passengers .', 'text_b': 'It was still not known exactly how many people were on the plane , which could carry 141 passengers and crew .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 150 ***********
+Sentence: {'text_a': 'In hardest-hit Taipei , traffic has disappeared from once bustling streets , ubiquitous department stores stand mostly empty and restaurants are eerily quiet .', 'text_b': 'In hardest-hit Taipei , traffic has disappeared from once-bustling streets and department stores and restaurants are virtually empty .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'In hardest-hit Taipei , stores has disappeared from once bustling streets , ubiquitous department traffic stand mostly empty and restaurants are eerily quiet .', 'text_b': 'In hardest-hit Taipei , traffic has disappeared from once-bustling streets and department stores and restaurants are virtually empty .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 155 ***********
+Sentence: {'text_a': "It 's been a busy couple of days for security gurus assigned to keep their companies safe and sound .", 'text_b': "It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "It 's been a busy days of couple for security gurus assigned to keep their companies safe and sound .", 'text_b': "It 's been a busy couple of days for enterprise security gurus tasked with the job of keeping their companies safe and sound ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 162 ***********
+Sentence: {'text_a': "Some of the company 's software developers will join Microsoft , but details haven 't been finalized , said Mike Nash , corporate vice president of Microsoft 's security business unit .", 'text_b': 'Some of the companys software developers will join Microsoft , but details havent been finalized , said Mike Nash , corporate vice president of Microsofts security business unit .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Some of the company 's software developers will join Mike , but details haven 't been finalized , said Microsoft Nash , corporate vice president of Microsoft 's security business unit .", 'text_b': 'Some of the companys software developers will join Microsoft , but details havent been finalized , said Mike Nash , corporate vice president of Microsofts security business unit .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 163 ***********
+Sentence: {'text_a': 'The hearing , expected to last a week , will determine whether Akbar faces a court-martial .', 'text_b': 'The purpose of the hearing is to determine whether Akbar should be court-martialled .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The court , expected to last a week , will determine whether Akbar faces a hearing - martial .', 'text_b': 'The purpose of the hearing is to determine whether Akbar should be court-martialled .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 165 ***********
+Sentence: {'text_a': 'The New York Democrat and former first lady has said she will not run for the White House in 2004 , but has not ruled out a race in later years .', 'text_b': 'The former first lady has said she will not run for the White House in 2004 but has not ruled out a race later on .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The New White Democrat and former first lady has said she will not run for the York House in 2004 , but has not ruled out a race in later years .', 'text_b': 'The former first lady has said she will not run for the White House in 2004 but has not ruled out a race later on .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 168 ***********
+Sentence: {'text_a': 'In May , Mr. Hatfill said he was struck by a vehicle being driven by an FBI employee who was tailing him in Georgetown .', 'text_b': "Last May , Hatfill was struck by a vehicle being driven by an FBI employee who was tailing him in Washington 's Georgetown neighborhood ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'In May , Mr. Georgetown said he was struck by a vehicle being driven by an FBI employee who was tailing him in Hatfill .', 'text_b': "Last May , Hatfill was struck by a vehicle being driven by an FBI employee who was tailing him in Washington 's Georgetown neighborhood ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 171 ***********
+Sentence: {'text_a': 'Judge Craig Doran said it wasn \'t his role to determine if Hovan was " an evil man " but maintained that " he has committed an evil act . "', 'text_b': 'Judge Craig Doran said he couldn \'t determine if Hovan was " an evil man " but said he " has committed an evil act . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Judge Craig Hovan said it wasn \' t his role to determine if Doran was " an evil man " but maintained that " he has committed an evil act . "', 'text_b': 'Judge Craig Doran said he couldn \'t determine if Hovan was " an evil man " but said he " has committed an evil act . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 172 ***********
+Sentence: {'text_a': 'It also offers a built-in NAND flash boot loader so that high-density NAND flash memory can be used without having to install an additional support chip .', 'text_b': 'The S3C2440 has a built-in NAND flash boot loader , for example , so that high-density NAND flash memory can be installed without an additional support chip .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'It also offers a built-in NAND flash boot loader so that chip NAND flash memory can be used without having to install an additional support high-density .', 'text_b': 'The S3C2440 has a built-in NAND flash boot loader , for example , so that high-density NAND flash memory can be installed without an additional support chip .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 176 ***********
+Sentence: {'text_a': 'My decision today is not based on any one event . "', 'text_b': 'Governor Rowland said his decision was " not based on any one event . "'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'My today decision is not based on any one event . "', 'text_b': 'Governor Rowland said his decision was " not based on any one event . "'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 177 ***********
+Sentence: {'text_a': "Nelson , 27 , is being retried on civil-rights charges stemming from the disturbance which led to Rosenbaum 's death .", 'text_b': "Nelson , 27 , is being retried on civil rights charges stemming from the disturbance that led to Rosenbaum 's death ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Nelson , 27 , is being retried on disturbance charges stemming from the civil-rights which led to Rosenbaum 's death .", 'text_b': "Nelson , 27 , is being retried on civil rights charges stemming from the disturbance that led to Rosenbaum 's death ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 179 ***********
+Sentence: {'text_a': 'Next Monday at about 2 p.m. ( CST ) , hospital officials in and near Chicago will notice a sudden increase in people complaining of flu-like symptoms .', 'text_b': 'Around the same time , hospital officials in and near Chicago will notice a sudden increase in people complaining of flu-like symptoms .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Next Monday at about 2 p.m. ( Chicago ) , hospital officials in and near CST will notice a sudden increase in people complaining of flu-like symptoms .', 'text_b': 'Around the same time , hospital officials in and near Chicago will notice a sudden increase in people complaining of flu-like symptoms .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 180 ***********
+Sentence: {'text_a': "Wal-Mart Stores Inc . , Kohl 's Corp. , Family Dollar Stores Inc. and Big Lots Inc. were among the merchants posting May sales that fell below Wall Street 's modest expectations .", 'text_b': "Wal- Mart , Kohl 's Corp. , Family Dollar Stores Inc . , and Big Lots Inc. posted May sales that fell below Wall Street 's modest expectations ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Wal-Mart Stores Inc. . , Kohl 's Corp. , Family Dollar Stores Inc and Big Lots Inc. were among the merchants posting May sales that fell below Wall Street 's modest expectations .", 'text_b': "Wal- Mart , Kohl 's Corp. , Family Dollar Stores Inc . , and Big Lots Inc. posted May sales that fell below Wall Street 's modest expectations ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 181 ***********
+Sentence: {'text_a': 'Peterson , a former fertilizer salesman , is charged with murder in the deaths of his 27-year-old wife and the baby boy she was carrying .', 'text_b': 'Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Peterson , a former fertilizer salesman , is charged with deaths in the murder of his 27-year-old wife and the baby boy she was carrying .', 'text_b': 'Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 184 ***********
+Sentence: {'text_a': "Detectives told Deasean 's father , Stelly Chisolm , a college student , and mother , Kimberly Hill , of the arrest shortly after Perry was apprehended .", 'text_b': "Shortly after his arrest , detectives told Deasean 's father , Stelly Chisolm , a college student , and mother , Kimberly Hill , a medical assistant , about the development ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Detectives told Deasean 's father , Stelly Kimberly , a college student , and mother , Chisolm Hill , of the arrest shortly after Perry was apprehended .", 'text_b': "Shortly after his arrest , detectives told Deasean 's father , Stelly Chisolm , a college student , and mother , Kimberly Hill , a medical assistant , about the development ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 185 ***********
+Sentence: {'text_a': 'Mr. Rowland attended a party in South Windsor for the families of Connecticut National Guard soldiers called to active duty .', 'text_b': 'Rowland was making an appearance at a holiday party for families of Connecticut National Guard soldiers assigned to duty in Iraq and Afghanistan .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Windsor Rowland attended a party in South Mr. for the families of Connecticut National Guard soldiers called to active duty .', 'text_b': 'Rowland was making an appearance at a holiday party for families of Connecticut National Guard soldiers assigned to duty in Iraq and Afghanistan .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 190 ***********
+Sentence: {'text_a': "Charles O. Prince , 53 , was named as Mr. Weill 's successor .", 'text_b': "Mr. Weill 's longtime confidant , Charles O. Prince , 53 , was named as his successor ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Charles Weill Prince , 53 , was named as Mr. O. 's successor .", 'text_b': "Mr. Weill 's longtime confidant , Charles O. Prince , 53 , was named as his successor ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 194 ***********
+Sentence: {'text_a': 'But software license revenues , a measure financial analysts watch closely , decreased 21 percent to $ 107.6 million .', 'text_b': 'License sales , a key measure of demand , fell 21 percent to $ 107.6 million .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'But measure license revenues , a software financial analysts watch closely , decreased 21 percent to $ 107.6 million .', 'text_b': 'License sales , a key measure of demand , fell 21 percent to $ 107.6 million .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 195 ***********
+Sentence: {'text_a': 'The Denver-based natural gas producer and marketer said the inaccurate reporting was discovered after it received a subpoena from the U.S. Commodity Futures Trading Commission .', 'text_b': 'The natural gas producer and marketer said the inaccurate reporting was discovered in response to a subpoena from the U.S. Commodity Futures Trading Commission , or CFTC .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Denver-based natural gas producer and subpoena said the inaccurate reporting was discovered after it received a marketer from the U.S. Commodity Futures Trading Commission .', 'text_b': 'The natural gas producer and marketer said the inaccurate reporting was discovered in response to a subpoena from the U.S. Commodity Futures Trading Commission , or CFTC .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 196 ***********
+Sentence: {'text_a': 'Only one of the five buildings in the Baghdad compound of the United Nations Development Program escaped being burned , the UN said on its Web site .', 'text_b': 'Only one of the five buildings in the compound in Baghdad run by the UN Development Program , escaped being burned , the UN said on its Web site .'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Only one of the five buildings in the Baghdad compound of the United Nations Development UN escaped being burned , the Program said on its Web site .', 'text_b': 'Only one of the five buildings in the compound in Baghdad run by the UN Development Program , escaped being burned , the UN said on its Web site .'}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 198 ***********
+Sentence: {'text_a': "It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season .", 'text_b': "It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season ."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "It 's happened five season in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist times .", 'text_b': "It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season ."}
+Prediction: equivalent
+Predictions with shuffle: 
+	+ Swapped: equivalent
+Ground truth: equivalent
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+

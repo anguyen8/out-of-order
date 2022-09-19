@@ -1,0 +1,20 @@
+CLASSIFICATION TASK
+
+    0. Vocabulary
+        + atis.dict.vocab.csv   (Token IDs -> Words)
+        + atis.dict.intent.csv  (Tag IDs -> Tag name)
+
+    1. Training (4978 examples)
+        + atis.train.query.csv  (sentences, tokens are converted to IDs)
+        + atis.train.intent.csv (tags, converted to IDs)
+
+    2. Testing (893 examples)
+        + atis.test.query.csv  (sentences, tokens are converted to IDs)
+        + atis.test.intent.csv (tags, converted to IDs)
+
+NER TASK
+
+1. Files used for NER task
+    + atis.dict.slots.csv       (BIO tags -> Token tag name)
+    + atis.train.slots.csv
+    + atis.test.slots.csv

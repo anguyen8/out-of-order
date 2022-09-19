@@ -1,0 +1,649 @@
+*********** Sample 1 ***********
+Sentence: {'text_a': 'Yet, we now are discovering that antibiotics are losing their effectiveness against illness. Disease-causing bacteria are mutating faster than we can come up with new antibiotics to fight the new variations.', 'text_b': 'Bacteria is winning the war against antibiotics.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Yet, we now are discovering that antibiotics are losing their effectiveness against illness. Disease-causing bacteria are mutating faster than we can come up with new antibiotics to fight the new variations.', 'text_b': 'antibiotics is winning the war against Bacteria.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+
+*********** Sample 2 ***********
+Sentence: {'text_a': 'singer and actress Britney Spears, 24, has filled papers in Los Angeles County Superior Court to divorce her husband Kevin Federline, 28. A spokeswoman for the court, Kathy Roberts stated that the papers cited irreconcilable differences" as the reason for the divorce and have, according to the courts, been legally separated as of Monday, November 6, the same day that Spears appeared on Late Night with David Letterman.', 'text_b': 'Spears is to divorce from Kevin Federline.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'singer and actress Britney Spears, 24, has filled papers in Los Angeles County Superior Court to divorce her husband Kevin Federline, 28. A spokeswoman for the court, Kathy Roberts stated that the papers cited irreconcilable differences" as the reason for the divorce and have, according to the courts, been legally separated as of Monday, November 6, the same day that Spears appeared on Late Night with David Letterman.', 'text_b': 'Kevin is to divorce from Spears Federline.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 6 ***********
+Sentence: {'text_a': "Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.", 'text_b': 'France participates in Euro 2004.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.", 'text_b': 'Euro participates in France 2004.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 8 ***********
+Sentence: {'text_a': "Huckaby voluntarily submitted herself to questioning Friday night at the Tracy police station, and was arrested less than six hours later. She now resides in the San Joaquin County Jail without bond, awaiting an arraignment hearing on Tuesday. On April 6, the body of Sandra Cantu was discovered stuffed inside the 28-year-old's suitcase at the bottom of a pond a few miles away from her home. The two were neighbors in the Orchard Estates Mobile Home Park and Huckaby's own 5-year-old daughter often played with Cantu. Autopsy results are still pending.", 'text_b': 'Huckaby is accused of killing Sandra Cantu.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Huckaby voluntarily submitted herself to questioning Friday night at the Tracy police station, and was arrested less than six hours later. She now resides in the San Joaquin County Jail without bond, awaiting an arraignment hearing on Tuesday. On April 6, the body of Sandra Cantu was discovered stuffed inside the 28-year-old's suitcase at the bottom of a pond a few miles away from her home. The two were neighbors in the Orchard Estates Mobile Home Park and Huckaby's own 5-year-old daughter often played with Cantu. Autopsy results are still pending.", 'text_b': 'Sandra is accused of killing Huckaby Cantu.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 11 ***********
+Sentence: {'text_a': 'U.S. forces have been engaged in intense fighting after insurgents launched simultaneous attacks in several Iraqi cities, including Fallujah and Baqubah.', 'text_b': 'Fallujah and Baqubah are Iraqi cities.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'U.S. forces have been engaged in intense fighting after insurgents launched simultaneous attacks in several Iraqi cities, including Fallujah and Baqubah.', 'text_b': 'Baqubah and Fallujah are Iraqi cities.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 14 ***********
+Sentence: {'text_a': 'Eric Harris and Dylan Klebold, seniors at the suburban Denver school, detonated homemade bombs and opened fire with shotguns, a rifle and a semiautomatic handgun on April 20, 1999. They killed a teacher and 12 students and wounded 23 others before committing suicide. The massacre shocked the country like no other. It was the worst school assault in American history at that time, and it came in the wake of a half-dozen others. It played out on live television, watched by millions. And it represented the violent destruction of a cherished American idea: that schools in the suburbs and the countryside were havens of peace and safety.', 'text_b': '13 persons were killed by two students in 1999.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Eric Harris and Dylan Klebold, seniors at the suburban Denver school, detonated homemade bombs and opened fire with shotguns, a rifle and a semiautomatic handgun on April 20, 1999. They killed a teacher and 12 students and wounded 23 others before committing suicide. The massacre shocked the country like no other. It was the worst school assault in American history at that time, and it came in the wake of a half-dozen others. It played out on live television, watched by millions. And it represented the violent destruction of a cherished American idea: that schools in the suburbs and the countryside were havens of peace and safety.', 'text_b': '13 students were killed by two persons in 1999.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 16 ***********
+Sentence: {'text_a': 'The Longest Day ever lengthens. The 25th anniversary celebration of the first Normandy landing lasted three days; the 50th will spread out over a year.', 'text_b': '50th Anniversary of Normandy Landings lasts a year.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Longest Day ever lengthens. The 25th anniversary celebration of the first Normandy landing lasted three days; the 50th will spread out over a year.', 'text_b': '50th Landings of Normandy Anniversary lasts a year.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.06
+
+*********** Sample 18 ***********
+Sentence: {'text_a': 'The IOC meeting will also review reports submitted by the organizing committees of the 1998 Winter Olympic Games in Nagano, Japan; the 2000 Summer Olympic Games in Sydney, Australia and the 2002 Winter Olympic Games in the Salt Lake City, the United States, respectively.', 'text_b': 'Before Salt Lake City, Winter Olympic Games took place in Nagano.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The IOC meeting will also review reports submitted by the organizing committees of the 1998 Winter Olympic Games in Nagano, Japan; the 2000 Summer Olympic Games in Sydney, Australia and the 2002 Winter Olympic Games in the Salt Lake City, the United States, respectively.', 'text_b': 'Before Salt Games City , Winter Olympic Lake took place in Nagano.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 21 ***********
+Sentence: {'text_a': 'A compound in breast milk has been found to destroy many skin warts, raising hopes it also might prove effective against cervical cancer and other lethal diseases caused by the same virus.', 'text_b': 'Breast milk may help fight cervical cancer.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'A compound in breast milk has been found to destroy many skin warts, raising hopes it also might prove effective against cervical cancer and other lethal diseases caused by the same virus.', 'text_b': 'Breast cancer may help fight cervical milk.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 22 ***********
+Sentence: {'text_a': 'As spacecraft commander for Apollo XI, the first manned lunar landing mission, Armstrong was the first man to walk on the Moon. "That\'s one small step for a man, one giant leap for mankind." With these historic words, man\'s dream of the ages was fulfilled.', 'text_b': 'Neil Armstrong was the first man who landed on the Moon.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'As spacecraft commander for Apollo XI, the first manned lunar landing mission, Armstrong was the first man to walk on the Moon. "That\'s one small step for a man, one giant leap for mankind." With these historic words, man\'s dream of the ages was fulfilled.', 'text_b': 'Moon Armstrong was the first man who landed on the Neil.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 23 ***********
+Sentence: {'text_a': 'Russian cosmonaut Valery Polyakov set the record for the longest continuous amount of time spent in space, a staggering 438 days, between 1994 and 1995.', 'text_b': 'Russians hold record for longest stay in space.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Russian cosmonaut Valery Polyakov set the record for the longest continuous amount of time spent in space, a staggering 438 days, between 1994 and 1995.', 'text_b': 'Russians hold space for longest stay in record.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 25 ***********
+Sentence: {'text_a': 'Mount Redoubt, a volcano in Alaska, erupted on Saturday, sending out clouds of ash thousands of feet high. According to the Federal Aviation Administration, the Ted Stevens Anchorage International Airport was shut down after ash reached the airport. Jeremy Lindseth, a spokesman for the airport, said that only small amount of ash reached the airport, but was significant enough to disrupt operations, as ash can cause engine problems for aircraft. He said that he was uncertain of how many flights were affected due to the eruption.', 'text_b': 'The Ted Stevens Anchorage International Airport is the employer of Jeremy Lindseth.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Mount Redoubt, a volcano in Alaska, erupted on Saturday, sending out clouds of ash thousands of feet high. According to the Federal Aviation Administration, the Ted Stevens Anchorage International Airport was shut down after ash reached the airport. Jeremy Lindseth, a spokesman for the airport, said that only small amount of ash reached the airport, but was significant enough to disrupt operations, as ash can cause engine problems for aircraft. He said that he was uncertain of how many flights were affected due to the eruption.', 'text_b': 'The Ted Jeremy Anchorage International Airport is the employer of Stevens Lindseth.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 30 ***********
+Sentence: {'text_a': 'Police in the Lower Austrian town of Amstetten have arrested a 73 year old man who is alleged to have kept his daughter, now aged 42, locked in the cellar of his house in Amstetten since 29th August 1984. The man, identified by police as Josef Fritzl, is alleged to have started sexually abusing his daughter, named as Elisabeth Fritzl, when she was eleven years old, and to have subsequently fathered seven children by her. One of the children, one of a set of twins born in 1996, died of neglect shortly after birth and the body was burned by the father.', 'text_b': 'Amstetten is located in Austria.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Police in the Lower Austrian town of Amstetten have arrested a 73 year old man who is alleged to have kept his daughter, now aged 42, locked in the cellar of his house in Amstetten since 29th August 1984. The man, identified by police as Josef Fritzl, is alleged to have started sexually abusing his daughter, named as Elisabeth Fritzl, when she was eleven years old, and to have subsequently fathered seven children by her. One of the children, one of a set of twins born in 1996, died of neglect shortly after birth and the body was burned by the father.', 'text_b': 'Austria is located in Amstetten.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 33 ***********
+Sentence: {'text_a': 'And, despite its own suggestions to the contrary, Oracle will sell PeopleSoft and JD Edwards financial software through reseller channels to new customers.', 'text_b': 'Oracle sells financial software.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'And, despite its own suggestions to the contrary, Oracle will sell PeopleSoft and JD Edwards financial software through reseller channels to new customers.', 'text_b': 'financial sells Oracle software.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 35 ***********
+Sentence: {'text_a': 'According to officials, João Bernardo Vieira, the president of Guinea-Bissau, was shot to death on Monday in his palace by renegade soldiers. "President Vieira was killed by the army as he tried to flee his house which was being attacked by a group of soldiers close to the chief of staff Tagme Na Waie, early this morning," Zamora Induta, a military spokesman, said to Agence France-Presse, insisting that "this was not a coup d\'etat."', 'text_b': 'Bernardo Vieira was the president of Guinea-Bissau.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'According to officials, João Bernardo Vieira, the president of Guinea-Bissau, was shot to death on Monday in his palace by renegade soldiers. "President Vieira was killed by the army as he tried to flee his house which was being attacked by a group of soldiers close to the chief of staff Tagme Na Waie, early this morning," Zamora Induta, a military spokesman, said to Agence France-Presse, insisting that "this was not a coup d\'etat."', 'text_b': 'Guinea-Bissau Vieira was the president of Bernardo.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 38 ***********
+Sentence: {'text_a': 'About 33.5 million people live in this massive conurbation. I would guess that 95% of the 5,000 officially foreign-capital firms in Japan are based in Tokyo.', 'text_b': 'About 33.5 miilion people live in Tokyo.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'About 33.5 million people live in this massive conurbation. I would guess that 95% of the 5,000 officially foreign-capital firms in Japan are based in Tokyo.', 'text_b': 'About 33.5 miilion Tokyo live in people.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 39 ***********
+Sentence: {'text_a': 'The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it.', 'text_b': 'Cyrillic is an alphabet used for certain Slavic languages, such as Russian.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Cyrillic alphabet is an alphabet used for several East and South Slavic languages; (Belarusian, Bulgarian, Macedonian, Russian, Rusyn, Serbian, and Ukrainian) and many other languages of the former Soviet Union, Asia and Eastern Europe. It has also been used for other languages in the past. Not all letters in the Cyrillic alphabet are used in every language which is written with it.', 'text_b': 'Russian is an alphabet used for certain Slavic languages , such as Cyrillic.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 42 ***********
+Sentence: {'text_a': "Hepburn's family will receive the proceeds from the sale.", 'text_b': "Proceeds go to Hepburn's family."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Hepburn's family will receive the proceeds from the sale.", 'text_b': "Hepburn's go to Proceeds family."}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 47 ***********
+Sentence: {'text_a': 'Adela Lupse was born in 1988 to a miner\'s family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania\'s first post-Ceausescu generation, she grasped the power of television at a young age: "I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches."', 'text_b': 'Bihor is situated in Romania.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Adela Lupse was born in 1988 to a miner\'s family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania\'s first post-Ceausescu generation, she grasped the power of television at a young age: "I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches."', 'text_b': 'Romania is situated in Bihor.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 48 ***********
+Sentence: {'text_a': 'Merrill Lynch & Co. and Smith Barney, now a unit of Citigroup, in 1998 settled discrimination cases involving hundreds of female employees.', 'text_b': 'Merrill Lynch & Co. and Smith Barney are now a unit of Citigroup.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Merrill Lynch & Co. and Smith Barney, now a unit of Citigroup, in 1998 settled discrimination cases involving hundreds of female employees.', 'text_b': 'Co. Lynch & Merrill and Smith Barney are now a unit of Citigroup.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 50 ***********
+Sentence: {'text_a': 'The Supreme Court said today states may bar the removal of life-sustaining treatment from comatose patients who have not made or cannot make their desires known.', 'text_b': 'There is a Supreme Court decision about the removal of life-support.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Supreme Court said today states may bar the removal of life-sustaining treatment from comatose patients who have not made or cannot make their desires known.', 'text_b': 'There is a removal Court decision about the Supreme of life-support.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 51 ***********
+Sentence: {'text_a': 'Prince Charles, Britain\'s heir to the throne, has announced that he is to wed his lover of 34 years, Camilla Parker Bowles. In a press statement, the Prince of Wales said "Mrs Parker Bowles and I are absolutely delighted. It will be a very special day for us and our families." Mrs Parker Bowles will use the title "HRH The Duchess of Cornwall" after their marriage, and it is intended that following the Prince\'s accession to the throne, Mrs Parker Bowles will use the title "HRH The Princess Consort". The pair are to marry on 8th April 2005 at a private civil ceremony in Windsor Castle, which will be an occasion primarily for friends and family. There will then be a service of prayer and dedication in St. George\'s Chapel, to be conducted by the Archbishop of Canterbury, Dr. Rowan Williams.', 'text_b': "Camilla Parker Bowles is engaged to Britain's heir."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Prince Charles, Britain\'s heir to the throne, has announced that he is to wed his lover of 34 years, Camilla Parker Bowles. In a press statement, the Prince of Wales said "Mrs Parker Bowles and I are absolutely delighted. It will be a very special day for us and our families." Mrs Parker Bowles will use the title "HRH The Duchess of Cornwall" after their marriage, and it is intended that following the Prince\'s accession to the throne, Mrs Parker Bowles will use the title "HRH The Princess Consort". The pair are to marry on 8th April 2005 at a private civil ceremony in Windsor Castle, which will be an occasion primarily for friends and family. There will then be a service of prayer and dedication in St. George\'s Chapel, to be conducted by the Archbishop of Canterbury, Dr. Rowan Williams.', 'text_b': "Britain's Parker Bowles is engaged to Camilla heir."}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 52 ***********
+Sentence: {'text_a': "Recent satellite pictures of Yellowstone National Park in Wyoming from 2004 through 2006 are showing that an ancient volcano is starting to rise once again. Molten rock is currently pushing up the remains of the volcano's caldera, which sits over the top of Yellowstone lake, but scientists are stressing that there is no immediate threat of an eruption or explosion. The molten rock field is estimated to be the size of the city of Los Angeles, California.", 'text_b': 'There is a volcano in Yellowstone.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Recent satellite pictures of Yellowstone National Park in Wyoming from 2004 through 2006 are showing that an ancient volcano is starting to rise once again. Molten rock is currently pushing up the remains of the volcano's caldera, which sits over the top of Yellowstone lake, but scientists are stressing that there is no immediate threat of an eruption or explosion. The molten rock field is estimated to be the size of the city of Los Angeles, California.", 'text_b': 'There is a Yellowstone in volcano.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 53 ***********
+Sentence: {'text_a': 'The U.S. Army acceded to a request from the local governor to keep U.S. troops away from the Imam Ali Shrine in Najaf.', 'text_b': 'The U.S. Army agreed to a request from the local governor to keep US troops away from the Imam Ali Shrine in Najaf.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The U.S. Army acceded to a request from the local governor to keep U.S. troops away from the Imam Ali Shrine in Najaf.', 'text_b': 'The U.S. Army agreed to a request from the local governor to keep US troops away from the Imam Najaf Shrine in Ali.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.08
+
+*********** Sample 54 ***********
+Sentence: {'text_a': 'MIDWEST CITY, Okla. -- Fire crews in Oklahoma and Texas raced Thursday to control wind-whipped wildfires that destroyed dozens of homes, seriously injured two people, forced evacuations and shut down parts of a major highway. Howling wind that had gusted to more than 60 mph grounded firefighting efforts by air in both states and drove blazes that scorched neighborhoods like "a war zone," Midwest City police Chief Brandon Clabes said. "The wind is the biggest issue, because we can\'t get ahead of the fires," Midwest City Fire Marshal Jerry Lojka said. By nightfall, wind gusts dropped to about 30 mph in many areas.', 'text_b': 'Homes were destroyed by wildfires in Oklahoma and Texas.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'MIDWEST CITY, Okla. -- Fire crews in Oklahoma and Texas raced Thursday to control wind-whipped wildfires that destroyed dozens of homes, seriously injured two people, forced evacuations and shut down parts of a major highway. Howling wind that had gusted to more than 60 mph grounded firefighting efforts by air in both states and drove blazes that scorched neighborhoods like "a war zone," Midwest City police Chief Brandon Clabes said. "The wind is the biggest issue, because we can\'t get ahead of the fires," Midwest City Fire Marshal Jerry Lojka said. By nightfall, wind gusts dropped to about 30 mph in many areas.', 'text_b': 'Homes were destroyed by wildfires in Texas and Oklahoma.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 56 ***********
+Sentence: {'text_a': "The drugs that slow down or halt Alzheimer's disease work best the earlier you administer them.", 'text_b': "Alzheimer's disease is treated using drugs."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "The drugs that slow down or halt Alzheimer's disease work best the earlier you administer them.", 'text_b': "drugs disease is treated using Alzheimer's."}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 57 ***********
+Sentence: {'text_a': "We learn that Claretta Petacci, Mussolini's last mistress, had a tendency to whine and to lie all day in bed, eating chocolate.", 'text_b': "Claretta Petacci was Mussolini's last mistress."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "We learn that Claretta Petacci, Mussolini's last mistress, had a tendency to whine and to lie all day in bed, eating chocolate.", 'text_b': "Mussolini's Petacci was Claretta last mistress."}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 58 ***********
+Sentence: {'text_a': 'Some of the buildings around the city square in the Kota also date from colonial times, including the old city hall ( 1710 ), which has been restored and now serves as the municipal museum.', 'text_b': 'The city hall is a museum now.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Some of the buildings around the city square in the Kota also date from colonial times, including the old city hall ( 1710 ), which has been restored and now serves as the municipal museum.', 'text_b': 'The museum hall is a city now.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 68 ***********
+Sentence: {'text_a': '"It\'s Only a Play" is Terrence McNally\'s "Give My Regards to Broadway," a lightweight tribute to the theater as seen from the lofty but limited vantage point of Broadway artists who are consumed by New York\'s hit/flop mentality.', 'text_b': 'Broadway is in New York.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '"It\'s Only a Play" is Terrence McNally\'s "Give My Regards to Broadway," a lightweight tribute to the theater as seen from the lofty but limited vantage point of Broadway artists who are consumed by New York\'s hit/flop mentality.', 'text_b': 'New is in Broadway York.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 74 ***********
+Sentence: {'text_a': 'Another factor in the rising cost of paper is the increased cost of wood pulp, from which paper is made', 'text_b': 'The cost of paper is rising.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Another factor in the rising cost of paper is the increased cost of wood pulp, from which paper is made', 'text_b': 'The paper of cost is rising.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 76 ***********
+Sentence: {'text_a': 'Jerry Reinsdorf (born February 25 1936 in Brooklyn, New York) is the owner of Chicago White Sox and the Chicago Bulls. Recently, he helped the White Sox win the 2005 World Series and, in the process, collected his seventh championship ring overall (the first six were all with the Bulls in the 1990s), becoming the third owner in the history of North American sports to win a championship in two different sports.', 'text_b': 'Jerry Reinsdorf has won 7 championships.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Jerry Reinsdorf (born February 25 1936 in Brooklyn, New York) is the owner of Chicago White Sox and the Chicago Bulls. Recently, he helped the White Sox win the 2005 World Series and, in the process, collected his seventh championship ring overall (the first six were all with the Bulls in the 1990s), becoming the third owner in the history of North American sports to win a championship in two different sports.', 'text_b': 'Jerry championships has won 7 Reinsdorf.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+
+*********** Sample 78 ***********
+Sentence: {'text_a': 'Thus began the journey that led Hannam, a 29-year-old free-lance journalist, on an international quest to solve one of the greatest mysteries of Asia: What happened to Lin Piao, the Chinese Communist Party leader accused of a 1971 plot to overthrow Chairman Mao.', 'text_b': 'Lin Piao was the Chinese Communist Party leader.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Thus began the journey that led Hannam, a 29-year-old free-lance journalist, on an international quest to solve one of the greatest mysteries of Asia: What happened to Lin Piao, the Chinese Communist Party leader accused of a 1971 plot to overthrow Chairman Mao.', 'text_b': 'Lin leader was the Chinese Communist Party Piao.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 79 ***********
+Sentence: {'text_a': 'Swedish massage is used to help relax muscles, increase circulation, remove metabolic waste products, help the recipient obtain a feeling of connectedness, a better awareness of their body and the way they use and position it.', 'text_b': 'Swedish massage loosens tense muscles.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Swedish massage is used to help relax muscles, increase circulation, remove metabolic waste products, help the recipient obtain a feeling of connectedness, a better awareness of their body and the way they use and position it.', 'text_b': 'Swedish muscles loosens tense massage.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 80 ***********
+Sentence: {'text_a': 'An auto analyst for Bombay\'s Angel Broking, Vaishali Jajoo, predicted that the Nano will add only three percent to Tata\'s revenues even if it can sell a quarter of a million such cars per annum. "That doesn\'t make a significant difference to the top line," Jajoo said. "And for the bottom line, it will take five to six years to break even." Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country.', 'text_b': 'Angel Broking is based in Bombay.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'An auto analyst for Bombay\'s Angel Broking, Vaishali Jajoo, predicted that the Nano will add only three percent to Tata\'s revenues even if it can sell a quarter of a million such cars per annum. "That doesn\'t make a significant difference to the top line," Jajoo said. "And for the bottom line, it will take five to six years to break even." Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country.', 'text_b': 'Bombay Broking is based in Angel.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 81 ***********
+Sentence: {'text_a': 'Rotorua has banned criminals with five or more dishonesty convictions from entering the Central Business District (CBD). The criminals will be issued with trespass notices banning them from the main streets of Rotorua. Eleven out of twelve councillors, including the Rotorua mayor, supported the by-law along with support from the police. Kevin Winters, Mayor of Rotorua, said "The ban also had the support of local businesses, who wanted an end to the thefts, assaults, shoplifting and other street crime on Rotorua streets. Crime was an issue in the area. Five strikes and you\'re out."', 'text_b': 'The Central Business District (CBD) is part of Rotorua.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Rotorua has banned criminals with five or more dishonesty convictions from entering the Central Business District (CBD). The criminals will be issued with trespass notices banning them from the main streets of Rotorua. Eleven out of twelve councillors, including the Rotorua mayor, supported the by-law along with support from the police. Kevin Winters, Mayor of Rotorua, said "The ban also had the support of local businesses, who wanted an end to the thefts, assaults, shoplifting and other street crime on Rotorua streets. Crime was an issue in the area. Five strikes and you\'re out."', 'text_b': 'The Central Business District ( Rotorua ) is part of CBD.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.08
+
+*********** Sample 86 ***********
+Sentence: {'text_a': 'P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha.', 'text_b': 'P. Prayong is a member of Theravada.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha.', 'text_b': 'Theravada Prayong is a member of P..'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 87 ***********
+Sentence: {'text_a': 'BEIRUT, Nov. 21 (Xinhua) -- Lebanese Industry Minister and Christian leader Pierre Gemayel was shot dead on a street in the suburb of Beirut on Tuesday, al-Jazeera TV channel quoted the Lebanese Interior Ministry as saying.', 'text_b': 'Pierre Gemayel was murdered on a street in the suburb of Beirut.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'BEIRUT, Nov. 21 (Xinhua) -- Lebanese Industry Minister and Christian leader Pierre Gemayel was shot dead on a street in the suburb of Beirut on Tuesday, al-Jazeera TV channel quoted the Lebanese Interior Ministry as saying.', 'text_b': 'Pierre Beirut was murdered on a street in the suburb of Gemayel.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 88 ***********
+Sentence: {'text_a': "US President Barack Obama has been sketching out the future direction of his administration, in events to mark his first 100 days in office. Mr Obama addressed a town hall meeting in St Louis before holding a primetime news conference, broadcast live on most US TV networks. Traditionally, commentators have used the milestone to assess presidents' early successes and failures. Latest polls suggest Mr Obama continues to enjoy a high level of popularity.", 'text_b': 'Barack Obama has been President of the U.S. for 100 days.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "US President Barack Obama has been sketching out the future direction of his administration, in events to mark his first 100 days in office. Mr Obama addressed a town hall meeting in St Louis before holding a primetime news conference, broadcast live on most US TV networks. Traditionally, commentators have used the milestone to assess presidents' early successes and failures. Latest polls suggest Mr Obama continues to enjoy a high level of popularity.", 'text_b': 'Barack Obama has been U.S. of the President for 100 days.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+
+*********** Sample 92 ***********
+Sentence: {'text_a': 'The beleaguered Euro-Disney theme park outside Paris is doing so poorly it might have to close unless it gets help soon from its lenders, the chairman of Walt Disney Co. said in an interview published Friday.', 'text_b': 'Euro-Disney is a theme park outside Paris.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The beleaguered Euro-Disney theme park outside Paris is doing so poorly it might have to close unless it gets help soon from its lenders, the chairman of Walt Disney Co. said in an interview published Friday.', 'text_b': 'Paris is a theme park outside Euro-Disney.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.06
+
+*********** Sample 95 ***********
+Sentence: {'text_a': "Foreign Carmakers Gain in Russia. The likes of Daewoo, Ford, Renault, and more can't produce fast enough.", 'text_b': 'European cars sell in Russia.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Foreign Carmakers Gain in Russia. The likes of Daewoo, Ford, Renault, and more can't produce fast enough.", 'text_b': 'European Russia sell in cars.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.06
+
+*********** Sample 96 ***********
+Sentence: {'text_a': 'The abode of the Greek gods was on the summit of Mount Olympus, in Thessaly.', 'text_b': 'Mount Olympus is in Thessaly.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The abode of the Greek gods was on the summit of Mount Olympus, in Thessaly.', 'text_b': 'Mount Thessaly is in Olympus.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 97 ***********
+Sentence: {'text_a': "Yachtsman Melvyn Percy became so fed up with the standard of service when preparing his boat for the 3000-mile Atlantic crossing that he decided to set up his own company on the Clyde to provide Scots sailors with professional advice and practical assistance. Minerva Rigging, based at Kip Marina just south of Gourock, now employs five full-time staff and is the Scottish agent for Kemp, one of Europe's leading yacht spar and mast manufacturers.", 'text_b': 'Melvyn Percy set up Minerva Rigging at Kip Marina.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Yachtsman Melvyn Percy became so fed up with the standard of service when preparing his boat for the 3000-mile Atlantic crossing that he decided to set up his own company on the Clyde to provide Scots sailors with professional advice and practical assistance. Minerva Rigging, based at Kip Marina just south of Gourock, now employs five full-time staff and is the Scottish agent for Kemp, one of Europe's leading yacht spar and mast manufacturers.", 'text_b': 'Melvyn Minerva set up Percy Rigging at Kip Marina.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 99 ***********
+Sentence: {'text_a': "To mark the 20th anniversary of John Lennon's death tomorrow (December 8), his widow, Yoko Ono, has erected billboards supporting gun control in three major U.S. cities.", 'text_b': "Yoko Ono is John Lennon's widow."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "To mark the 20th anniversary of John Lennon's death tomorrow (December 8), his widow, Yoko Ono, has erected billboards supporting gun control in three major U.S. cities.", 'text_b': "widow Ono is John Lennon's Yoko."}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 101 ***********
+Sentence: {'text_a': 'Capital punishment acts as a deterrent.', 'text_b': 'Capital punishment is a deterrent to crime.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Capital punishment acts as a deterrent.', 'text_b': 'Capital crime is a deterrent to punishment.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+
+*********** Sample 103 ***********
+Sentence: {'text_a': 'Two brothers who operated a North Hollywood plating company that dumped thousands of gallons of cyanide-laced waste water into the Los Angeles sewer system pleaded guilty Thursday and must serve jail time for recklessly handling and storing hazardous materials.', 'text_b': 'A California company was charged with reckless storage of chemicals.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Two brothers who operated a North Hollywood plating company that dumped thousands of gallons of cyanide-laced waste water into the Los Angeles sewer system pleaded guilty Thursday and must serve jail time for recklessly handling and storing hazardous materials.', 'text_b': 'A storage company was charged with reckless California of chemicals.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 105 ***********
+Sentence: {'text_a': 'Miller died Thursday night, of congestive heart failure, at his home in Roxbury, Conn., surrounded by his family, his assistant, Julia Bolus, said Friday.', 'text_b': 'Miller died Thursday night, of heart failure, surrounded by family members.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Miller died Thursday night, of congestive heart failure, at his home in Roxbury, Conn., surrounded by his family, his assistant, Julia Bolus, said Friday.', 'text_b': 'Thursday died Miller night , of heart failure , surrounded by family members.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 107 ***********
+Sentence: {'text_a': 'The biggest newspaper in Norway, Verdens Gang, prints a letter to the editor written by Joe Harrington and myself.', 'text_b': 'Verdens Gang is a Norwegian newspaper.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The biggest newspaper in Norway, Verdens Gang, prints a letter to the editor written by Joe Harrington and myself.', 'text_b': 'newspaper Gang is a Norwegian Verdens.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.08
+
+*********** Sample 108 ***********
+Sentence: {'text_a': "Spirou was created in 1938 by Rob-Vel, who sold the rights to the Dupuis publishing house in early 40's. Other artists like Jije (Joseph Gillain) took care of the feature.", 'text_b': 'Spirou was created by Rob-Vel.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Spirou was created in 1938 by Rob-Vel, who sold the rights to the Dupuis publishing house in early 40's. Other artists like Jije (Joseph Gillain) took care of the feature.", 'text_b': 'Rob-Vel was created by Spirou.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 113 ***********
+Sentence: {'text_a': 'Bangladesh, one of the world\'s poorest countries, suffered a devastating drought and famine in 1974, which killed 1.5 million people. While trying to help starving villagers, he met a 21-year-old woman named Sufia Begum, who was burdened by a tiny yet crushing debt, Yunus recalled in his autobiography, "Banker to the Poor."', 'text_b': '1.5 million people were killed during the drought and famine devastation in 1974 in Bangladesh.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Bangladesh, one of the world\'s poorest countries, suffered a devastating drought and famine in 1974, which killed 1.5 million people. While trying to help starving villagers, he met a 21-year-old woman named Sufia Begum, who was burdened by a tiny yet crushing debt, Yunus recalled in his autobiography, "Banker to the Poor."', 'text_b': '1.5 million devastation were killed during the drought and famine people in 1974 in Bangladesh.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 116 ***********
+Sentence: {'text_a': "Brown brushed off a threat made Monday by his counterpart, Foreign Trade Minister Wu Yi, that if China's effort to join the General Agreement on Tariffs and Trade (GATT) by the year's end is unsuccessful, Beijing will no longer be bound by previous trade and economic commitments.", 'text_b': 'Wu Yi is the Foreign Trade Minister of China.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Brown brushed off a threat made Monday by his counterpart, Foreign Trade Minister Wu Yi, that if China's effort to join the General Agreement on Tariffs and Trade (GATT) by the year's end is unsuccessful, Beijing will no longer be bound by previous trade and economic commitments.", 'text_b': 'China Yi is the Foreign Trade Minister of Wu.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.08
+
+*********** Sample 118 ***********
+Sentence: {'text_a': "Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti's first democratically elected president", 'text_b': 'Evans Paul is the mayor of Port-au-Prince.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti's first democratically elected president", 'text_b': 'Evans Port-au-Prince is the mayor of Paul.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 122 ***********
+Sentence: {'text_a': 'In support of the Earth Island Institute rebuttal, Greenpeace founder Don White made the following - unfortunately prophetic - public statement on 8/18/93.', 'text_b': 'Don White is the founder of Greenpeace.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'In support of the Earth Island Institute rebuttal, Greenpeace founder Don White made the following - unfortunately prophetic - public statement on 8/18/93.', 'text_b': 'Don Greenpeace is the founder of White.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 130 ***********
+Sentence: {'text_a': 'Gabriel Garcia Marquez is the author of "One Hundred Years of Solitude", "The Autumn of the Patriarch" and other novels.', 'text_b': 'Gabriel Garcia Marquez is a novelist and writer.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Gabriel Garcia Marquez is the author of "One Hundred Years of Solitude", "The Autumn of the Patriarch" and other novels.', 'text_b': 'Gabriel Garcia Marquez is a writer and novelist.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 132 ***********
+Sentence: {'text_a': "Plans are being drawn up to build a £3.3m working replica of the boat that took Charles Darwin around the world at Milford Haven in Pembrokeshire. Fundraising for the project, which would mark the 200th anniversary of Darwin's birth in 2009, is under way. The aim is to built a seaworthy vessel identical to the HMS Beagle on the outside, but with a modern interior. Darwin, who showed how natural selection could explain evolution, sailed on the Beagle between 1831-36.", 'text_b': 'Charles Darwin took a voyage on a ship named HMS Beagle.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Plans are being drawn up to build a £3.3m working replica of the boat that took Charles Darwin around the world at Milford Haven in Pembrokeshire. Fundraising for the project, which would mark the 200th anniversary of Darwin's birth in 2009, is under way. The aim is to built a seaworthy vessel identical to the HMS Beagle on the outside, but with a modern interior. Darwin, who showed how natural selection could explain evolution, sailed on the Beagle between 1831-36.", 'text_b': 'Charles Darwin took a voyage on a ship named Beagle HMS.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 133 ***********
+Sentence: {'text_a': 'The most sought after piece and the most expensive item was a bronze bust of Spencer Tracy that Hepburn created in the 1960s.', 'text_b': 'The highest-selling item was a bronze bust made by Hepburn in the 1960s of her actor lover Spencer Tracy.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The most sought after piece and the most expensive item was a bronze bust of Spencer Tracy that Hepburn created in the 1960s.', 'text_b': 'The highest-selling item was a bronze bust made by lover in the 1960s of her actor Hepburn Spencer Tracy.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 134 ***********
+Sentence: {'text_a': 'A senior coalition official in Iraq said the body, which was found by U.S. military police west of Baghdad, appeared to have been thrown from a vehicle.', 'text_b': 'A body has been found by U. S. military police.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'A senior coalition official in Iraq said the body, which was found by U.S. military police west of Baghdad, appeared to have been thrown from a vehicle.', 'text_b': 'A police has been found by U. S. military body.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 139 ***********
+Sentence: {'text_a': 'As a result, peptic ulcer disease has been transformed from a chronic, frequently disabling condition to one that can be cured by a short regimen of antibiotics and other medicines.', 'text_b': 'Antibiotics are used against peptic ulcer.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'As a result, peptic ulcer disease has been transformed from a chronic, frequently disabling condition to one that can be cured by a short regimen of antibiotics and other medicines.', 'text_b': 'peptic are used against Antibiotics ulcer.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 142 ***********
+Sentence: {'text_a': 'A light blue 1975 Ford Escort GL once owned by Pope John Paul II sold for $690,000 Saturday to a Houston multimillionaire who said he plans to put it in a museum he wants to build in his hometown.', 'text_b': "A Houston multimillionaire buys the Pope's Ford Escort."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'A light blue 1975 Ford Escort GL once owned by Pope John Paul II sold for $690,000 Saturday to a Houston multimillionaire who said he plans to put it in a museum he wants to build in his hometown.', 'text_b': "A Ford multimillionaire buys the Pope's Houston Escort."}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 143 ***********
+Sentence: {'text_a': "Kozlowski and the company's former chief financial officer, Mark Swartz, were sentenced, on Monday, to up to 25 years in prison.", 'text_b': 'Kozlowski was sentenced, Monday, to serve up to 25 years in prison.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Kozlowski and the company's former chief financial officer, Mark Swartz, were sentenced, on Monday, to up to 25 years in prison.", 'text_b': 'Monday was sentenced , Kozlowski , to serve up to 25 years in prison.'}
+Prediction: entailment
+Predictions with shuffle: 
+	+ Swapped: entailment
+Ground truth: entailment
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+

@@ -1,0 +1,308 @@
+{"guid": 1, "text_a": "The stretch made the rope weights over the pulley.", "text_b": "", "label": "1"}
+{"guid": 2, "text_a": "The mechanical doll wriggled itself loose.", "text_b": "", "label": "1"}
+{"guid": 7, "text_a": "Mary listens to the Grateful Dead, she gets depressed.", "text_b": "", "label": "1"}
+{"guid": 10, "text_a": "The more Fred is obnoxious, the less attention you should pay to him.", "text_b": "", "label": "1"}
+{"guid": 12, "text_a": "The more people you give beer to , the more people get sick.", "text_b": "", "label": "1"}
+{"guid": 14, "text_a": "The more news of him that appear in the pictures , the more embarrassed John becomes.", "text_b": "", "label": "1"}
+{"guid": 16, "text_a": "Who does Sally visit John because he likes?", "text_b": "", "label": "0"}
+{"guid": 22, "text_a": "I said that never in my place had I seen a life like Bangor.", "text_b": "", "label": "1"}
+{"guid": 23, "text_a": "Mickey looked up it.", "text_b": "", "label": "0"}
+{"guid": 24, "text_a": "There tended to be a discussion of lot.", "text_b": "", "label": "1"}
+{"guid": 27, "text_a": "We want John to win.", "text_b": "", "label": "1"}
+{"guid": 29, "text_a": "The gas was escaped by tube.", "text_b": "", "label": "0"}
+{"guid": 31, "text_a": "The water leaked tub.", "text_b": "", "label": "1"}
+{"guid": 38, "text_a": "Most courts probably consider , even though the people did n't actually find , Klaus guilty of murder.", "text_b": "", "label": "1"}
+{"guid": 40, "text_a": "Clearly , French probably will immediately learn John perfectly.", "text_b": "", "label": "1"}
+{"guid": 44, "text_a": "They represented seriously to the genuine Mary as a dean linguist.", "text_b": "", "label": "0"}
+{"guid": 46, "text_a": "It is nice to go abroad.", "text_b": "", "label": "1"}
+{"guid": 52, "text_a": "Mary will read Fred's story , and Holly will read Joe 's.", "text_b": "", "label": "1"}
+{"guid": 54, "text_a": "bartender came to be introduced by the Mary and I also came to be.", "text_b": "", "label": "0"}
+{"guid": 57, "text_a": "I know which Jos\u00e9 book did n't read for class , and which book Lilly did it for him.", "text_b": "", "label": "0"}
+{"guid": 58, "text_a": "This is the book which Fred reviewed , and this is the one which Bob wo n't do it.", "text_b": "", "label": "0"}
+{"guid": 59, "text_a": "I know which Mag book read , and which book Bob said that you had n't.", "text_b": "", "label": "1"}
+{"guid": 60, "text_a": "I know which book Bob read , and which book Mag read my report that you had n't.", "text_b": "", "label": "0"}
+{"guid": 63, "text_a": "Rusty talked about everything before Fred did talk about something.", "text_b": "", "label": "1"}
+{"guid": 65, "text_a": "The problem perceives easily.", "text_b": "", "label": "0"}
+{"guid": 66, "text_a": "A hundred fort surrounded the men.", "text_b": "", "label": "1"}
+{"guid": 70, "text_a": "He let the cats which were whining out.", "text_b": "", "label": "1"}
+{"guid": 77, "text_a": "I know a drives who Tom man as drives.", "text_b": "", "label": "0"}
+{"guid": 80, "text_a": "Himself is understood by Rutherford.", "text_b": "", "label": "0"}
+{"guid": 85, "text_a": "Where did you go and who ate what?", "text_b": "", "label": "1"}
+{"guid": 86, "text_a": "Which guardian's 's did we elect boy employer president?", "text_b": "", "label": "0"}
+{"guid": 91, "text_a": "Wind was gotten of a war to negotiate an honorable end to the plot in Vietnam.", "text_b": "", "label": "0"}
+{"guid": 96, "text_a": "We donated wire for the cages to build convicts with.", "text_b": "", "label": "1"}
+{"guid": 99, "text_a": "I won't ask you to believe that he tried to force me to give her any money.", "text_b": "", "label": "1"}
+{"guid": 102, "text_a": "That the fuzz wanted him worried Mary , but that the fuzz wanted her did n't worry John.", "text_b": "", "label": "1"}
+{"guid": 105, "text_a": "Here 's a onions with which for you to cut up the knife.", "text_b": "", "label": "0"}
+{"guid": 106, "text_a": "Fluffy is sick, which not everybody knows.", "text_b": "", "label": "1"}
+{"guid": 111, "text_a": "The socks are ready for for you to put on to be planned.", "text_b": "", "label": "0"}
+{"guid": 114, "text_a": "My father is easy to please my mother and.", "text_b": "", "label": "0"}
+{"guid": 117, "text_a": "Every student , and he wears swinger , is a socks.", "text_b": "", "label": "0"}
+{"guid": 121, "text_a": "Everybody around here who ever buys anything on credit sleep in his talks.", "text_b": "", "label": "1"}
+{"guid": 127, "text_a": "I sent the world halfway around the package.", "text_b": "", "label": "1"}
+{"guid": 128, "text_a": "Sam gave the basket out of the ball.", "text_b": "", "label": "0"}
+{"guid": 129, "text_a": "Sam offered the basket out of the ball.", "text_b": "", "label": "0"}
+{"guid": 134, "text_a": "Catherine promised Sarah her old car , but then gave it to her son instead.", "text_b": "", "label": "1"}
+{"guid": 135, "text_a": "I lent the book Tony to partway.", "text_b": "", "label": "0"}
+{"guid": 137, "text_a": "The apples dumped the cart with farmer.", "text_b": "", "label": "0"}
+{"guid": 140, "text_a": "Bill broke Janet on the finger.", "text_b": "", "label": "0"}
+{"guid": 146, "text_a": "room came the Sharon.", "text_b": "", "label": "0"}
+{"guid": 148, "text_a": "That oak will grow into an acorn tree.", "text_b": "", "label": "1"}
+{"guid": 151, "text_a": "Brian threw the stick with the fence.", "text_b": "", "label": "0"}
+{"guid": 152, "text_a": "Terry condemned Mira for the accident.", "text_b": "", "label": "1"}
+{"guid": 155, "text_a": "They praised the volunteers in the dedication.", "text_b": "", "label": "0"}
+{"guid": 158, "text_a": "Sandra beamed a cheerful welcome.", "text_b": "", "label": "1"}
+{"guid": 162, "text_a": "Jessica loaded wagon under the boxes.", "text_b": "", "label": "1"}
+{"guid": 163, "text_a": "Jessica loaded wagon on the boxes.", "text_b": "", "label": "1"}
+{"guid": 164, "text_a": "Jessica crammed truck at the boxes.", "text_b": "", "label": "0"}
+{"guid": 165, "text_a": "toast buttered at the Lora.", "text_b": "", "label": "0"}
+{"guid": 170, "text_a": "book slid at the Carla.", "text_b": "", "label": "0"}
+{"guid": 172, "text_a": "York drive easily to New Packages.", "text_b": "", "label": "0"}
+{"guid": 174, "text_a": "We offered a job to her.", "text_b": "", "label": "1"}
+{"guid": 190, "text_a": "The tree grew that acorn into an oak gardener.", "text_b": "", "label": "1"}
+{"guid": 196, "text_a": "conditions said about the present Ellen.", "text_b": "", "label": "0"}
+{"guid": 202, "text_a": "My heart is pounding me.", "text_b": "", "label": "0"}
+{"guid": 210, "text_a": "The hall echoed in the voices.", "text_b": "", "label": "1"}
+{"guid": 212, "text_a": "There presented itself a wonderful yesterday opportunity.", "text_b": "", "label": "0"}
+{"guid": 217, "text_a": "many information was provided.", "text_b": "", "label": "0"}
+{"guid": 218, "text_a": "advice offers many John.", "text_b": "", "label": "0"}
+{"guid": 224, "text_a": "They have no in.", "text_b": "", "label": "0"}
+{"guid": 225, "text_a": "Some my jeopardy are in jobs.", "text_b": "", "label": "0"}
+{"guid": 226, "text_a": "It was the policeman met that several young students in the night last park.", "text_b": "", "label": "0"}
+{"guid": 236, "text_a": "A good friend is remained to me by him.", "text_b": "", "label": "0"}
+{"guid": 237, "text_a": "noodle ate his John quietly.", "text_b": "", "label": "1"}
+{"guid": 242, "text_a": "Everyone hoped that she would sing.", "text_b": "", "label": "1"}
+{"guid": 244, "text_a": "The doughnut devoured the crocodile.", "text_b": "", "label": "1"}
+{"guid": 246, "text_a": "bathtub put under the John.", "text_b": "", "label": "0"}
+{"guid": 252, "text_a": "box put in the Kim.", "text_b": "", "label": "0"}
+{"guid": 257, "text_a": "book paid me against the John.", "text_b": "", "label": "0"}
+{"guid": 261, "text_a": "Students studying Darkness reads Conrad's Heart of English while at university.", "text_b": "", "label": "0"}
+{"guid": 263, "text_a": "Most of the fruit is rotten.", "text_b": "", "label": "1"}
+{"guid": 271, "text_a": "There seemed to be intelligent.", "text_b": "", "label": "0"}
+{"guid": 273, "text_a": "We believed John to be a park in the fountain.", "text_b": "", "label": "0"}
+{"guid": 278, "text_a": "I hope to would study in France.", "text_b": "", "label": "0"}
+{"guid": 279, "text_a": "ball can kick the John.", "text_b": "", "label": "1"}
+{"guid": 280, "text_a": "John will rain tomorrow.", "text_b": "", "label": "0"}
+{"guid": 281, "text_a": "We expect there to will rain.", "text_b": "", "label": "0"}
+{"guid": 282, "text_a": "office was found in the John.", "text_b": "", "label": "1"}
+{"guid": 298, "text_a": "A book was weighed by the pound.", "text_b": "", "label": "0"}
+{"guid": 301, "text_a": "Fed knows which politician her to vote for.", "text_b": "", "label": "0"}
+{"guid": 315, "text_a": "Tom is eager to please Kim.", "text_b": "", "label": "1"}
+{"guid": 323, "text_a": "Each author whose contribution is written in any language other than English will provide a summary in English.", "text_b": "", "label": "1"}
+{"guid": 329, "text_a": "1 gave Mary after the book a party.", "text_b": "", "label": "0"}
+{"guid": 330, "text_a": "Because she's so pleasant, as for Mary I really like her.", "text_b": "", "label": "0"}
+{"guid": 337, "text_a": "Some of them made as many errors as 20.", "text_b": "", "label": "1"}
+{"guid": 342, "text_a": "Betsy leather shows herself that Blue is pretty.", "text_b": "", "label": "0"}
+{"guid": 344, "text_a": "I hit that you knew the answer.", "text_b": "", "label": "0"}
+{"guid": 346, "text_a": "It was a brand new car that he bought.", "text_b": "", "label": "1"}
+{"guid": 349, "text_a": "I didn't have a red cent.", "text_b": "", "label": "1"}
+{"guid": 350, "text_a": "the book of time and from Blackwell takes a very long poems to read.", "text_b": "", "label": "0"}
+{"guid": 353, "text_a": "The building's the roof is leaking.", "text_b": "", "label": "0"}
+{"guid": 354, "text_a": "the panther's the coat is dark black.", "text_b": "", "label": "0"}
+{"guid": 357, "text_a": "I know you eat asparagus.", "text_b": "", "label": "1"}
+{"guid": 362, "text_a": "Andy thinks that Heidi to eat salmon flavored candy bars.", "text_b": "", "label": "0"}
+{"guid": 368, "text_a": "If he were a rich ring , he 'd buy a diamond man.", "text_b": "", "label": "1"}
+{"guid": 372, "text_a": "Who did you think kissed the gorilla?", "text_b": "", "label": "1"}
+{"guid": 375, "text_a": "I ate a beans that was filled with lima salad.", "text_b": "", "label": "1"}
+{"guid": 377, "text_a": "Jean is reluctant to dance.", "text_b": "", "label": "1"}
+{"guid": 378, "text_a": "I want her to dance.", "text_b": "", "label": "1"}
+{"guid": 384, "text_a": "Mary thinks that John loves himself.", "text_b": "", "label": "0"}
+{"guid": 386, "text_a": "Any owl mice hunts.", "text_b": "", "label": "1"}
+{"guid": 396, "text_a": "The Sox beat the Red Dodgers and were beaten by the Giants.", "text_b": "", "label": "1"}
+{"guid": 397, "text_a": "In which man was the car seen?", "text_b": "", "label": "1"}
+{"guid": 409, "text_a": "Aunt regretted having to talk to Fanny Norris.", "text_b": "", "label": "1"}
+{"guid": 414, "text_a": "The idea dismayed the Dome Minister that the Prime was dull.", "text_b": "", "label": "1"}
+{"guid": 416, "text_a": "Knightley admired Mr Harriet.", "text_b": "", "label": "1"}
+{"guid": 417, "text_a": "The book is boring.", "text_b": "", "label": "1"}
+{"guid": 422, "text_a": "The yard marched the prisoners round the guard.", "text_b": "", "label": "1"}
+{"guid": 427, "text_a": "Golden was awarded the Pat Fleece Award and very upset about it.", "text_b": "", "label": "1"}
+{"guid": 428, "text_a": "Kim alienated dog and beating his cats.", "text_b": "", "label": "0"}
+{"guid": 430, "text_a": "Which Terry did article file papers without reading?", "text_b": "", "label": "0"}
+{"guid": 432, "text_a": "She goes and buying some whiskey.", "text_b": "", "label": "0"}
+{"guid": 433, "text_a": "Terry and Kim is happy.", "text_b": "", "label": "0"}
+{"guid": 434, "text_a": "Kim gave a dollar to Jean and a dime to Bobbie.", "text_b": "", "label": "1"}
+{"guid": 439, "text_a": "John became deadly afraid of flying.", "text_b": "", "label": "1"}
+{"guid": 440, "text_a": "What John promised is to be gentle.", "text_b": "", "label": "1"}
+{"guid": 443, "text_a": "Smith loaned a valuable manuscripts of collection to the library.", "text_b": "", "label": "1"}
+{"guid": 446, "text_a": "Suddenly , there arrived two INS from the inspectors.", "text_b": "", "label": "1"}
+{"guid": 454, "text_a": "John finished the lemonade and drank the cake.", "text_b": "", "label": "1"}
+{"guid": 455, "text_a": "Herself likes Mary's mother.", "text_b": "", "label": "0"}
+{"guid": 457, "text_a": "John's mother likes himself.", "text_b": "", "label": "0"}
+{"guid": 458, "text_a": "John revealed himself to Mary.", "text_b": "", "label": "0"}
+{"guid": 459, "text_a": "Bill believes that Mary saw himself.", "text_b": "", "label": "1"}
+{"guid": 460, "text_a": "John heard that they criticized themselves.", "text_b": "", "label": "0"}
+{"guid": 461, "text_a": "Mary thinks that she is smart.", "text_b": "", "label": "1"}
+{"guid": 464, "text_a": "You should sit before there.", "text_b": "", "label": "0"}
+{"guid": 466, "text_a": "Everyone hopes everyone to sleep.", "text_b": "", "label": "0"}
+{"guid": 471, "text_a": "I saw Mary while you did so Bill.", "text_b": "", "label": "0"}
+{"guid": 472, "text_a": "What Bill did Mary was give a book.", "text_b": "", "label": "0"}
+{"guid": 474, "text_a": "to steal witches from talismans is dangerous", "text_b": "", "label": "1"}
+{"guid": 477, "text_a": "The book that I said that I'd never read.", "text_b": "", "label": "1"}
+{"guid": 478, "text_a": "Khyber demonized up the Anson", "text_b": "", "label": "0"}
+{"guid": 479, "text_a": "It is not true that I might be going to the party.", "text_b": "", "label": "1"}
+{"guid": 483, "text_a": "The party we all like was at the Peter", "text_b": "", "label": "1"}
+{"guid": 488, "text_a": "There is a programme about Euripides on a tonight 4 Radio?", "text_b": "", "label": "1"}
+{"guid": 489, "text_a": "phoenix denied poisoning the Medea.", "text_b": "", "label": "1"}
+{"guid": 492, "text_a": "What did you ask who Medea gave?", "text_b": "", "label": "0"}
+{"guid": 493, "text_a": "It's Anson that I like", "text_b": "", "label": "1"}
+{"guid": 494, "text_a": "Medea tried the children to poison her nurse.", "text_b": "", "label": "0"}
+{"guid": 497, "text_a": "I ate that she was happy", "text_b": "", "label": "0"}
+{"guid": 498, "text_a": "Anson believed himself to be handsome.", "text_b": "", "label": "1"}
+{"guid": 500, "text_a": "dragon is having fought the Gilgamesh.", "text_b": "", "label": "0"}
+{"guid": 501, "text_a": "Anson thought that himself was happy.", "text_b": "", "label": "0"}
+{"guid": 504, "text_a": "I thought he liked myself", "text_b": "", "label": "0"}
+{"guid": 506, "text_a": "Jason happens to appear to seem to be sick.", "text_b": "", "label": "1"}
+{"guid": 507, "text_a": "What did you ask who saw?", "text_b": "", "label": "0"}
+{"guid": 509, "text_a": "He can will go", "text_b": "", "label": "0"}
+{"guid": 511, "text_a": "Which city did you ask which king invaded?", "text_b": "", "label": "0"}
+{"guid": 512, "text_a": "It is some disgruntled old humans in those ditches that pigs love to eat.", "text_b": "", "label": "1"}
+{"guid": 517, "text_a": "Will party come to the Anson?", "text_b": "", "label": "1"}
+{"guid": 518, "text_a": "I wondered who Medea had poisoned.", "text_b": "", "label": "1"}
+{"guid": 521, "text_a": "The banana is ate the monkey", "text_b": "", "label": "0"}
+{"guid": 528, "text_a": "They claimed they had settled on something, but it wasn't clear what they had settled on.", "text_b": "", "label": "1"}
+{"guid": 535, "text_a": "I served guests soup to my leek.", "text_b": "", "label": "1"}
+{"guid": 538, "text_a": "She knew Tom for French.", "text_b": "", "label": "0"}
+{"guid": 550, "text_a": "She didn't talk to one student.", "text_b": "", "label": "1"}
+{"guid": 554, "text_a": "The newspaper has reported that they are about to appoint someone , but I ca n't remember who the newspaper has reported that they are about to appoint.", "text_b": "", "label": "1"}
+{"guid": 555, "text_a": "The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint.", "text_b": "", "label": "1"}
+{"guid": 562, "text_a": "Which author did each book recommend?", "text_b": "", "label": "1"}
+{"guid": 564, "text_a": "They were going to meet sometime on faculty , but the Sunday did n't know when.", "text_b": "", "label": "1"}
+{"guid": 567, "text_a": "John likes some students , but I do n't know who John likes some students.", "text_b": "", "label": "0"}
+{"guid": 573, "text_a": "She talked to Mary or John but I do n't know which one.", "text_b": "", "label": "1"}
+{"guid": 582, "text_a": "Harry is attracted to Meg , but they do n't know who she is attracted to.", "text_b": "", "label": "1"}
+{"guid": 593, "text_a": "Sandy is wondering whether there will be students who have to drop the reason for a certain class , but she wo n't reveal what.", "text_b": "", "label": "1"}
+{"guid": 599, "text_a": "Sandy was trying to work out which problem would be able to solve a certain students.", "text_b": "", "label": "1"}
+{"guid": 600, "text_a": "The student has issued a statement that it is willing to meet with one of the administration groups.", "text_b": "", "label": "1"}
+{"guid": 601, "text_a": "Sandy was trying to work out which problem would be able to solve a students.", "text_b": "", "label": "1"}
+{"guid": 608, "text_a": "Who did they see someone?", "text_b": "", "label": "0"}
+{"guid": 612, "text_a": "spider was bitten by the Ted.", "text_b": "", "label": "1"}
+{"guid": 613, "text_a": "The John was by book written.", "text_b": "", "label": "0"}
+{"guid": 614, "text_a": "The coach was summed by the argument up.", "text_b": "", "label": "0"}
+{"guid": 616, "text_a": "The John was written by paper up.", "text_b": "", "label": "0"}
+{"guid": 618, "text_a": "Mary was spoken by John to.", "text_b": "", "label": "0"}
+{"guid": 620, "text_a": "book was seen the John.", "text_b": "", "label": "0"}
+{"guid": 622, "text_a": "Mary was spoke by John to.", "text_b": "", "label": "0"}
+{"guid": 624, "text_a": "The John was wiped by table clean.", "text_b": "", "label": "0"}
+{"guid": 625, "text_a": "John was given by Mary the book.", "text_b": "", "label": "0"}
+{"guid": 630, "text_a": "The Mary were sent to herself by magazines.", "text_b": "", "label": "0"}
+{"guid": 638, "text_a": "student were taken from each Books by the other.", "text_b": "", "label": "1"}
+{"guid": 641, "text_a": "Mary hates Sue and is loved by Jack.", "text_b": "", "label": "1"}
+{"guid": 642, "text_a": "Phyllis sent a baby alligator to Max and a leather dinosaur to Vera.", "text_b": "", "label": "1"}
+{"guid": 653, "text_a": "Harry told Sally that Albania is a lovely place for a vacation , and Tom told Sue that Albania is a lovely place for a vacation.", "text_b": "", "label": "1"}
+{"guid": 658, "text_a": "Arizona elected Goldwater Massachusetts , and Senator , McCormack.", "text_b": "", "label": "0"}
+{"guid": 662, "text_a": "Harry ate the peaches , and Bill did , too.", "text_b": "", "label": "1"}
+{"guid": 663, "text_a": "Harry must quickly eat the peaches , and Bill must slowly.", "text_b": "", "label": "0"}
+{"guid": 666, "text_a": "I bought three wine of quarts and two of Clorox.", "text_b": "", "label": "1"}
+{"guid": 672, "text_a": "As a teacher , you have to deal simultaneously with the children pressure on you to succeed , and the administration's 's to be a nice guy.", "text_b": "", "label": "0"}
+{"guid": 678, "text_a": "eye dog with one Tom's attacked Fred 's.", "text_b": "", "label": "1"}
+{"guid": 686, "text_a": "I know the mother whose person died.", "text_b": "", "label": "1"}
+{"guid": 688, "text_a": "I wonder whose mother died.", "text_b": "", "label": "1"}
+{"guid": 689, "text_a": "I wonder whose mother's dog died.", "text_b": "", "label": "1"}
+{"guid": 693, "text_a": "I want goes to the store.", "text_b": "", "label": "0"}
+{"guid": 694, "text_a": "I wonder what to be a cover on the clown of.", "text_b": "", "label": "0"}
+{"guid": 696, "text_a": "A student who to talk to us just walked in.", "text_b": "", "label": "0"}
+{"guid": 698, "text_a": "I wonder in whom to place my trust.", "text_b": "", "label": "1"}
+{"guid": 700, "text_a": "It was to to amuse us that Kim was singing that they wanted.", "text_b": "", "label": "0"}
+{"guid": 705, "text_a": "It would be unwise for there to be no fire exit.", "text_b": "", "label": "1"}
+{"guid": 707, "text_a": "I wonder in whom them to place their trust.", "text_b": "", "label": "0"}
+{"guid": 708, "text_a": "I wonder whom us to trust.", "text_b": "", "label": "0"}
+{"guid": 709, "text_a": "I wonder who for us to trust.", "text_b": "", "label": "0"}
+{"guid": 710, "text_a": "I wonder who to place my trust in.", "text_b": "", "label": "1"}
+{"guid": 715, "text_a": "I dislike the trust in which we placed our company.", "text_b": "", "label": "1"}
+{"guid": 720, "text_a": "A Jones was received letter would be upset by.", "text_b": "", "label": "0"}
+{"guid": 721, "text_a": "I saw someone years I had n't seen for yesterday.", "text_b": "", "label": "1"}
+{"guid": 722, "text_a": "Something happened I couldn't really talk about.", "text_b": "", "label": "1"}
+{"guid": 725, "text_a": "The only person whose kids John is willing to put up with was written by Dana.", "text_b": "", "label": "0"}
+{"guid": 729, "text_a": "Which mother 's , boy , did you meet who you liked?", "text_b": "", "label": "0"}
+{"guid": 730, "text_a": "Which author 's , book did you meet who you liked?", "text_b": "", "label": "0"}
+{"guid": 732, "text_a": "All who lost program in the scam are eligible for the money.", "text_b": "", "label": "1"}
+{"guid": 733, "text_a": "Who for class to talk to is still enrolled in the Sandy?", "text_b": "", "label": "0"}
+{"guid": 737, "text_a": "The only students being added to our group who were at Harvard were people.", "text_b": "", "label": "1"}
+{"guid": 746, "text_a": "We gave us to the cause.", "text_b": "", "label": "0"}
+{"guid": 749, "text_a": "Leslie told ourselves about us.", "text_b": "", "label": "0"}
+{"guid": 751, "text_a": "We think that Leslie likes ourselves.", "text_b": "", "label": "0"}
+{"guid": 757, "text_a": "We appeared to them to vote for themselves.", "text_b": "", "label": "0"}
+{"guid": 758, "text_a": "We admired the album of us in the pictures.", "text_b": "", "label": "1"}
+{"guid": 760, "text_a": "pen used a Leslie.", "text_b": "", "label": "1"}
+{"guid": 769, "text_a": "Lee saw the telescope with a student.", "text_b": "", "label": "1"}
+{"guid": 772, "text_a": "If only planes would stop flying Superman!", "text_b": "", "label": "1"}
+{"guid": 774, "text_a": "I know you like the back of my hand.", "text_b": "", "label": "1"}
+{"guid": 775, "text_a": "phone is on the Max now.", "text_b": "", "label": "1"}
+{"guid": 783, "text_a": "They lost themselves' books.", "text_b": "", "label": "0"}
+{"guid": 784, "text_a": "Some sentences go on and on and on.", "text_b": "", "label": "1"}
+{"guid": 785, "text_a": "Sentences some go on and on and on and on.", "text_b": "", "label": "0"}
+{"guid": 788, "text_a": "They were interested in his.", "text_b": "", "label": "1"}
+{"guid": 790, "text_a": "A large cat chased a small dog.", "text_b": "", "label": "1"}
+{"guid": 793, "text_a": "Some dogs yell at the people.", "text_b": "", "label": "1"}
+{"guid": 796, "text_a": "Some dogs consider the noisy people dangerous.", "text_b": "", "label": "1"}
+{"guid": 799, "text_a": "Some dogs consider the people dangerous.", "text_b": "", "label": "1"}
+{"guid": 801, "text_a": "Some neighborhood consider dogs in my people dangerous.", "text_b": "", "label": "1"}
+{"guid": 802, "text_a": "Some dogs consider people dangerous.", "text_b": "", "label": "1"}
+{"guid": 804, "text_a": "This disease gave Rome a fever in Leslie.", "text_b": "", "label": "1"}
+{"guid": 806, "text_a": "Most elections are quickly forgotten , but the time of 2000 , everyone will remember for a long election.", "text_b": "", "label": "1"}
+{"guid": 807, "text_a": "It is painting by Miro or drawing by Klee that the museum displays no.", "text_b": "", "label": "0"}
+{"guid": 809, "text_a": "The problem disappeared the teacher.", "text_b": "", "label": "0"}
+{"guid": 810, "text_a": "The student handed the teacher.", "text_b": "", "label": "0"}
+{"guid": 816, "text_a": "The tug gives the worm a birds.", "text_b": "", "label": "0"}
+{"guid": 819, "text_a": "pain delighted my Terry.", "text_b": "", "label": "0"}
+{"guid": 821, "text_a": "What additional categories and verbs would be required to handle these rules?", "text_b": "", "label": "1"}
+{"guid": 825, "text_a": "The allegation denies the defendants.", "text_b": "", "label": "0"}
+{"guid": 833, "text_a": "The defendant believed the jury lied.", "text_b": "", "label": "1"}
+{"guid": 836, "text_a": "We relied above Leslie.", "text_b": "", "label": "0"}
+{"guid": 839, "text_a": "The cream are happy of ice children.", "text_b": "", "label": "0"}
+{"guid": 840, "text_a": "The ice are fond with the children cream.", "text_b": "", "label": "0"}
+{"guid": 841, "text_a": "The cream are fond that they have ice children.", "text_b": "", "label": "0"}
+{"guid": 842, "text_a": "A newsstands appeared on the magazine.", "text_b": "", "label": "1"}
+{"guid": 844, "text_a": "newsstands appeared on the Newsweek.", "text_b": "", "label": "1"}
+{"guid": 848, "text_a": "The book that people was declining surprised many crime.", "text_b": "", "label": "0"}
+{"guid": 850, "text_a": "The picnic arrived while the storm.", "text_b": "", "label": "0"}
+{"guid": 857, "text_a": "We preferred them on our team.", "text_b": "", "label": "1"}
+{"guid": 868, "text_a": "The person confessed responsible.", "text_b": "", "label": "0"}
+{"guid": 869, "text_a": "The cat slept soundly and furry.", "text_b": "", "label": "0"}
+{"guid": 889, "text_a": "Leslie walking and Dana ran.", "text_b": "", "label": "0"}
+{"guid": 891, "text_a": "the books of putter left.", "text_b": "", "label": "0"}
+{"guid": 894, "text_a": "The protesters sprayed water on the police.", "text_b": "", "label": "1"}
+{"guid": 901, "text_a": "The river seen down the boat sank.", "text_b": "", "label": "1"}
+{"guid": 904, "text_a": "Lou forgot the closet in the umbrella.", "text_b": "", "label": "1"}
+{"guid": 906, "text_a": "Lou hoped the closet in the umbrella.", "text_b": "", "label": "0"}
+{"guid": 907, "text_a": "Lou put the umbrella was broken.", "text_b": "", "label": "0"}
+{"guid": 911, "text_a": "The mouse was bitten the cat.", "text_b": "", "label": "0"}
+{"guid": 912, "text_a": "The cat was bitten the dog by the mouse.", "text_b": "", "label": "0"}
+{"guid": 913, "text_a": "Chris was handed Pat a note by Sandy.", "text_b": "", "label": "0"}
+{"guid": 914, "text_a": "Chris was handed a note.", "text_b": "", "label": "1"}
+{"guid": 915, "text_a": "Sandy was handed Chris a note.", "text_b": "", "label": "0"}
+{"guid": 921, "text_a": "The patient was died.", "text_b": "", "label": "0"}
+{"guid": 923, "text_a": "ideas puts dumb TV.", "text_b": "", "label": "0"}
+{"guid": 930, "text_a": "Chris is hate Pat.", "text_b": "", "label": "0"}
+{"guid": 934, "text_a": "A row available was in the last seat.", "text_b": "", "label": "0"}
+{"guid": 935, "text_a": "Many Pat were fond of people.", "text_b": "", "label": "1"}
+{"guid": 936, "text_a": "window are looking through the People.", "text_b": "", "label": "1"}
+{"guid": 939, "text_a": "We talked to them about there.", "text_b": "", "label": "0"}
+{"guid": 942, "text_a": "It annoys bark that dogs people.", "text_b": "", "label": "1"}
+{"guid": 947, "text_a": "That Sandy had lied suggested.", "text_b": "", "label": "0"}
+{"guid": 950, "text_a": "continuum proved that the Cohen hypothesis was independent.", "text_b": "", "label": "1"}
+{"guid": 957, "text_a": "dealers are kept on suspected drug Tabs by the FBI.", "text_b": "", "label": "1"}
+{"guid": 961, "text_a": "John loaded the hay full with wagon.", "text_b": "", "label": "1"}
+{"guid": 963, "text_a": "I presented John with it dead.", "text_b": "", "label": "0"}
+{"guid": 964, "text_a": "Of whom are you thinking?", "text_b": "", "label": "1"}
+{"guid": 973, "text_a": "John was struck by Bill as stupid.", "text_b": "", "label": "0"}
+{"guid": 974, "text_a": "John was struck as sick.", "text_b": "", "label": "0"}
+{"guid": 976, "text_a": "Bill promised John to leave.", "text_b": "", "label": "1"}
+{"guid": 981, "text_a": "They make good cooks.", "text_b": "", "label": "1"}
+{"guid": 984, "text_a": "I am counting on Bill to incriminate himself.", "text_b": "", "label": "1"}
+{"guid": 991, "text_a": "Bill decided for John to get the prize.", "text_b": "", "label": "0"}
+{"guid": 992, "text_a": "Bill decided John to get the prize.", "text_b": "", "label": "0"}
+{"guid": 994, "text_a": "John wants to leave.", "text_b": "", "label": "1"}
+{"guid": 997, "text_a": "Mary told John that it would be important to leave early.", "text_b": "", "label": "1"}
+{"guid": 998, "text_a": "John told Fred that it was important to Mary to leave early.", "text_b": "", "label": "1"}
+{"guid": 1000, "text_a": "the John of election president surprised me.", "text_b": "", "label": "0"}
+{"guid": 1012, "text_a": "Bill is aware of it that John is here.", "text_b": "", "label": "0"}
+{"guid": 1013, "text_a": "Bill felt it that John was tardy.", "text_b": "", "label": "0"}
+{"guid": 1016, "text_a": "That John is reluctant seems.", "text_b": "", "label": "0"}
+{"guid": 1017, "text_a": "It is the problem that he is here.", "text_b": "", "label": "0"}
+{"guid": 1020, "text_a": "It is to give up to leave.", "text_b": "", "label": "0"}
+{"guid": 1023, "text_a": "John grudgingly accepted incompetence of his judgments as an auto mechanic.", "text_b": "", "label": "1"}
+{"guid": 1027, "text_a": "I gave it to Pete to take to the fair.", "text_b": "", "label": "1"}
+{"guid": 1030, "text_a": "I presented it to Bill to read.", "text_b": "", "label": "1"}
+{"guid": 1031, "text_a": "I presented Bill with it to read.", "text_b": "", "label": "0"}
+{"guid": 1041, "text_a": "prize arranged for himself to get the John.", "text_b": "", "label": "1"}

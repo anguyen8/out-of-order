@@ -1,0 +1,617 @@
+{"guid": "dev-0", "text_a": "but the staff was so horrible to us.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-1", "text_a": "it is very overpriced and not very tasty.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-2", "text_a": "it is very overpriced and not very tasty.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-3", "text_a": "i have eaten here a handful of times, for no reason besides sheer convenience.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-4", "text_a": "we were very disappointed.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-5", "text_a": "i will be going back very soon.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-6", "text_a": "look foward to trying the ruben upon returning.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-7", "text_a": "we usually go to the chart house to celebrate a birthday or anniversary.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-8", "text_a": "this little place has a cute interior decor and affordable city prices.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-9", "text_a": "this little place has a cute interior decor and affordable city prices.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-10", "text_a": "the price is reasonable although the service is poor.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-11", "text_a": "the price is reasonable although the service is poor.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-12", "text_a": "worth visiting the 1st ave spot because it is the original store.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-13", "text_a": "the fried rice is amazing here.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-14", "text_a": "three courses - choices include excellent mussels, puff pastry goat cheese and salad with a delicious dressing, and a hanger steak au poivre that is out of this world.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-15", "text_a": "the place is so cool and the service is prompt and curtious.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-16", "text_a": "the place is so cool and the service is prompt and curtious.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-17", "text_a": "i just wonder how you can have such a delicious meal for such little money.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-18", "text_a": "i just wonder how you can have such a delicious meal for such little money.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-19", "text_a": "the food was delicious but do not come here on a empty stomach.", "text_b": null, "label": "conflict", "aspect": "food"}
+{"guid": "dev-20", "text_a": "they wouldnt even let me finish my glass of wine before offering another.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-21", "text_a": "fabulous service, fantastic food, and a chilled out atmosphere and environment.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-22", "text_a": "fabulous service, fantastic food, and a chilled out atmosphere and environment.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-23", "text_a": "fabulous service, fantastic food, and a chilled out atmosphere and environment.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-24", "text_a": "try the lasagnette appetizer.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-25", "text_a": "great food, good size menu, great service and an unpretensious setting.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-26", "text_a": "great food, good size menu, great service and an unpretensious setting.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-27", "text_a": "great food, good size menu, great service and an unpretensious setting.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-28", "text_a": "unfortunately, the food is outstanding, but everything else about this restaurant is the pits.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-29", "text_a": "unfortunately, the food is outstanding, but everything else about this restaurant is the pits.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-30", "text_a": "we always have a delicious meal and always leave feeling satisfied.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-31", "text_a": "first went here to enjoy their garden terrace.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-32", "text_a": "went inside and i started to get excited.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-33", "text_a": "i also ordered for delivery and the restaurant forgot half the order.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-34", "text_a": "our server checked on us maybe twice during the entire meal.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-35", "text_a": "if you love wine and cheese and delicious french fare, you'll love artisanal!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-36", "text_a": "some baby pizzas get their wish.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-37", "text_a": "vt is what baby pizzas hope to be when they grow up.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-38", "text_a": "from the terrible service, to the bland food, not to mention the unaccommodating managers, the overall experience was horrible.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-39", "text_a": "from the terrible service, to the bland food, not to mention the unaccommodating managers, the overall experience was horrible.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-40", "text_a": "what more can you ask for?", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-41", "text_a": "tuk tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-42", "text_a": "tuk tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-43", "text_a": "tuk tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-44", "text_a": "the pizza here is delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-45", "text_a": "the pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-46", "text_a": "i understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-47", "text_a": "i understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-48", "text_a": "i understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-49", "text_a": "the other night we had the $30 three course meal and everything was delicious - if i could of licked the plate clean i would of.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-50", "text_a": "the environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-51", "text_a": "the environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-52", "text_a": "the environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-53", "text_a": "nice family owned traditional restaurant.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-54", "text_a": "the pizza is good though.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-55", "text_a": "the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if i must recommend a dish it must be the pumkin tortelini.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-56", "text_a": "very good service and very good prices.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-57", "text_a": "very good service and very good prices.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-58", "text_a": "the most annoying thing, though, is the fact that the servers seem to be trained to drive revenue.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-59", "text_a": "the drinks are amazing and half off till 8pm.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-60", "text_a": "the drinks are amazing and half off till 8pm.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-61", "text_a": "the service, wine selection, ambiance are all outstanding and deserve recognition.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-62", "text_a": "the service, wine selection, ambiance are all outstanding and deserve recognition.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-63", "text_a": "the service, wine selection, ambiance are all outstanding and deserve recognition.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-64", "text_a": "at first i was slightly skeptical because it was a sushi restaurant in the middle of nyc.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-65", "text_a": "however, it's not worth a special trip.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-66", "text_a": "nice value.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-67", "text_a": "and it was quick which is very important.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-68", "text_a": "joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-69", "text_a": "joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-70", "text_a": "my friends spoke so much about it for months, i finally made the time to come down ear and dine in.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-71", "text_a": "--eat club is a roving group of nyc gluttons", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-72", "text_a": "fresh ingredients and everything is made to order.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-73", "text_a": "quick and friendly service.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-74", "text_a": "try the hot dogs too, they're snappy and delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-75", "text_a": "the noise level was unbearable, conversation impossible.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-76", "text_a": "highly recommended is the spicy fried clam rolls and spider rolls.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-77", "text_a": "try the cheesecake!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-78", "text_a": "great indian food and the service is incredible.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-79", "text_a": "great indian food and the service is incredible.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-80", "text_a": "especially liked chicken tikka and the naan, and the dals.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-81", "text_a": "this tiny williamsburg spot is always pleasantly surprising.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-82", "text_a": "spice is great thai food, love the inexpensive appetizers.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-83", "text_a": "spice is great thai food, love the inexpensive appetizers.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-84", "text_a": "also make sure you pay attention to the music being piped in - quite a weird selection.", "text_b": null, "label": "neutral", "aspect": "ambience"}
+{"guid": "dev-85", "text_a": "went there and had a combination of different seafood dishes and appetizers.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-86", "text_a": "what a ripoff!", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-87", "text_a": "good music, great food, speedy service affordable prices.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-88", "text_a": "good music, great food, speedy service affordable prices.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-89", "text_a": "good music, great food, speedy service affordable prices.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-90", "text_a": "good music, great food, speedy service affordable prices.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-91", "text_a": "when going out for a nice dinner, i like a nice ambiance as well as very good food.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-92", "text_a": "otherwise, this place has great service and prices and a nice friendly atmosphere.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-93", "text_a": "otherwise, this place has great service and prices and a nice friendly atmosphere.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-94", "text_a": "otherwise, this place has great service and prices and a nice friendly atmosphere.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-95", "text_a": "the seating was if they were trying to get the maximum amount of people into the restaurant, so be nice to your neighbor when you dine here.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-96", "text_a": "i ordered the chu chu curry and my friend ordered the pad thai chicken.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-97", "text_a": "we go on mondays for the prix fixe and our experience with the food has been comparable to blue ribbon.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-98", "text_a": "the pizza is delicious and the proprietor is one of the nicest in nyc.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-99", "text_a": "the pizza is delicious and the proprietor is one of the nicest in nyc.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-100", "text_a": "it was horrible.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-101", "text_a": "the desserts are more appealing then stuffy overpriced french restaurants.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-102", "text_a": "emilio, the owner, is often sitting in the front table greeting guests as they come and go.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-103", "text_a": "i came to this restaurant expecting to be surprised but left bored and overcharged.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-104", "text_a": "i came to this restaurant expecting to be surprised but left bored and overcharged.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-105", "text_a": "two people in our party felt like something else, and volare immediately obliged with two great dishes that were not in their regular menu.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-106", "text_a": "two people in our party felt like something else, and volare immediately obliged with two great dishes that were not in their regular menu.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-107", "text_a": "he offers subpar service and has no personality.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-108", "text_a": "me and my girls will definitely go back.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-109", "text_a": "the portions are large and the servers always surprise us with a different starter.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-110", "text_a": "the portions are large and the servers always surprise us with a different starter.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-111", "text_a": "delicious bagels, especially when right out of the oven.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-112", "text_a": "the pad thai is excellent here, as well.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-113", "text_a": "highly recommended!!!!!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-114", "text_a": "i came here with my boyfriend for our anniversary because it was highly recommended to him by a friend.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-115", "text_a": "i had been searching really hard for a restaurant in new york where i could really feel unwanted and ignored and i finally found it!", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-116", "text_a": "go, go, hurry, before everyone finds out about it.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-117", "text_a": "it took them 25 minutes to bring our appetizer.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-118", "text_a": "save yourself the time and trouble and skip this one!", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-119", "text_a": "the appetizing is excellent - just as good as zabars barney greengrass at a reasonable price (if bought by the pound).", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-120", "text_a": "the appetizing is excellent - just as good as zabars barney greengrass at a reasonable price (if bought by the pound).", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-121", "text_a": "the food is fresh, delicious, and reasonably priced.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-122", "text_a": "the food is fresh, delicious, and reasonably priced.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-123", "text_a": "anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-124", "text_a": "saturday, nov. 6th i had a group from work come in with about 35 people and the staff was amazing to accomodate us.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-125", "text_a": "also, top the meal with a delicious and perfect slice of tiramisu.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-126", "text_a": "i am amazed by the poor reviews- i find this place to be standout italian in an area flooded with italian- great prices, great atmosphere, good service and a wonderful wine list.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-127", "text_a": "i am amazed by the poor reviews- i find this place to be standout italian in an area flooded with italian- great prices, great atmosphere, good service and a wonderful wine list.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-128", "text_a": "i am amazed by the poor reviews- i find this place to be standout italian in an area flooded with italian- great prices, great atmosphere, good service and a wonderful wine list.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-129", "text_a": "i am amazed by the poor reviews- i find this place to be standout italian in an area flooded with italian- great prices, great atmosphere, good service and a wonderful wine list.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-130", "text_a": "with the theater 2 blocks away we had a delicious meal in a beautiful room.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-131", "text_a": "with the theater 2 blocks away we had a delicious meal in a beautiful room.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-132", "text_a": "the food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-133", "text_a": "the food looked very appetizing and delicious since it came on a variety of fancy plates.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-134", "text_a": "- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes, however be warned that the peter's favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top, like a salad.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-135", "text_a": "over the years, it has always provided a pleasurable dining experience with quality food and wine.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-136", "text_a": "i would go back tho.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-137", "text_a": "we got most of it back at home with us.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-138", "text_a": "from beginning appetizers, the scallops were incredible, to the delicious chocolate souffle with rasberry mint sorbet, we were delighted by the taste sensations.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-139", "text_a": "while the ambiance and atmosphere were great, the food and service could have been a lot better.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-140", "text_a": "while the ambiance and atmosphere were great, the food and service could have been a lot better.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-141", "text_a": "while the ambiance and atmosphere were great, the food and service could have been a lot better.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-142", "text_a": "i had to share my table with a loud group of kids and the service was rude an unattentive.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-143", "text_a": "i had to share my table with a loud group of kids and the service was rude an unattentive.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-144", "text_a": "i haven't eat a lamb chop as delicious as that,the salads are really nice dressed with lemon and extra virgnin olive oil.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-145", "text_a": "it is not worth for that bucks.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-146", "text_a": "add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-147", "text_a": "add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-148", "text_a": "add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-149", "text_a": "for many people, this may not seem like aunthentic thai food because most places in nyc arent quite authentic.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-150", "text_a": "all the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-151", "text_a": "the food now is inconsistent.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-152", "text_a": "i was pretty much full after our fondue appetizer.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-153", "text_a": "i was pretty much full after our fondue appetizer.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-154", "text_a": "i was turned on to this restaurant by a fellow foodie friend of mine, and have been going back regularly ever since.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-155", "text_a": "it's delicious!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-156", "text_a": "in addition, the food is very good and the prices are reasonable.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-157", "text_a": "in addition, the food is very good and the prices are reasonable.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-158", "text_a": "upon entering, we were greeted by the owners, steven and frederick, who went out of their way to be more than gracious hosts.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-159", "text_a": "been going here since it opened have seen the quality value decrease considerably.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-160", "text_a": "all in all, this midtown gem instantly became one of my favorite sushi restaurants in the city.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-161", "text_a": "my first time there i happened not to like the crab croquette apt that i ordered and they were happy to change it for me without making no big deal.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-162", "text_a": "my first time there i happened not to like the crab croquette apt that i ordered and they were happy to change it for me without making no big deal.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-163", "text_a": "taj mahal offeres gret value and great food.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-164", "text_a": "taj mahal offeres gret value and great food.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-165", "text_a": "they even have a section in the menu called american chinese food!", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-166", "text_a": "i will recommend scopa to all of my friends for a place to go for wonderful italian food.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-167", "text_a": "looking around, i saw a room full of new yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-168", "text_a": "looking around, i saw a room full of new yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-169", "text_a": "the food is good, especially their more basic dishes, and the drinks are delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-170", "text_a": "the food is delicious and beautifully prepared along with the friendly and personable service.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-171", "text_a": "the food is delicious and beautifully prepared along with the friendly and personable service.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-172", "text_a": "my husband and i enjoy sangria.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-173", "text_a": "we both opted for a pasta dish and they were served timely and fresh.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-174", "text_a": "we both opted for a pasta dish and they were served timely and fresh.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-175", "text_a": "other apetizers and food", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-176", "text_a": "the crust is thin, the ingredients are fresh and the staff is friendly.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-177", "text_a": "the crust is thin, the ingredients are fresh and the staff is friendly.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-178", "text_a": "there is also very limited seating and there can be a substantial wait in getting food at peak times.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-179", "text_a": "there is also very limited seating and there can be a substantial wait in getting food at peak times.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-180", "text_a": "i have never been disappointed but their true strength lays in their amazingly delicious and cheap lunch specials.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-181", "text_a": "i have never been disappointed but their true strength lays in their amazingly delicious and cheap lunch specials.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-182", "text_a": "and its absolutely delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-183", "text_a": "this is my first time writing a review for a restaurant because the food and service was excellent.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-184", "text_a": "this is my first time writing a review for a restaurant because the food and service was excellent.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-185", "text_a": "this is my first time writing a review for a restaurant because the food and service was excellent.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-186", "text_a": "definitely highly not recommended.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-187", "text_a": "while they keep the capex to a minimum, they do put some cash into the bagels, because they among the best in the city.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-188", "text_a": "while they keep the capex to a minimum, they do put some cash into the bagels, because they among the best in the city.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-189", "text_a": "i have never before eaten 40 pieces of relatively good nigiri.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-190", "text_a": "i have never before eaten 40 pieces of relatively good nigiri.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-191", "text_a": "my first time here was with my gf for our 12 month anniversary.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-192", "text_a": "while the place is not a hotspot hangout, the drinks are unique and pack a lot of bang for the buck.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-193", "text_a": "while the place is not a hotspot hangout, the drinks are unique and pack a lot of bang for the buck.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-194", "text_a": "while the place is not a hotspot hangout, the drinks are unique and pack a lot of bang for the buck.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-195", "text_a": "their eggplant is so delicate, sweet tender!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-196", "text_a": "each bite of food at kai was indeed delicious, fresh, and elegant.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-197", "text_a": "highly recommended for a first date.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-198", "text_a": "the staff ignored my friends and i the entire time we were there.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-199", "text_a": "the hot dogs were cold in the middle and the buns were stale.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-200", "text_a": "i was so sad to read the bad reviews this place got!", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-201", "text_a": "the food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-202", "text_a": "it looked like shredded cheese partly done - still in strips.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-206", "text_a": "the food is amazing!!!!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-207", "text_a": "it can be a very fun experience with a group, and kids (6 and over) would love it.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-208", "text_a": "you must try the shrimp appetizers.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-209", "text_a": "waiters tend to forget drinks completely, food portions are so tiny, two people have trouble sharing one entree.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-210", "text_a": "waiters tend to forget drinks completely, food portions are so tiny, two people have trouble sharing one entree.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-211", "text_a": "interesting selection, good wines, service fine, fun decor.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-212", "text_a": "interesting selection, good wines, service fine, fun decor.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-213", "text_a": "interesting selection, good wines, service fine, fun decor.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-214", "text_a": "priced at upper intermediate range.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-215", "text_a": "hopefully next time, i will save room for dessert.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-216", "text_a": "his drinks are very inventive, delicious and classy.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-217", "text_a": "but when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-218", "text_a": "but when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-219", "text_a": "this place is amazingly bad.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-220", "text_a": "the ceiling is amazing!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-221", "text_a": "my wife and i were in nyc celebrating our 30th anniversary.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-222", "text_a": "and at the conclusion of this culinary nightmare the check was given to our table by knocking over a glass of water.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-223", "text_a": "and at the conclusion of this culinary nightmare the check was given to our table by knocking over a glass of water.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-224", "text_a": "the entree was bland and small, dessert was not inspired.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-225", "text_a": "delicious food at a great price but do not go here on a cold day and sit by the front door.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-226", "text_a": "delicious food at a great price but do not go here on a cold day and sit by the front door.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-227", "text_a": "delicious food at a great price but do not go here on a cold day and sit by the front door.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-228", "text_a": "pizza was a little soggy.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-229", "text_a": "this restaurant used to be our regular thursday night dinner location.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-230", "text_a": "too cold to enjoy.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-231", "text_a": "no more reservations, expensive tips and annoying stuff.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-232", "text_a": "try the sea bass.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-233", "text_a": "the exotic food is beautifully presented and is a delight in delicious combinations.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-234", "text_a": "service was prompt and courteous.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-235", "text_a": "mine was a little burnt but still delicious with goat cheese and panchetta (raddichio was kind of bitter though).", "text_b": null, "label": "conflict", "aspect": "food"}
+{"guid": "dev-236", "text_a": "disappointing food, lousy service.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-237", "text_a": "disappointing food, lousy service.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-238", "text_a": "meanwhile, the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil, gratis.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-239", "text_a": "meanwhile, the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil, gratis.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-240", "text_a": "stepped on my foot on the second time he reached over me to adjust lighting.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-241", "text_a": "the food was well prepared and the service impecable.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-242", "text_a": "the food was well prepared and the service impecable.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-243", "text_a": "this thai restaurant is a couple blocks away from sripraphai (another delicious thai restaurant).", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-244", "text_a": "stuffing yourself with japanese food is a rare thing.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-245", "text_a": "i try my best to give an accurate description of any establishment visited.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-246", "text_a": "there are many thai places in the city but so far toons is #1.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-247", "text_a": "the food was very expensive (we spent $160 for lunch for two) but extremely tasty.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-248", "text_a": "the food was very expensive (we spent $160 for lunch for two) but extremely tasty.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-249", "text_a": "i wish they would change back to what it was before.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-250", "text_a": "the signs, the specials menus, food, and even all the waitstaff are all totally japanese.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-251", "text_a": "the signs, the specials menus, food, and even all the waitstaff are all totally japanese.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-252", "text_a": "the signs, the specials menus, food, and even all the waitstaff are all totally japanese.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-253", "text_a": "an excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-254", "text_a": "an excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-255", "text_a": "the dining room is quietly elegant with no music to shout over -- how refreshing!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-256", "text_a": "everyone treats you like you were part of the family.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-257", "text_a": "the white bean brushetta to start was incredible and the pasta was phenomenal.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-258", "text_a": "great food, great lay out and awesome service.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-259", "text_a": "great food, great lay out and awesome service.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-260", "text_a": "great food, great lay out and awesome service.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-261", "text_a": "not worth it.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-262", "text_a": "the food has been consistant for years and it never lets you down.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-263", "text_a": "the food was spicy and delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-264", "text_a": "dahkin also offers prix fixe lunch and buffet.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-265", "text_a": "we actually gave 10% tip (which we have never done despite mediocre food and service), because we felt totally ripped off.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-266", "text_a": "we actually gave 10% tip (which we have never done despite mediocre food and service), because we felt totally ripped off.", "text_b": null, "label": "neutral", "aspect": "service"}
+{"guid": "dev-267", "text_a": "we actually gave 10% tip (which we have never done despite mediocre food and service), because we felt totally ripped off.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-268", "text_a": "while we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and slow service) and lack of remorse.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-269", "text_a": "while we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and slow service) and lack of remorse.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-270", "text_a": "i have never eaten in the restaurant, however, upon reading the reviews i got take out last week.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-271", "text_a": "from the moment you enter till the moment you walk out the friendly and helpful staff was was just fantastic.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-272", "text_a": "being a fan of spicy ethnic foods, indian included, i made friends with this place long ago.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-273", "text_a": "the quality of food at this restaurant accompanied  by fantastic live jazz makes this place a perfect 10!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-274", "text_a": "the quality of food at this restaurant accompanied  by fantastic live jazz makes this place a perfect 10!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-275", "text_a": "(always ask the bartender for the seasonal beer!!!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-276", "text_a": "sandwiches tho pricey are over stuffed - can serve 2 persons easily thus cost effective!", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-277", "text_a": "the yellowtail was particularly good as well.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-278", "text_a": "i ate clams oreganta and spectacular salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-279", "text_a": "were meeting up with some friends for a drink at lafayette 161 and happened to walk by thai angel famished.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-280", "text_a": "try the congee and the donut like deep fried dough they call ow ley soh, a delicious and sweet tasting bread.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-281", "text_a": "the food was delicious and the waiter was incredibly helpful and attentive (considering we were the only ones there for the first hour).", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-282", "text_a": "the food was delicious and the waiter was incredibly helpful and attentive (considering we were the only ones there for the first hour).", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-283", "text_a": "from the spectacular caviar to the hospitable waitstaff, i felt like royalty and enjoyed every second of it.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-284", "text_a": "from the spectacular caviar to the hospitable waitstaff, i felt like royalty and enjoyed every second of it.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-285", "text_a": "this little place definitely exceeded my expectations and you sure get a lot of food for your money.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-286", "text_a": "this little place definitely exceeded my expectations and you sure get a lot of food for your money.", "text_b": null, "label": "conflict", "aspect": "ambience"}
+{"guid": "dev-287", "text_a": "both are delicious, the cooks are friendly and are willing to take a moment and speak to you and shake your hand.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-288", "text_a": "both are delicious, the cooks are friendly and are willing to take a moment and speak to you and shake your hand.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-289", "text_a": "the staff was accomodating, the food was absolutely delicious and the place is lovely.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-290", "text_a": "the staff was accomodating, the food was absolutely delicious and the place is lovely.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-291", "text_a": "the staff was accomodating, the food was absolutely delicious and the place is lovely.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-292", "text_a": "i went there with my friend last saturday.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-293", "text_a": "excellent atmosphere, delicious dishes good and friendly service.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-294", "text_a": "excellent atmosphere, delicious dishes good and friendly service.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-295", "text_a": "excellent atmosphere, delicious dishes good and friendly service.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-296", "text_a": "great vibe, lots of people.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-297", "text_a": "a cool bar with great food, and tons of excellent beer.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-298", "text_a": "a cool bar with great food, and tons of excellent beer.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-299", "text_a": "be sure to try the seasonal, and always delicious, specials.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-300", "text_a": "fresh, authentic, french cuisine in substantial portions.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-301", "text_a": "the one vegetarian entree (abby's treasure) was actually quite a surprise - it was delicious and had wintermelon covering an assortment of fresh mushrooms and vegetables.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-302", "text_a": "even though i made the reservation at 3pm for the same night through dinnerbroker, we were seated at a table with one of the best view!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-303", "text_a": "even though i made the reservation at 3pm for the same night through dinnerbroker, we were seated at a table with one of the best view!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-304", "text_a": "we did notice however, that some tables had what looked like pita instead of naan.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-305", "text_a": "we did have to wait at the bar for approx.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-306", "text_a": "my friends and i experienced amazing cheese and a delicious, new summer menu at artisanal last night.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-307", "text_a": "my friends and i experienced amazing cheese and a delicious, new summer menu at artisanal last night.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-308", "text_a": "the servers give you some sample slices of your order while you wait (shortly i might add).", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-309", "text_a": "the food was delicious (i had a halibut special, my husband had steak), and the service was top-notch.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-310", "text_a": "the food was delicious (i had a halibut special, my husband had steak), and the service was top-notch.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-311", "text_a": "but too far east!", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-312", "text_a": "highly highly highly recommended!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-313", "text_a": "we came here on a crowded saturday night and were seated right away despite being 15 minutes late for our reservation.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-314", "text_a": "largest and freshest pieces of sushi, and delicious!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-315", "text_a": "even the pasta is delicious here (a rarity in new york pizza restaurants).", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-316", "text_a": "after my 3rd time the manager remembered me and treated me like an usual customer.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-317", "text_a": "fish is so very fresh.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-318", "text_a": "the prices were cheap compared to the quality of service and food.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-319", "text_a": "the prices were cheap compared to the quality of service and food.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-320", "text_a": "the prices were cheap compared to the quality of service and food.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-321", "text_a": "this was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-322", "text_a": "this was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-323", "text_a": "overall the restaurant is more expensive than our other sushi favorites, but everything was delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-324", "text_a": "overall the restaurant is more expensive than our other sushi favorites, but everything was delicious.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-325", "text_a": "these innovators of french indian fusion do a great job of making dishes as interesting as possible while still being accessible.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-326", "text_a": "we were worried we would have trouble getting in, but somehow managed to have a short wait.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-327", "text_a": "we were worried we would have trouble getting in, but somehow managed to have a short wait.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-328", "text_a": "we could only get through an appetizer and cheese fondue.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-329", "text_a": "we could only get through an appetizer and cheese fondue.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-330", "text_a": "we had the scallops as an appetizer and they were delicious and the sauce was wonderful.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-331", "text_a": "last memorial day, i tried to make reservations but was told they were closed that weekend (interesting, but ... ).", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-332", "text_a": "last memorial day, i tried to make reservations but was told they were closed that weekend (interesting, but ... ).", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-333", "text_a": "i particularly love their yellowfun tuna and their mussel selection.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-334", "text_a": "we made early dinner reservations and were thoroughly impressed, reminds me of my grandfather, its old school italian scenery with lots of fun stuff to admire.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-335", "text_a": "for asian fusion, there are many places further downtown.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-336", "text_a": "my gf and i still choose to eat there a lot because of diverse cocktails, the chill decor, and the decent sushi.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-337", "text_a": "my gf and i still choose to eat there a lot because of diverse cocktails, the chill decor, and the decent sushi.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-338", "text_a": "waitstaff are very friendly.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-339", "text_a": "terrible experience.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-340", "text_a": "the miso soup lacked flavor and the fish was unfortunately not as well prepared as in the past.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-341", "text_a": "we had the most wonderful waitress.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-342", "text_a": "i would highly recommend this place to anyone who is looking for a fine indian dining experience that is definitely a value for your dollar.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-343", "text_a": "i would highly recommend this place to anyone who is looking for a fine indian dining experience that is definitely a value for your dollar.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-344", "text_a": "i would highly recommend this place to anyone who is looking for a fine indian dining experience that is definitely a value for your dollar.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-345", "text_a": "we spent 50 $$ definetly will come back with my friends!!!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-346", "text_a": "we spent 50 $$ definetly will come back with my friends!!!", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-347", "text_a": "went to village last night for my birthday.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-348", "text_a": "try the chocolate mud cake (warmed) with 2 scoops of dulce de leche gelato.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-349", "text_a": "the blond wood decor is very soothing, the premium sake is excellent and the service is great.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-350", "text_a": "the blond wood decor is very soothing, the premium sake is excellent and the service is great.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-351", "text_a": "the blond wood decor is very soothing, the premium sake is excellent and the service is great.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-352", "text_a": "also, because it is so thin, it gets cold very quickly and its not that filling.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-353", "text_a": "the food is nothing like its menu description.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-354", "text_a": "i loved it and would highly recommend.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-355", "text_a": "the best place to bring kids or any friends who want to do something different.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-356", "text_a": "the service was a bit slow, but they were very friendly.", "text_b": null, "label": "conflict", "aspect": "service"}
+{"guid": "dev-357", "text_a": "the food was absolutely horrible!", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-358", "text_a": "restaurant was dirty and unkempt.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-359", "text_a": "similar to other indian restaurants, they use the dinner special to attract customers at the door.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-360", "text_a": "the people with carts of food don't understand you because they don't speak english, their job is to give you the delicious food you point at.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-361", "text_a": "the people with carts of food don't understand you because they don't speak english, their job is to give you the delicious food you point at.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-362", "text_a": "the people with carts of food don't understand you because they don't speak english, their job is to give you the delicious food you point at.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-363", "text_a": "this tiny restaurant is as cozy as it gets, with that certain parisian flair.", "text_b": null, "label": "neutral", "aspect": "ambience"}
+{"guid": "dev-364", "text_a": "i would highly recommend it.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-365", "text_a": "the food was mediocre at best but it was the horrible service that made me vow never to go back.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-366", "text_a": "the food was mediocre at best but it was the horrible service that made me vow never to go back.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-367", "text_a": "i go and eat out at many different restaurants and this is one place you have go and try.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-368", "text_a": "i go and eat out at many different restaurants and this is one place you have go and try.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-369", "text_a": "we only ordered desserts and drinks, but no refills were offered.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-370", "text_a": "service was also horrible and the ambience is not that great.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-371", "text_a": "service was also horrible and the ambience is not that great.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-372", "text_a": "came looking for this place because i heard good things.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-373", "text_a": "horrible.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-374", "text_a": "i've never had bad service and the fish is fresh and delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-375", "text_a": "i've never had bad service and the fish is fresh and delicious.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-376", "text_a": "nothing special about this place.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-377", "text_a": "this place has good potential, but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-378", "text_a": "this place has good potential, but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-379", "text_a": "this place has good potential, but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-380", "text_a": "delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-381", "text_a": "orsay, is a very pleasnt throw back to traditional french food, and french service as well.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-382", "text_a": "orsay, is a very pleasnt throw back to traditional french food, and french service as well.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-383", "text_a": "salads are a delicious way to begin the meal.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-384", "text_a": "this quiet dark asian bistro is well worth the trip.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-385", "text_a": "i knew upon visiting nyc that i wanted to try an orginal deli.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-386", "text_a": "everything, from the soft bread, soggy salad, and 50 minute wait time, with an incredibly rude service to deliver below average food.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-387", "text_a": "everything, from the soft bread, soggy salad, and 50 minute wait time, with an incredibly rude service to deliver below average food.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-388", "text_a": "- i asked for them spicy and they were delicious).", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-389", "text_a": "it is terrific, as is the value.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-390", "text_a": "it is terrific, as is the value.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-391", "text_a": "the food was not fresh, the sauces were bland and very oily.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-392", "text_a": "everyone was more then happy with his choices.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-393", "text_a": "everything looks great, the drinks, the decor, the food, even the people.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-394", "text_a": "everything looks great, the drinks, the decor, the food, even the people.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-395", "text_a": "good crowd, good outdoor seating, with a hip japanese vibe.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-396", "text_a": "even with the prix fixe pricing, this restaurant is not worth it.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-397", "text_a": "good to find a restaurant where the owners have some imagination and they have actually pulled it off, like in this case.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-398", "text_a": "then, get ripped on free box wine.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-399", "text_a": "then, get ripped on free box wine.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-400", "text_a": "the pizza is yummy and i like the atmoshpere.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-401", "text_a": "the pizza is yummy and i like the atmoshpere.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-402", "text_a": "delicious crab cakes too.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-403", "text_a": "i thought i had died and gone to heaven.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-404", "text_a": "food was okay, nothing great.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-405", "text_a": "i recently tried suan and i thought that it was great.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-406", "text_a": "again, if you are in this neighborhood - by all means, come here.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-407", "text_a": "the eggplant parmesan is also great, and my friend who grew up in manhattan claims that no one serves a better baked ziti with meatsauce.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-408", "text_a": "the eggplant parmesan is also great, and my friend who grew up in manhattan claims that no one serves a better baked ziti with meatsauce.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-409", "text_a": "in fact, while leaving the place we saw two people looking at the menu, and i couldn't help telling them that the food was horrible.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-410", "text_a": "in fact, while leaving the place we saw two people looking at the menu, and i couldn't help telling them that the food was horrible.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-411", "text_a": "the bread is the soft paratha bread (unlike the plain bread they use in calcutta), and the stuffing is tandoori styled and very flavorful.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-412", "text_a": "the service is excellent, the decor is great, and the food is delicious and comes in large portions.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-413", "text_a": "the service is excellent, the decor is great, and the food is delicious and comes in large portions.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-414", "text_a": "the service is excellent, the decor is great, and the food is delicious and comes in large portions.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-415", "text_a": "a little crowded but they move that line really fast!", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-416", "text_a": "a little crowded but they move that line really fast!", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-417", "text_a": "kudos to po!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-418", "text_a": "the food is so cheap and the waiters are nice.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-419", "text_a": "the food is so cheap and the waiters are nice.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-420", "text_a": "the food there is so good that even to order out the wait is incredible.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-421", "text_a": "the food there is so good that even to order out the wait is incredible.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-422", "text_a": "if anyones has doubt of not knowing enough about wines,please check their wine list.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-423", "text_a": "everything is delicious, though, my gf and i come here once a week sometimes- you will get addicted!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-424", "text_a": "everything is delicious, though, my gf and i come here once a week sometimes- you will get addicted!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-425", "text_a": "the ambience is very calm and quiet.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-426", "text_a": "both times i was extremely dissappointed by the service, which was boarderline rude.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-427", "text_a": "the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-428", "text_a": "the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-429", "text_a": "the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-430", "text_a": "i had a huge pastrami sandwich on a roll.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-431", "text_a": "the fish was not fresh and the rice tasted old and stale.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-432", "text_a": "this is the pinnacle of indian fast food (all fast foods in my opinion).", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-433", "text_a": "i plan on stopping by next week as well.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-434", "text_a": "ballato's is consistently delicious authentic italian food.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-435", "text_a": "highly recommended to all!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-436", "text_a": "highly recommended.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-437", "text_a": "i was pleasantly surprised to find this gem in hoboken.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-438", "text_a": "service is extraordinary, yet not overbearing, and the decor brings a taste of trendy soho into queens.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-439", "text_a": "service is extraordinary, yet not overbearing, and the decor brings a taste of trendy soho into queens.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-440", "text_a": "the service was excellent and the food was delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-441", "text_a": "the service was excellent and the food was delicious.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-442", "text_a": "after a seafood craving, i checked citysearch and chose to go to fish based on a previous review and the citysearch info.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-443", "text_a": "always fresh and delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-444", "text_a": "the mussaman curry that i ordered was as thin as water and aside from the poorly fried tofu that i ordered in it, they graciously provided me with one piece of poorly cooked potato.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-445", "text_a": "once they ran out of gnochi and made it for me from scratch!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-446", "text_a": "we would like to thank marcelo and grace for a wonderful dining experience!!!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-447", "text_a": "cute and decorative.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-448", "text_a": "the food was exceptional.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-449", "text_a": "overall a worthwhile experience.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-450", "text_a": "slightly above average wines start at $70+ with only one selection listed at $30+.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-451", "text_a": "slightly above average wines start at $70+ with only one selection listed at $30+.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-452", "text_a": "i had a great experience.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-453", "text_a": "highly recommended.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-454", "text_a": "their pad penang is delicious and everything else is fantastic.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-455", "text_a": "no food snobs allowed, this place is for people who appreciate good food.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-456", "text_a": "no food snobs allowed, this place is for people who appreciate good food.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-457", "text_a": "suan is a great place that i often take my friends (classmates) too.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-458", "text_a": "not a great place for family or general dining.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-459", "text_a": "same owner as the guy who owns typhoon, which is just down the street on st. marks and 1st ave.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-460", "text_a": "i was wrong.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-461", "text_a": "so, the menu is written in chalk above your head and it all sounds delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-462", "text_a": "so, the menu is written in chalk above your head and it all sounds delicious.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-463", "text_a": "the staff there is very attentive and down to earth.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-464", "text_a": "the sushi is also great!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-465", "text_a": "from the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that i can't remember because of the fabulous cakebread cabernet we were drinking -- the whole evening was amazing.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-466", "text_a": "the food here is rather good, but only if you like to wait for it.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-467", "text_a": "the food here is rather good, but only if you like to wait for it.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-468", "text_a": "i got an excellent piece of cheesecake and we had several other nice pastries.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-469", "text_a": "this is a cute place and could be good but they need to get their act together.", "text_b": null, "label": "conflict", "aspect": "misc"}
+{"guid": "dev-470", "text_a": "this is a cute place and could be good but they need to get their act together.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-471", "text_a": "the lox is always fresh too.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-472", "text_a": "i went to utsav about a yr ago with my family.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-473", "text_a": "and the bill was outragous.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-474", "text_a": "salads were fantastic.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-475", "text_a": "the food is authentic italian - delicious!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-476", "text_a": "we spent $200 in this place and left hungry and very disappointed.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-477", "text_a": "we spent $200 in this place and left hungry and very disappointed.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-478", "text_a": "the service is good and ambience is good for a date or group outing.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-479", "text_a": "the service is good and ambience is good for a date or group outing.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-480", "text_a": "the service was bad, the food took to forever to come, we sat on the upper level.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-481", "text_a": "this restaurant is a wonderful place to go many times and it is reasonably priced.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-482", "text_a": "this restaurant is a wonderful place to go many times and it is reasonably priced.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-483", "text_a": "conveniently located too, being right on bedford ave.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-484", "text_a": "bottom line: b+ for the food, f for the service.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-485", "text_a": "bottom line: b+ for the food, f for the service.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-486", "text_a": "this place is to be avoided.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-487", "text_a": "delicious simple food in nice outdoor atmosphere.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-488", "text_a": "delicious simple food in nice outdoor atmosphere.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-489", "text_a": "the food is delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-490", "text_a": "the food is outstanding and the service is quick, friendly and very professional.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-491", "text_a": "the food is outstanding and the service is quick, friendly and very professional.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-492", "text_a": "and they have these home made potato chips at the bar that are the most delicious things in the world!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-493", "text_a": "if the weather is nice, try to snag an outside table.", "text_b": null, "label": "neutral", "aspect": "ambience"}
+{"guid": "dev-494", "text_a": "the main course had an average portion, and was decent overall.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-495", "text_a": "in any event, even though its a bit on the pricey side, we still love this restaurant and will definitely go back.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-496", "text_a": "in any event, even though its a bit on the pricey side, we still love this restaurant and will definitely go back.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-497", "text_a": "i don't like indian food too much and this was delicious, however you want to factor that into the equation.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-498", "text_a": "the $300 bill was a bit steep, but the experience was great.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-499", "text_a": "the bagels are also reasonably priced for nyc.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-500", "text_a": "my fish was delicious in an incredible curry sauce.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-501", "text_a": "and they provided a delicious dessert on the house!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-502", "text_a": "and they provided a delicious dessert on the house!", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-503", "text_a": "and they provided a delicious dessert on the house!", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-504", "text_a": "the food is amazing, rich pastas and fresh doughy pizza.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-506", "text_a": "it was so bad i actually refused to pay for my food.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-507", "text_a": "it was so bad i actually refused to pay for my food.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-508", "text_a": "the staff was very attentive, the ambience lovely, and the food superb.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-509", "text_a": "the staff was very attentive, the ambience lovely, and the food superb.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-510", "text_a": "the staff was very attentive, the ambience lovely, and the food superb.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-511", "text_a": "i love when restaurants think using fancy expensive ingrediants makes the food fine cuisine, even with no idea how to use them.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-512", "text_a": "the service was superb, they treat you like family.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-513", "text_a": "we all had the tasting menu and unlike some of the other reviews, i felt there was more than enough food.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-514", "text_a": "we all had the tasting menu and unlike some of the other reviews, i felt there was more than enough food.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-515", "text_a": "the menu may be small, but everything on it is delicious.", "text_b": null, "label": "conflict", "aspect": "food"}
+{"guid": "dev-516", "text_a": "it was divine melts in your mouth.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-517", "text_a": "- for dessert we split chocolate cake and vanilla gelato (with espresso), which were tasty, but i thought a bit overpriced.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-518", "text_a": "- for dessert we split chocolate cake and vanilla gelato (with espresso), which were tasty, but i thought a bit overpriced.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-519", "text_a": "we concluded with tiramisu chocolate cake, both were delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-520", "text_a": "service here was great, food was fantastic.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-521", "text_a": "service here was great, food was fantastic.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-522", "text_a": "this is such a lovely, peaceful place to eat outside.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-523", "text_a": "the sauce is delicious and the crust is perfect.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-524", "text_a": "i had the mango chicken and i can't go on to tell you how delicious that was and the presentation was beatiful.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-525", "text_a": "the garlic mashed potatoes are hands down the best in the city!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-526", "text_a": "food and service was okay.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-527", "text_a": "food and service was okay.", "text_b": null, "label": "neutral", "aspect": "service"}
+{"guid": "dev-528", "text_a": "i would just ask for no oil next time.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-529", "text_a": "while this is a pretty place in that overly cute french way, the food was insultingly horrible.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-530", "text_a": "while this is a pretty place in that overly cute french way, the food was insultingly horrible.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-531", "text_a": "they are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-532", "text_a": "normally that would be improper, however they were all delicious and my host did not complain.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-533", "text_a": "taxan delicious!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-534", "text_a": "of course the reason its so packed is because the food is so delicious!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-535", "text_a": "plus they made a perfect martini.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-536", "text_a": "i highly recommend the restaurant based on our experience last night.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-537", "text_a": "i came into the city to try out this restaurant because a friend had recommended it to my husband.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-538", "text_a": "the food was actually aweful.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-539", "text_a": "not the typical nyc gimmick theme restaurant.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-540", "text_a": "overall, not worth the money.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-541", "text_a": "everything that happened was not even up to mediocre.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-542", "text_a": "$6 and there is much tasty food, all of it fresh and continually refilled.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-543", "text_a": "$6 and there is much tasty food, all of it fresh and continually refilled.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-544", "text_a": "the steak was very fatty and the sauce was overpowering and not very tasty.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-545", "text_a": "the staff makes you feel at home, the food is great and the atmosphere is wonderful!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-546", "text_a": "the staff makes you feel at home, the food is great and the atmosphere is wonderful!", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-547", "text_a": "the staff makes you feel at home, the food is great and the atmosphere is wonderful!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-548", "text_a": "edible but really a ripoff at those prices given whats in the area.", "text_b": null, "label": "neutral", "aspect": "food"}
+{"guid": "dev-549", "text_a": "edible but really a ripoff at those prices given whats in the area.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-550", "text_a": "i love going there!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-551", "text_a": "but trust me it is so worth it.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-552", "text_a": "the service was excellent and the food was delicious.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-553", "text_a": "the service was excellent and the food was delicious.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-554", "text_a": "frites were delicious if a bit on the thick side.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-555", "text_a": "it was huge, delicious, fresh, and will be the reason we return.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-556", "text_a": "we go often.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-557", "text_a": "moral stay away.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-558", "text_a": "but the service was a bit slow.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-559", "text_a": "great spot, whether looking for a couple of drinks or quiet dinner.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-560", "text_a": "both are very reasonably priced (around $8 for dinner and $5 for lunch), and are delicious and filling.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-561", "text_a": "both are very reasonably priced (around $8 for dinner and $5 for lunch), and are delicious and filling.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-562", "text_a": "i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-563", "text_a": "i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-564", "text_a": "make sure you try this place as often as you can.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-565", "text_a": "plus, when our entrees were held up in the kitchen on a busy saturday night, the owner sent over complimentary summer rolls to hold us over!", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-566", "text_a": "try the lobster teriyaki and the rose special roll.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-567", "text_a": "i will go back to suan soon!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-568", "text_a": "the food was delicious, the atmosphere was relaxed, and we have now adopted plate 347 as our secret on second!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-569", "text_a": "the food was delicious, the atmosphere was relaxed, and we have now adopted plate 347 as our secret on second!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-570", "text_a": "i am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and i was still hungry after my visit to this place!", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-571", "text_a": "i am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and i was still hungry after my visit to this place!", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-572", "text_a": "if you go here - your focus should be the tamarind margaritas.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-573", "text_a": "i had been a regular due to the consistently good food and ease of getting a table.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-574", "text_a": "i had been a regular due to the consistently good food and ease of getting a table.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-575", "text_a": "i had been a regular due to the consistently good food and ease of getting a table.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-576", "text_a": "this place is the most japanese it can ever get.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-577", "text_a": "the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-578", "text_a": "the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-579", "text_a": "the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-580", "text_a": "while most people can attest to spending over $50 on drinks in new york bars and hardly feeling a thing, the drinks here are plentiful and unique.", "text_b": null, "label": "conflict", "aspect": "food"}
+{"guid": "dev-581", "text_a": "while most people can attest to spending over $50 on drinks in new york bars and hardly feeling a thing, the drinks here are plentiful and unique.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-582", "text_a": "brava la pizza fresca!", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-583", "text_a": "incredibly poor service an food quality at exorbitant prices.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-584", "text_a": "incredibly poor service an food quality at exorbitant prices.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-585", "text_a": "incredibly poor service an food quality at exorbitant prices.", "text_b": null, "label": "negative", "aspect": "price"}
+{"guid": "dev-586", "text_a": "we usually just get some of the dinner specials and they are very reasonably priced and very tasty.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-587", "text_a": "we usually just get some of the dinner specials and they are very reasonably priced and very tasty.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-588", "text_a": "horrible food and horrible service.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-589", "text_a": "horrible food and horrible service.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-590", "text_a": "the food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.", "text_b": null, "label": "negative", "aspect": "food"}
+{"guid": "dev-591", "text_a": "the food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-592", "text_a": "the food was great and the service was even better.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-593", "text_a": "the food was great and the service was even better.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-594", "text_a": "the fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-595", "text_a": "if you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-596", "text_a": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.", "text_b": null, "label": "negative", "aspect": "service"}
+{"guid": "dev-597", "text_a": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.", "text_b": null, "label": "conflict", "aspect": "misc"}
+{"guid": "dev-598", "text_a": "the pizza was great.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-599", "text_a": "they need a kick out of it but until then the sushi is pretty good and the place is consistent.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-600", "text_a": "they need a kick out of it but until then the sushi is pretty good and the place is consistent.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-601", "text_a": "delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-602", "text_a": "delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-603", "text_a": "delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-604", "text_a": "delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-605", "text_a": "the restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible, reaching for sunglasses.", "text_b": null, "label": "negative", "aspect": "ambience"}
+{"guid": "dev-606", "text_a": "try the times square cocktail -- ginger lemonade with vodka (also available without vodka.)", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-607", "text_a": "there is nothing more pleasant than that.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-608", "text_a": "i would recommend this place to anyone and would without a doubt come again.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-609", "text_a": "what makes this restaurant special are the authentic sichuan cooking and being the only one in nyc that offers authentic chongqing hotpot.", "text_b": null, "label": "positive", "aspect": "food"}
+{"guid": "dev-610", "text_a": "what makes this restaurant special are the authentic sichuan cooking and being the only one in nyc that offers authentic chongqing hotpot.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-611", "text_a": "ask for usha, the nicest bartender in manhattan.", "text_b": null, "label": "positive", "aspect": "service"}
+{"guid": "dev-612", "text_a": "its location is good and the fact that hutner college is near and their prices are very reasonable, makes students go back to suan again and again.", "text_b": null, "label": "positive", "aspect": "ambience"}
+{"guid": "dev-613", "text_a": "its location is good and the fact that hutner college is near and their prices are very reasonable, makes students go back to suan again and again.", "text_b": null, "label": "positive", "aspect": "price"}
+{"guid": "dev-614", "text_a": "however, i think jeckll and hydes t is one of those places that is fun to do once.", "text_b": null, "label": "positive", "aspect": "misc"}
+{"guid": "dev-615", "text_a": "appetizers are somewhere around $7 each and the main dishes are between $11 and $16.", "text_b": null, "label": "neutral", "aspect": "price"}
+{"guid": "dev-616", "text_a": "the restaraurant is very small so reservations are a must.", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-617", "text_a": "i thought this place was totally overrated.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-618", "text_a": "boy was i wrong!", "text_b": null, "label": "neutral", "aspect": "misc"}
+{"guid": "dev-619", "text_a": "better than the bagel shop on the corner, but not worth going out of your way for, in my opinion.", "text_b": null, "label": "negative", "aspect": "misc"}
+{"guid": "dev-620", "text_a": "we shared a bottle of sake, an order of edamames, and she had the sushi plate while i had the sashimi.", "text_b": null, "label": "neutral", "aspect": "food"}

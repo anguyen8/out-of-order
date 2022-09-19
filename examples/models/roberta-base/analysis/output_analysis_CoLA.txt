@@ -1,0 +1,572 @@
+*********** Sample 4 ***********
+Sentence: {'text_a': 'The more people you give beer to, the more people get sick.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The more people you give beer to , the more people get sick.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 5 ***********
+Sentence: {'text_a': 'The more pictures of him that appear in the news, the more embarrassed John becomes.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The more news of him that appear in the pictures , the more embarrassed John becomes.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 7 ***********
+Sentence: {'text_a': 'I said that never in my life had I seen a place like Bangor.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'I said that never in my place had I seen a life like Bangor.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 12 ***********
+Sentence: {'text_a': 'The tub leaked water.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The water leaked tub.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 17 ***********
+Sentence: {'text_a': "Mary will read Fred's story, and Joe will read Holly's."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Mary will read Fred's story , and Holly will read Joe 's."}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 23 ***********
+Sentence: {'text_a': 'Fred talked about everything before Rusty did talk about something.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Rusty talked about everything before Fred did talk about something.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 32 ***********
+Sentence: {'text_a': 'We donated wire for the convicts to build cages with.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'We donated wire for the cages to build convicts with.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 34 ***********
+Sentence: {'text_a': "That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "That the fuzz wanted him worried Mary , but that the fuzz wanted her did n't worry John."}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 44 ***********
+Sentence: {'text_a': 'Sarah promised Catherine her old car, but then gave it to her son instead.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Catherine promised Sarah her old car , but then gave it to her son instead.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 49 ***********
+Sentence: {'text_a': 'That acorn will grow into an oak tree.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'That oak will grow into an acorn tree.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 51 ***********
+Sentence: {'text_a': 'Mira condemned Terry for the accident.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Terry condemned Mira for the accident.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 89 ***********
+Sentence: {'text_a': 'Kim is eager to please Tom.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Tom is eager to please Kim.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 110 ***********
+Sentence: {'text_a': 'The Dodgers beat the Red Sox and were beaten by the Giants.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The Sox beat the Red Dodgers and were beaten by the Giants.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 112 ***********
+Sentence: {'text_a': 'Fanny regretted having to talk to Aunt Norris.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Aunt regretted having to talk to Fanny Norris.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 114 ***********
+Sentence: {'text_a': 'Harriet admired Mr Knightley.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Knightley admired Mr Harriet.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 117 ***********
+Sentence: {'text_a': 'Pat was awarded the Golden Fleece Award and very upset about it.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Golden was awarded the Pat Fleece Award and very upset about it.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 122 ***********
+Sentence: {'text_a': 'Kim gave a dollar to Bobbie and a dime to Jean.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Kim gave a dollar to Jean and a dime to Bobbie.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 127 ***********
+Sentence: {'text_a': 'John finished the cake and drank the lemonade.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'John finished the lemonade and drank the cake.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 138 ***********
+Sentence: {'text_a': 'to steal talismans from witches is dangerous'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'to steal witches from talismans is dangerous'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 142 ***********
+Sentence: {'text_a': 'The Peter we all like was at the party'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The party we all like was at the Peter'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 144 ***********
+Sentence: {'text_a': 'Medea denied poisoning the phoenix.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'phoenix denied poisoning the Medea.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 157 ***********
+Sentence: {'text_a': 'It is some disgruntled old pigs in those ditches that humans love to eat.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'It is some disgruntled old humans in those ditches that pigs love to eat.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 165 ***********
+Sentence: {'text_a': "The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "The newspaper has reported that they are about to appoint someone , but I ca n't remember who the newspaper has reported that they are about to appoint."}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 167 ***********
+Sentence: {'text_a': 'Which book did each author recommend?'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Which author did each book recommend?'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 170 ***********
+Sentence: {'text_a': "She talked to John or Mary but I don't know which one."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "She talked to Mary or John but I do n't know which one."}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 171 ***********
+Sentence: {'text_a': "Meg is attracted to Harry, but they don't know who she is attracted to."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Harry is attracted to Meg , but they do n't know who she is attracted to."}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 172 ***********
+Sentence: {'text_a': "Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what."}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "Sandy is wondering whether there will be students who have to drop the reason for a certain class , but she wo n't reveal what."}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 173 ***********
+Sentence: {'text_a': 'Sandy was trying to work out which students would be able to solve a certain problem.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Sandy was trying to work out which problem would be able to solve a certain students.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 174 ***********
+Sentence: {'text_a': 'The administration has issued a statement that it is willing to meet with one of the student groups.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The student has issued a statement that it is willing to meet with one of the administration groups.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 188 ***********
+Sentence: {'text_a': 'Jack hates Sue and is loved by Mary.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Mary hates Sue and is loved by Jack.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 189 ***********
+Sentence: {'text_a': 'Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Phyllis sent a baby alligator to Max and a leather dinosaur to Vera.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 190 ***********
+Sentence: {'text_a': 'Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Harry told Sally that Albania is a lovely place for a vacation , and Tom told Sue that Albania is a lovely place for a vacation.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 192 ***********
+Sentence: {'text_a': 'Bill ate the peaches, and Harry did, too.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Harry ate the peaches , and Bill did , too.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 197 ***********
+Sentence: {'text_a': 'I know the person whose mother died.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'I know the mother whose person died.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 210 ***********
+Sentence: {'text_a': 'I dislike the company in which we placed our trust.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'I dislike the trust in which we placed our company.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 217 ***********
+Sentence: {'text_a': 'All who lost money in the scam are eligible for the program.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'All who lost program in the scam are eligible for the money.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 219 ***********
+Sentence: {'text_a': 'The only people being added to our group who were at Harvard were students.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The only students being added to our group who were at Harvard were people.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 226 ***********
+Sentence: {'text_a': 'Lee saw the student with a telescope.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Lee saw the telescope with a student.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 227 ***********
+Sentence: {'text_a': 'If only Superman would stop flying planes!'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'If only planes would stop flying Superman!'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 234 ***********
+Sentence: {'text_a': 'A large dog chased a small cat.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'A large cat chased a small dog.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 235 ***********
+Sentence: {'text_a': 'Some people yell at the dogs.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Some dogs yell at the people.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 236 ***********
+Sentence: {'text_a': 'Some people consider the noisy dogs dangerous.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Some dogs consider the noisy people dangerous.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 237 ***********
+Sentence: {'text_a': 'Some people consider the dogs dangerous.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Some dogs consider the people dangerous.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 239 ***********
+Sentence: {'text_a': 'Some people consider dogs dangerous.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Some dogs consider people dangerous.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 247 ***********
+Sentence: {'text_a': 'What additional categories and rules would be required to handle these verbs?'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'What additional categories and verbs would be required to handle these rules?'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 249 ***********
+Sentence: {'text_a': 'The jury believed the defendant lied.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The defendant believed the jury lied.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 263 ***********
+Sentence: {'text_a': 'The police sprayed water on the protesters.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'The protesters sprayed water on the police.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 282 ***********
+Sentence: {'text_a': 'Cohen proved that the continuum hypothesis was independent.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'continuum proved that the Cohen hypothesis was independent.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 283 ***********
+Sentence: {'text_a': 'Tabs are kept on suspected drug dealers by the FBI.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'dealers are kept on suspected drug Tabs by the FBI.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 289 ***********
+Sentence: {'text_a': 'John promised Bill to leave.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Bill promised John to leave.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 295 ***********
+Sentence: {'text_a': 'John told Mary that it would be important to leave early.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'Mary told John that it would be important to leave early.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 296 ***********
+Sentence: {'text_a': 'John told Mary that it was important to Fred to leave early.'}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'John told Fred that it was important to Mary to leave early.'}
+Prediction: acceptable
+Predictions with shuffle: 
+	+ Swapped: acceptable
+Ground truth: acceptable
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+

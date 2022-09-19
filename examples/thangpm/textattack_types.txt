@@ -1,0 +1,76 @@
+textattack list
+--> {models,search-methods,transformations,constraints,goal-functions,attack-recipes,augmentation-recipes}
+
+textattack list search-methods
+    beam-search (textattack.search_methods.BeamSearch)
+    ga-word (textattack.search_methods.GeneticAlgorithm)
+    greedy (textattack.search_methods.GreedySearch)
+    greedy-word-wir (textattack.search_methods.GreedyWordSwapWIR)
+    pso (textattack.search_methods.ParticleSwarmOptimization)
+
+textattack list transformations
+    random-synonym-insertion (textattack.transformations.RandomSynonymInsertion)
+    word-deletion (textattack.transformations.WordDeletion)
+    word-swap-embedding (textattack.transformations.WordSwapEmbedding)
+    word-swap-gradient (textattack.transformations.WordSwapGradientBased)
+    word-swap-homoglyph (textattack.transformations.WordSwapHomoglyphSwap)
+    word-swap-hownet (textattack.transformations.WordSwapHowNet)
+    word-swap-inflections (textattack.transformations.WordSwapInflections)
+    word-swap-masked-lm (textattack.transformations.WordSwapMaskedLM)
+    word-swap-neighboring-char-swap (textattack.transformations.WordSwapNeighboringCharacterSwap)
+    word-swap-qwerty (textattack.transformations.WordSwapQWERTY)
+    word-swap-random-char-deletion (textattack.transformations.WordSwapRandomCharacterDeletion)
+    word-swap-random-char-insertion (textattack.transformations.WordSwapRandomCharacterInsertion)
+    word-swap-random-char-substitution (textattack.transformations.WordSwapRandomCharacterSubstitution)
+    word-swap-wordnet (textattack.transformations.WordSwapWordNet)
+
+textattack list constraints
+    bert (textattack.constraints.semantics.sentence_encoders.BERT)
+    bert-score (textattack.constraints.semantics.BERTScore)
+    bleu (textattack.constraints.overlap.BLEU)
+    chrf (textattack.constraints.overlap.chrF)
+    cola (textattack.constraints.grammaticality.COLA)
+    edit-distance (textattack.constraints.overlap.LevenshteinEditDistance)
+    embedding (textattack.constraints.semantics.WordEmbeddingDistance)
+    goog-lm (textattack.constraints.grammaticality.language_models.GoogleLanguageModel)
+    gpt2 (textattack.constraints.grammaticality.language_models.GPT2)
+    infer-sent (textattack.constraints.semantics.sentence_encoders.InferSent)
+    lang-tool (textattack.constraints.grammaticality.LanguageTool)
+    learning-to-write (textattack.constraints.grammaticality.language_models.LearningToWriteLanguageModel)
+    max-word-index (textattack.constraints.pre_transformation.MaxWordIndexModification)
+    max-words-perturbed (textattack.constraints.overlap.MaxWordsPerturbed)
+    meteor (textattack.constraints.overlap.METEOR)
+    muse (textattack.constraints.semantics.sentence_encoders.MultilingualUniversalSentenceEncoder)
+    part-of-speech (textattack.constraints.grammaticality.PartOfSpeech)
+    repeat (textattack.constraints.pre_transformation.RepeatModification)
+    stopword (textattack.constraints.pre_transformation.StopwordModification)
+    thought-vector (textattack.constraints.semantics.sentence_encoders.ThoughtVector)
+    use (textattack.constraints.semantics.sentence_encoders.UniversalSentenceEncoder)
+
+textattack list goal-functions
+    input-reduction (textattack.goal_functions.InputReduction)
+    minimize-bleu (textattack.goal_functions.MinimizeBleu)
+    non-overlapping-output (textattack.goal_functions.NonOverlappingOutput)
+    targeted-classification (textattack.goal_functions.TargetedClassification)
+    untargeted-classification (textattack.goal_functions.UntargetedClassification)
+
+textattack list attack-recipes
+    alzantot (textattack.attack_recipes.GeneticAlgorithmAlzantot2018)
+    bae (textattack.attack_recipes.BAEGarg2019)
+    bert-attack (textattack.attack_recipes.BERTAttackLi2020)
+    checklist (textattack.attack_recipes.CheckList2020)
+    deepwordbug (textattack.attack_recipes.DeepWordBugGao2018)
+    faster-alzantot (textattack.attack_recipes.FasterGeneticAlgorithmJia2019)
+    hotflip (textattack.attack_recipes.HotFlipEbrahimi2017)
+    iga (textattack.attack_recipes.IGAWang2019)
+    input-reduction (textattack.attack_recipes.InputReductionFeng2018)
+    kuleshov (textattack.attack_recipes.Kuleshov2017)
+    morpheus (textattack.attack_recipes.MorpheusTan2020)
+    pruthi (textattack.attack_recipes.Pruthi2019)
+    pso (textattack.attack_recipes.PSOZang2020)
+    pwws (textattack.attack_recipes.PWWSRen2019)
+    seq2sick (textattack.attack_recipes.Seq2SickCheng2018BlackBox)
+    textbugger (textattack.attack_recipes.TextBuggerLi2018)
+    textfooler (textattack.attack_recipes.TextFoolerJin2019)
+
+

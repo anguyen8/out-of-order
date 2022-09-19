@@ -1,0 +1,872 @@
+{"guid": 0, "text_a": "'s often it journey a and charming affecting.", "text_b": "", "label": 1}
+{"guid": 1, "text_a": "desperate unflinchingly bleak and", "text_b": "", "label": 0}
+{"guid": 2, "text_a": "to as embark is allows major yet inventive career a us that nolan to commercial poised hope filmmaker a.", "text_b": "", "label": 1}
+{"guid": 3, "text_a": "austere acting music the are cinematography , astounding and costumes , given , the locales production sound 's all.", "text_b": "", "label": 1}
+{"guid": 4, "text_a": "slow , very very 's slow it --.", "text_b": "", "label": 0}
+{"guid": 5, "text_a": "a serious and touches , at a the look young women humor although with fanciful is film few refreshingly laced.", "text_b": "", "label": 1}
+{"guid": 6, "text_a": "a film sometimes tedious.", "text_b": "", "label": 0}
+{"guid": 7, "text_a": "'s last your or with year taxes ex-wife doing.", "text_b": "", "label": 0}
+{"guid": 8, "text_a": "do know n't romance have comedy easygoing about the you and film to appreciate music to blend 's of.", "text_b": "", "label": 1}
+{"guid": 9, "text_a": "minutes naked turkey igloo i utter sank slowly most if to from an 'd , been quirky exactly as to formula 51 passed of as , in jerky 89 which sitting on.", "text_b": "", "label": 0}
+{"guid": 10, "text_a": "the riveted audience of leads mesmerizing the keep film and keep grounded the the performances.", "text_b": "", "label": 1}
+{"guid": 11, "text_a": "it , , anne to same eugene forster all waste the takes of of a the veljohnson and in talents , robert movie reginald kind strange levy meara laziness.", "text_b": "", "label": 0}
+{"guid": 12, "text_a": "from ( the the of a violence film needed suffers to ) humor out ... balance lack something...", "text_b": "", "label": 0}
+{"guid": 13, "text_a": "'s ) and like to clara , for root paul it closer an though pity ( , perhaps them even emotion we.", "text_b": "", "label": 1}
+{"guid": 14, "text_a": "what fans day the with both every humor movie find 're trouble will not likely they seeking thrills lacks even most and horror ;.", "text_b": "", "label": 0}
+{"guid": 15, "text_a": "and india musical song , that gorgeous dance blends high-spirited , from drama , exquisitely a high , music.", "text_b": "", "label": 1}
+{"guid": 16, "text_a": "anyone and raw are who will ever 's with trauma family had emotions strike a the nerve.", "text_b": "", "label": 1}
+{"guid": 17, "text_a": "picking she as she literate magnify and , her as charm for roles a 's in has french that , knack outrageous was audrey tatou this comedy morning-glory am\u00e9lie exuberant in.", "text_b": "", "label": 1}
+{"guid": 18, "text_a": "plain old a is the just ... movie monster.", "text_b": "", "label": 0}
+{"guid": 19, "text_a": "resembles song , a school of production bad , of without in moments high grease benefit best its.", "text_b": "", "label": 0}
+{"guid": 20, "text_a": "political know the tone tragedy correctness of uneven with when admirable an begins look such so does pumpkin takes hypocrisy and but never at it ends you that an humor ,.", "text_b": "", "label": 0}
+{"guid": 21, "text_a": "it iditarod for like this the just did felt lasts - days.", "text_b": "", "label": 0}
+{"guid": 22, "text_a": "caulfield better did it holden.", "text_b": "", "label": 0}
+{"guid": 23, "text_a": "is original an intriguing surprises read lips my filled , delectable and a with thriller.", "text_b": "", "label": 1}
+{"guid": 24, "text_a": "movie closely so and a work spirit the seldom man his of a has matched.", "text_b": "", "label": 1}
+{"guid": 25, "text_a": "what raunchy make romantic to 's laugh stale comedy , sex formula , gamut the from to nicks gags uncertain going runs parody seemingly to people.", "text_b": "", "label": 0}
+{"guid": 26, "text_a": "to action span a switches but emotional that between present to is too link the , the past material tenuous and the connections anchor divide 125-year purport.", "text_b": "", "label": 0}
+{"guid": 27, "text_a": "its an offbeat pokes who examining democratic fun that 's also while part it for exercise at treat take significance those the.", "text_b": "", "label": 1}
+{"guid": 28, "text_a": "a it cut-and-paste 's cookie-cutter a job , movie.", "text_b": "", "label": 0}
+{"guid": 29, "text_a": "this had i to was look awful away god -.", "text_b": "", "label": 0}
+{"guid": 30, "text_a": "the 's the roger scott eisenberg men on nephew to most of roger is sweet of company thanks 's and variations in one , charismatic compelling dodger.", "text_b": "", "label": 1}
+{"guid": 31, "text_a": "mix tears of and and unintentional smiles '' , yawns instead numerous ... handful to of `` a designed howlers provokes provide crossroads a.", "text_b": "", "label": 0}
+{"guid": 32, "text_a": "movie , , a gorgeous seductive witty.", "text_b": "", "label": 1}
+{"guid": 33, "text_a": "' instilling self-conscious there is if world you for the draw into grace too in its it ` but god succeeds a sense , the of deeply wary to of far movie.", "text_b": "", "label": 0}
+{"guid": 34, "text_a": "... sense plain does it believe itself no 's just n't has it humor bored it of in ,.", "text_b": "", "label": 0}
+{"guid": 35, "text_a": "sequence 'em - scenes up shoot - ridiculous a of.", "text_b": "", "label": 0}
+{"guid": 36, "text_a": "unerring the fascination prove embedded weight enough , production the of lurid topic professionalism the recommendation the chilly of piece the and in the ,.", "text_b": "", "label": 1}
+{"guid": 37, "text_a": "medium oversize ( hile ) wild the long short w the on monkeys jane goodall amiable on chimpanzees thrills worthy and , 's is demands environmentalism.", "text_b": "", "label": 0}
+{"guid": 38, "text_a": "as detailed surreal as dream as photograph a is at dexterous visually as , and imaginatively a as as it times overwhelming.", "text_b": "", "label": 1}
+{"guid": 39, "text_a": "is movie is the adroitly piccoli studio escaping warmly and affecting this , so minimalist.", "text_b": "", "label": 1}
+{"guid": 40, "text_a": "appropriate 's playfulness cast the , tremendous ... sense and excitement of a that energy from there seems.", "text_b": "", "label": 1}
+{"guid": 41, "text_a": "of beneath its land illuminating transcends holy revealing vision documentary and preconceived our this complexities inhabitants the the , human.", "text_b": "", "label": 1}
+{"guid": 42, "text_a": "strength touch subtle it '' the with the of loses reality the elling never grim that `` situation of is.", "text_b": "", "label": 1}
+{"guid": 43, "text_a": "charisma effortlessly the an regal holm character embodies ... with.", "text_b": "", "label": 1}
+{"guid": 44, "text_a": "the only well , not but camera the as lazy title behind its the characters main describes people.", "text_b": "", "label": 0}
+{"guid": 45, "text_a": "intellectual and of weightless beyond momentary joys the entertainment little pretty offers it.", "text_b": "", "label": 0}
+{"guid": 46, "text_a": "and cliches its positively a flash seems synthesis decadent in cinematic that emptiness of absurdities and.", "text_b": "", "label": 0}
+{"guid": 47, "text_a": "most ( ) part subtle the chiller for well-crafted and a.", "text_b": "", "label": 1}
+{"guid": 48, "text_a": "the of has at best lot eastwood virtues a his of.", "text_b": "", "label": 1}
+{"guid": 49, "text_a": "it and plot depth of a by lifetime-channel who hampered 's actress her kind is out of a lead.", "text_b": "", "label": 0}
+{"guid": 50, "text_a": "like fancy gussied effects , with 93 egg connect watching rote special at an as up is an after-school its for some about minutes as it special exciting points feels timer plot gazing and.", "text_b": "", "label": 0}
+{"guid": 51, "text_a": "the first , is , for sensitive part birot director well-acted a anne-sophie 's most drama extraordinarily feature.", "text_b": "", "label": 1}
+{"guid": 52, "text_a": "is artist time in it a his , mr. is there original what medium and tsai very?", "text_b": "", "label": 1}
+{"guid": 53, "text_a": "is engaging controversial look an at sade the atheistic hero eponymous fiercely and.", "text_b": "", "label": 1}
+{"guid": 54, "text_a": "makes thoughtful films and seem collateral that kind devoid xxx intelligible it of like treatises like of damage story so any", "text_b": "", "label": 0}
+{"guid": 55, "text_a": "heartfelt tender a family drama ,.", "text_b": "", "label": 1}
+{"guid": 56, "text_a": "engage too a to cinematic joke tale misanthropic fun it embellishing ... gymnast a having much told the actually hollow by.", "text_b": "", "label": 0}
+{"guid": 57, "text_a": "far 've the turkey title been would a cold better.", "text_b": "", "label": 0}
+{"guid": 58, "text_a": "sadistic mundane both and repulsively manages to be.", "text_b": "", "label": 0}
+{"guid": 59, "text_a": "scratch surface than , a never has to just the that a movie fascinating all necessary disappointingly be involving does , study character it superficial -- elements the but more 's.", "text_b": "", "label": 0}
+{"guid": 60, "text_a": "of a they alone chance n't are misfits magnificent do a together who this but two , story stand is.", "text_b": "", "label": 1}
+{"guid": 61, "text_a": "to of which and useless on has might be to the his some hook movies hang character , persistently it resuscitation schaeffer well as find the middle-aged.", "text_b": "", "label": 0}
+{"guid": 62, "text_a": "collective up the memory of film seems force from the bubble this the of combatants to vast primitive.", "text_b": "", "label": 1}
+{"guid": 63, "text_a": "civility a is , direction of topic with compassion blend the tadpole very on , tricky and this much step frankness right its in ,.", "text_b": "", "label": 1}
+{"guid": 64, "text_a": ", and hartley the follow and mr. script rhythms foot-dragging 's in distended pace kicks.", "text_b": "", "label": 0}
+{"guid": 65, "text_a": "video rather enough a a why was n't wonder movie than full-length music you just.", "text_b": "", "label": 0}
+{"guid": 66, "text_a": "you ticket humor for this up your right here is if hard , college 're raunchy.", "text_b": "", "label": 1}
+{"guid": 67, "text_a": "highly movie , fast funny a enjoyable ,.", "text_b": "", "label": 1}
+{"guid": 68, "text_a": "is good old-fashioned slash-and-hack back!", "text_b": "", "label": 1}
+{"guid": 69, "text_a": "even one is this movie one skip for horror , definitely fanatics to.", "text_b": "", "label": 0}
+{"guid": 70, "text_a": "never , builds its an for of steam chou-chou and lily emotional , despite overbearing crescendos a craftsmanship series up impressive head really all third-act of.", "text_b": "", "label": 0}
+{"guid": 71, "text_a": "berling quite in by superbly but veteran nuanced bouquet the exquisitely dialogue drama and appealing and acted this deeply chamber , chilling tics human the mood is.", "text_b": "", "label": 1}
+{"guid": 72, "text_a": "high to uses surprising evoke comedy poignance.", "text_b": "", "label": 1}
+{"guid": 73, "text_a": "long or time come scariest , the easily blair one , long rivaling , to of movies a creepiest others witch in along.", "text_b": "", "label": 1}
+{"guid": 74, "text_a": "of insipid in vulgarity rehashed based a sight string gags.", "text_b": "", "label": 0}
+{"guid": 75, "text_a": "explorations the of year among most 's alientation intriguing.", "text_b": "", "label": 1}
+{"guid": 76, "text_a": "sum movie to parts the live of up its the fails to.", "text_b": "", "label": 0}
+{"guid": 77, "text_a": "earns pathos triumph is gentility its room a that moments of the son 's of.", "text_b": "", "label": 1}
+{"guid": 78, "text_a": "by submarine this way sailors about likely is good will know be but and around enough their appreciated a is and most who it nothing film folks , there outstanding.", "text_b": "", "label": 1}
+{"guid": 79, "text_a": "film stupefying loud bright of attempt and of a to throw a mold cinematic the years is bangs and james this favor -- an force-feed flashes mindless in into the wreck bond train filmmakers of by xxx history toilet the action 40 down.", "text_b": "", "label": 0}
+{"guid": 80, "text_a": "howard performance by bad solid is arliss the love big ) for ( a `` draw ''.", "text_b": "", "label": 1}
+{"guid": 81, "text_a": "robbery green want the , hang for only to as onto his that next may might ski mask be project pay to way.", "text_b": "", "label": 0}
+{"guid": 82, "text_a": "one even revolve around killer-thrillers sessions therapy it pussy-ass world 's when group.", "text_b": "", "label": 0}
+{"guid": 83, "text_a": "'s major to casting for actually people become leigh though who to almost so go working-class it say redundant , look kudos.", "text_b": "", "label": 1}
+{"guid": 84, "text_a": "repression , especially for in official inspiring band the 's hippies face aging ) one ( of is included courage this the.", "text_b": "", "label": 1}
+{"guid": 85, "text_a": "these did them by an impact quills great hidden keeping movie showing as ) ... the thoughts achieves by ( as.", "text_b": "", "label": 1}
+{"guid": 86, "text_a": "and the , dark decadent opportunity truffle lines and it trifle missed when film than flat should is peak more.", "text_b": "", "label": 0}
+{"guid": 87, "text_a": ") his ( ... on of s eavesdropping privileged put audience position jaglom the in the characters", "text_b": "", "label": 1}
+{"guid": 88, "text_a": "ago a and wo 's dark go plying week a subconscious images jolting had nightmare fresnadillo have the of that your way like into away you n't.", "text_b": "", "label": 1}
+{"guid": 89, "text_a": "a held interest , from 's my plot start crazy we to but it know the little finish.", "text_b": "", "label": 1}
+{"guid": 90, "text_a": "a 's 's its it , affair scattershot it brilliant mark it but hits when.", "text_b": "", "label": 1}
+{"guid": 91, "text_a": ", hardly some to viewers but good it real people masterpiece introduces a and charitable a enterprise interesting.", "text_b": "", "label": 1}
+{"guid": 92, "text_a": "n't will , wo him you quickly recognize roger you like but.", "text_b": "", "label": 0}
+{"guid": 93, "text_a": "failure a is a steven glorious solaris is soderbergh it if ` 's ' failure.", "text_b": "", "label": 1}
+{"guid": 94, "text_a": "simple way a reveals us his situation never melodrama and even fascinates characters that reduces to the intrigues and , byler he in.", "text_b": "", "label": 1}
+{"guid": 95, "text_a": "in prejudice racial culture ii moral world : this shadow american deals its and with forms ugly story war suspense riveting side the diverse of.", "text_b": "", "label": 0}
+{"guid": 96, "text_a": "script and process it but 's imagine , to a a 's the here role that underarm spray that played such crucial cheese difficult produced guessing noises.", "text_b": "", "label": 0}
+{"guid": 97, "text_a": "to winner a no of sam mendes for potential sleight smooth from director with , oscar-winning hand segues oscar sophomore slump who.", "text_b": "", "label": 1}
+{"guid": 98, "text_a": "banality lacks , compensate for , coarseness and feeling whole wit the on incessant and believability to its the movie.", "text_b": "", "label": 0}
+{"guid": 99, "text_a": "make marginal these about figures why documentary a historical?", "text_b": "", "label": 0}
+{"guid": 100, "text_a": "charm neither quirky the a , romantic parker fresh nor lead to formula is typical they a donovan , bring but.", "text_b": "", "label": 1}
+{"guid": 101, "text_a": "romantic movie full poetically for nothing latest indelible of his images it and , has but his last was going.", "text_b": "", "label": 0}
+{"guid": 102, "text_a": "does the distance but from memorable characters her images paint makhmalbaf keeps , some ...", "text_b": "", "label": 1}
+{"guid": 103, "text_a": "that played , performances movie gripping are all touching and with a understated.", "text_b": "", "label": 1}
+{"guid": 104, "text_a": "hero all , the is make as but those where it a and are , the against as enough kids enough dream to the , one patient of success the 's get-out cute short are wife baseball long is possible pictures seem to intimidate stoic odds.", "text_b": "", "label": 1}
+{"guid": 105, "text_a": "a , beck of he 's heavy and shooting the video of much illusion metal the to that the under time be down quick-cut seems blaring latest combining system editing a.", "text_b": "", "label": 0}
+{"guid": 106, "text_a": "simple the movie well uncomplicated affable cast plot the and morality relatively 's play with.", "text_b": "", "label": 1}
+{"guid": 107, "text_a": "is personas two kilmer director of worth ca interesting either do or about n't caring what 's val make the.", "text_b": "", "label": 0}
+{"guid": 108, "text_a": "as , viewer n't humor so often wincing reacting too the in are is they repugnance much back to.", "text_b": "", "label": 0}
+{"guid": 109, "text_a": "happen that great fun again a time 's recreates that and escapist it never will place.", "text_b": "", "label": 1}
+{"guid": 110, "text_a": "or no , , originality points scores for wit intelligence.", "text_b": "", "label": 0}
+{"guid": 111, "text_a": "enough there n't of appealing nearly the presence , is some here ingredients fun despite.", "text_b": "", "label": 0}
+{"guid": 112, "text_a": "inept hilariously ridiculous and.", "text_b": "", "label": 1}
+{"guid": 113, "text_a": "this is movie maddening.", "text_b": "", "label": 0}
+{"guid": 114, "text_a": "it it ca had haunts resolve confusions and you able forget , n't are you watching of its some admire to you conception , it you while the.", "text_b": "", "label": 1}
+{"guid": 115, "text_a": "become mendes out easy sam the ways and soft has landings for school valedictorian at.", "text_b": "", "label": 0}
+{"guid": 116, "text_a": "the one of long singles on in i seen time smartest culture a 've takes.", "text_b": "", "label": 1}
+{"guid": 117, "text_a": "makes is moody seem a unforced characters and entirely that style heartbreaking , in filmed even not its its script , when , natural convincing.", "text_b": "", "label": 1}
+{"guid": 118, "text_a": "be more else you pleasurable far new you the something nanosecond could that guy doing the reminds of every.", "text_b": "", "label": 0}
+{"guid": 119, "text_a": "bicycle of to uncomfortably comes coasting the ... close treads in the thief.", "text_b": "", "label": 0}
+{"guid": 120, "text_a": "that is sexuality fascinating , water connections women nature , quirky between the bridge and and poignant explores film a japanese a warm , red under water.", "text_b": "", "label": 1}
+{"guid": 121, "text_a": "to off is art consciously it the people seems me so film have ever know about them letting you ripping done without the of", "text_b": "", "label": 0}
+{"guid": 122, "text_a": "best moviemaking its at old-form.", "text_b": "", "label": 1}
+{"guid": 123, "text_a": "potentially something formula turns strangely forgettable diverting into.", "text_b": "", "label": 1}
+{"guid": 124, "text_a": "and , his bounces ( all in stage fame the brought mopping , place the ) over first wacky that , the him lawrence , talent face displaying generally dancing running sweating.", "text_b": "", "label": 1}
+{"guid": 125, "text_a": "be just and flair the exciting that reminds fantasy it how when 's with approached cinema and satisfying a movie imagination can us of.", "text_b": "", "label": 1}
+{"guid": 126, "text_a": "than nagging suspicion worse hawke in would front confirms is ethan the the behind of even be that it camera he.", "text_b": "", "label": 0}
+{"guid": 127, "text_a": ", the night like the end love ships insights rather we into left chinese pays with in dishonest gay society something passing than for or any one being in are price the , two.", "text_b": "", "label": 0}
+{"guid": 128, "text_a": "and energy montias himself but stereotyped a not with quirky street lot -- his cast ... nicely of surrounds into -- nuanced of narrative pumps characters a.", "text_b": "", "label": 1}
+{"guid": 129, "text_a": "a of superior it amid people the smart compelling intelligent entertainment cast grand playing plot a provides ,.", "text_b": "", "label": 1}
+{"guid": 130, "text_a": "from a comprehensible the or suffers narrative lack of compelling.", "text_b": "", "label": 0}
+{"guid": 131, "text_a": "in far the is less funny killers , than from space execution , idea original clever this.", "text_b": "", "label": 0}
+{"guid": 132, "text_a": "and / look too and both doo shaggy you / scooby sound dooby great.", "text_b": "", "label": 1}
+{"guid": 133, "text_a": "the andy too hitmen to ( of tale , sleek of ( the takashi o ) legendary asian take , ) is of trail a on most sociopath the scattershot hold , tok sorimachi lau.", "text_b": "", "label": 0}
+{"guid": 134, "text_a": "in interminably 's miserable relationship a so unfold time it real on drags all like watching it.", "text_b": "", "label": 0}
+{"guid": 135, "text_a": ", his in far of an and broder outrageous be abilities satire feature tony pumpkin co-director their abrams larson the debut r. , means but its on fraternity life dark , to ambitions adam exceed writer.", "text_b": "", "label": 0}
+{"guid": 136, "text_a": "and screen a better the project small looks suited for feels like.", "text_b": "", "label": 0}
+{"guid": 137, "text_a": "familiar thoroughly forced condescending , and.", "text_b": "", "label": 0}
+{"guid": 138, "text_a": "that compliment and miller is kuras to a.", "text_b": "", "label": 1}
+{"guid": 139, "text_a": "it the movie depression-era gangster not 's ultimate.", "text_b": "", "label": 0}
+{"guid": 140, "text_a": "its less-than-objective stance with its foot-age wealth archival of of the value sacrifices.", "text_b": "", "label": 0}
+{"guid": 141, "text_a": "is a character not of film zigzag developed the him around support sufficiently to constructed.", "text_b": "", "label": 0}
+{"guid": 142, "text_a": "any receive young better women what could size than ` love ' message of thyself?", "text_b": "", "label": 1}
+{"guid": 143, "text_a": "film it truly is ... but a conscientious than solid stirring more.", "text_b": "", "label": 1}
+{"guid": 144, "text_a": "new the film learned salvage boxing tricks hill lifeless alone enough tricks to has , ( are this while ) not.", "text_b": "", "label": 0}
+{"guid": 145, "text_a": "director work n't his is can about he ritchie that the in best it obviously the heart scottish here does be ... of have that said.", "text_b": "", "label": 0}
+{"guid": 146, "text_a": "who deep at it , if back satisfying about fights 's and her abusers and heroine energetic not manga-like psychological a.", "text_b": "", "label": 1}
+{"guid": 147, "text_a": "perhaps the his too little for robert and reserve film into much second first enough clever did put talented heart rodriguez a his and n't.", "text_b": "", "label": 0}
+{"guid": 148, "text_a": "and early to feels produce of familiar thrills the transgressive too underground too formulaic work.", "text_b": "", "label": 0}
+{"guid": 149, "text_a": "french of volatile friendship seems this , is female resonance the that rhythms of the unhurried so that is its low-key in it dynamics and off-hollywood positively subject film.", "text_b": "", "label": 1}
+{"guid": 150, "text_a": "do overall trying good to it 's for what very.", "text_b": "", "label": 1}
+{"guid": 151, "text_a": "delivers a gorgeous that its , diversions big grand fashion uncomplicated , swashbuckler , sprawling in.", "text_b": "", "label": 1}
+{"guid": 152, "text_a": "despite inconsistencies convey that difficult and pointed to and than substance repetitions , clear absorbing most are films do its a film manages more far more than.", "text_b": "", "label": 1}
+{"guid": 153, "text_a": "as consequence laughable is almost the film a heavy-handed.", "text_b": "", "label": 0}
+{"guid": 154, "text_a": "examination male of a midlife crisis the solid.", "text_b": "", "label": 1}
+{"guid": 155, "text_a": "of by a college date a in with sad trust lack half-formed platitudes a liberal wit disservice done and great sticker critical nightmare a bumper a arts distance.", "text_b": "", "label": 0}
+{"guid": 156, "text_a": ", to the something into plot transcend richer manages drugs show-tunes far and sex.", "text_b": "", "label": 1}
+{"guid": 157, "text_a": "about make it takes a movie heinous lived lifeless talent man most to who ever the.", "text_b": "", "label": 0}
+{"guid": 158, "text_a": "confused up myself by came when of the the heart many of the get the wrapped to myself found to getting and time movie i , characters in eccentricities visuals it of.", "text_b": "", "label": 0}
+{"guid": 159, "text_a": "oddly like and , likable it still 's frustrating leon.", "text_b": "", "label": 1}
+{"guid": 160, "text_a": "suspense nor ... searching pretensions stylish to equally does generate the to but silly questions uncommonly enough much justify , its fails ask picture it.", "text_b": "", "label": 0}
+{"guid": 161, "text_a": "not exactly the knees bees", "text_b": "", "label": 0}
+{"guid": 162, "text_a": "be 's to where how take or going there no to clear story as path to it going , seems long 's get the there to.", "text_b": "", "label": 0}
+{"guid": 163, "text_a": "about see on when money of , this to four dog $ a a in a a theaters it instead fancy why preschooler costs 40 spend pedigree but buffoonery , like you tickle a can many slapstick rent family 's when film can?", "text_b": "", "label": 0}
+{"guid": 164, "text_a": "ilya a chaiken pic woman directed 's by with resonance.", "text_b": "", "label": 1}
+{"guid": 165, "text_a": "reawaken for made film may looks screen this for the cable assassination but rather than kennedy the discussion fictional big of.", "text_b": "", "label": 0}
+{"guid": 166, "text_a": "believable characters do many set or they employs much , of and comprehensible some according artistic license matter how still avary drugs no function how need impulses to to.", "text_b": "", "label": 0}
+{"guid": 167, "text_a": "a film result 's is end neither that the.", "text_b": "", "label": 0}
+{"guid": 168, "text_a": "to same be at sweet satisfying manages and wickedly the time.", "text_b": "", "label": 1}
+{"guid": 169, "text_a": "top film performances bottom is leigh full 's from memorable to of.", "text_b": "", "label": 1}
+{"guid": 170, "text_a": "great , , 's it fun clearly also.", "text_b": "", "label": 1}
+{"guid": 171, "text_a": "has looked benign and leukemia rarely shimmering so.", "text_b": "", "label": 0}
+{"guid": 172, "text_a": "this my whole now for seems waiting movie for been i sequel the ca it i n't have and like life wait.", "text_b": "", "label": 1}
+{"guid": 173, "text_a": "bouncy determined energetic be n't adult to musicals the , engage did , fun this quite , humor with and.", "text_b": "", "label": 0}
+{"guid": 174, "text_a": "'s you dig movie if on rent david tricks enjoy mamet ... mind and this!", "text_b": "", "label": 1}
+{"guid": 175, "text_a": "pity to more or memorialize all the , bleakly themselves its characters touching refusing for funny.", "text_b": "", "label": 1}
+{"guid": 176, "text_a": "delivers old old same hollywood latin and the playas up tarted flava turned with same , by out.", "text_b": "", "label": 0}
+{"guid": 177, "text_a": "offer of raise screen n't and violence , set ... series glib soullessness bar language brutal much does raunchy a the on that pieces stylized besides.", "text_b": "", "label": 0}
+{"guid": 178, "text_a": "me want screen my eyes the to of toss and head at made them it wrench my out.", "text_b": "", "label": 0}
+{"guid": 179, "text_a": "are the 's performances thrilling film.", "text_b": "", "label": 1}
+{"guid": 180, "text_a": "you unfortunately not enjoy movies , it 's bad really unless silly fun.", "text_b": "", "label": 0}
+{"guid": 181, "text_a": "much blooper 's it as a about has its end thing substance movie when reel as bad a credits.", "text_b": "", "label": 0}
+{"guid": 182, "text_a": "a the job good n't does conveying plight hand at the , do the these of issue but i movie families with sympathize very.", "text_b": "", "label": 0}
+{"guid": 183, "text_a": "'ll your expectations enjoy lower the the more you it ,.", "text_b": "", "label": 0}
+{"guid": 184, "text_a": "life haphazard scherick entertaining by ronn neither and disjointed actors fitfully david the breathe it can , director hurley the hudlin than make reginald , make though inspiring to into jay nor more and script efforts perry.", "text_b": "", "label": 0}
+{"guid": 185, "text_a": ", anyone mamet appreciates must-see and intelligent the a for for david moviemaking enthusiast who stylish.", "text_b": "", "label": 1}
+{"guid": 186, "text_a": "existential physical increasing , pacino dormer as is weariness is sleep-deprived as his it as much brilliant the.", "text_b": "", "label": 1}
+{"guid": 187, "text_a": "hollywood veritable passion orbits ` around this ... contrivance sincere niro a de source is of . that'", "text_b": "", "label": 1}
+{"guid": 188, "text_a": "as to hip , young of filth a that attempts adult off itself entertainment piece pass misogynistic.", "text_b": "", "label": 0}
+{"guid": 189, "text_a": "a tell it thousand have it it why but like took to did be , thousand years to old us to story seem another its may?", "text_b": "", "label": 0}
+{"guid": 190, "text_a": "you , movie see everyone of a n't in , ! try my as good extemporaneously ` think ca this single may , even reason shouted thank group i though to i'", "text_b": "", "label": 0}
+{"guid": 191, "text_a": "in movie 's the to too that of a 's struggle and beautiful sense one and in is all productions -- behold hastier engages rare inner -- hollywood epic outer.", "text_b": "", "label": 1}
+{"guid": 192, "text_a": "to eccentricity out individuals , , the celebration and tendency all quirkiness hang it damn , consequences of ' let and a certain.", "text_b": "", "label": 1}
+{"guid": 193, "text_a": ", language body her to morton bring the almost face character 's and uses soul is us her morvern completely though even deadpan.", "text_b": "", "label": 1}
+{"guid": 194, "text_a": "beat-charged 's sociologically slice unpretentious life urban of an western , pointed , of instead a hyperbolic it.", "text_b": "", "label": 1}
+{"guid": 195, "text_a": "my focused thoughts were characters the on.", "text_b": "", "label": 1}
+{"guid": 196, "text_a": "delhi so clashing , about 's is culture this new in comedy , too today mild.", "text_b": "", "label": 1}
+{"guid": 197, "text_a": "the , story starters slim is too for just.", "text_b": "", "label": 0}
+{"guid": 198, "text_a": "world ensemble canadians is in that on else equally put button the as as , winning easily gentle just and anywhere a sentiments laughs this can the shows counterparts their comedy gentle.", "text_b": "", "label": 1}
+{"guid": 199, "text_a": "theater the about when if walk much least you do at when very more derrida the , you leave n't you , know n't wo anything know into you.", "text_b": "", "label": 0}
+{"guid": 200, "text_a": "in the occasionally heights ... dizzying gets ends balletic achieved screwups bmx hotdogging , format used whose riders and bone-crushing motocross capture best to by the.", "text_b": "", "label": 1}
+{"guid": 201, "text_a": "in is it inside , that , not 's conflict-powered plot 's film trying keeps but seat it get the to moral your that decent you the there a out 's tension.", "text_b": "", "label": 1}
+{"guid": 202, "text_a": "his be so ought , revoked can directing have a that license there ed to burns.", "text_b": "", "label": 0}
+{"guid": 203, "text_a": "bad.", "text_b": "", "label": 0}
+{"guid": 204, "text_a": "some despite of vain that doldrums ego defoliation and parents the film , of touching dogged jia the ` 's good will make '.", "text_b": "", "label": 1}
+{"guid": 205, "text_a": "stupid into of falls fun category the neatly good.", "text_b": "", "label": 1}
+{"guid": 206, "text_a": "a within stays genre of film that the an well-established artful confines , intelligent.", "text_b": "", "label": 1}
+{"guid": 207, "text_a": "provocative funny , blisteringly smart and.", "text_b": "", "label": 1}
+{"guid": 208, "text_a": "and the end nothing the , in is lesson new ,.", "text_b": "", "label": 0}
+{"guid": 209, "text_a": "movie is audience this ever is the big boxing not certainly it a champion 's loser undisputed the not worst - the , but.", "text_b": "", "label": 0}
+{"guid": 210, "text_a": "one as but , films savvier not also in funny more both austin so than spoofs , of the not is , it along smarter only time some if to brother undercover 's come powers ,.", "text_b": "", "label": 1}
+{"guid": 211, "text_a": "like saying hot to in the in done sun some is 's better wilder east it this the rises was like say.", "text_b": "", "label": 0}
+{"guid": 212, "text_a": ", boring the sad sad man and boring entire about being movie a is.", "text_b": "", "label": 0}
+{"guid": 213, "text_a": "him mode again up sentimentality time trips in burns his but mr. this trying street-realist martin , the self-regarding is something scorsese.", "text_b": "", "label": 0}
+{"guid": 214, "text_a": "in new but of that nascent movie this as ill perceptive and world politics its art industrialized vision , for an fit form didactic simply far too clunky scenes a seem , saddled with.", "text_b": "", "label": 0}
+{"guid": 215, "text_a": "living just may be lengthy the , than far unlike sentence jail likened well because best , a more this revenge film treasure to is adaptations a other dumas.", "text_b": "", "label": 1}
+{"guid": 216, "text_a": "of breadth its all and most intimacy physical others act the of how meaning its movie understands like pleasure depth of and the emotional few give the.", "text_b": "", "label": 1}
+{"guid": 217, "text_a": ") begins once and shock it you , kim overplay shimmering bait-and-tackle price picture too a high for pay tactics to decide the postcard may to a 's metaphors (.", "text_b": "", "label": 0}
+{"guid": 218, "text_a": "that 's missing and delight the , originality all spontaneity is.", "text_b": "", "label": 0}
+{"guid": 219, "text_a": "what action for focus makes corcuera film as compassion general collective in the in in the , to it lacks form up hope manages of of the find seeds.", "text_b": "", "label": 1}
+{"guid": 220, "text_a": "told is deconstructed treatise ( earnest in strides with personal illusion the ) ... and is poignancy socio-histo-political.", "text_b": "", "label": 1}
+{"guid": 221, "text_a": "in reaction disappointment a word : my.", "text_b": "", "label": 0}
+{"guid": 222, "text_a": "is directing an of creepy spooky a 's a actor premise genuinely rural paxton , thriller bill slice with cast psychological and debut americana a gothic above-average.", "text_b": "", "label": 1}
+{"guid": 223, "text_a": ", heartwarming , of manages schmaltzy and nonetheless corny be kind predictable , to but still.", "text_b": "", "label": 1}
+{"guid": 224, "text_a": "twisty queens -- can , nothing away stake a mile 's at fun of a just lots still you , smell is the derivative nine double-cross.", "text_b": "", "label": 1}
+{"guid": 225, "text_a": "imaginative animated cash-in tv made nickelodeon the ambitious series far has trivial from features than other , its more and.", "text_b": "", "label": 1}
+{"guid": 226, "text_a": "bad 's of more quite objective still , course by measurements it.", "text_b": "", "label": 0}
+{"guid": 227, "text_a": "lovers and charming both friends as the chemistry lathan and are two and have , leads as diggs.", "text_b": "", "label": 1}
+{"guid": 228, "text_a": "grounds a anchor an to striving honest it itself provides community at look in new.", "text_b": "", "label": 1}
+{"guid": 229, "text_a": "movie seems using have written mad-libs to this been.", "text_b": "", "label": 0}
+{"guid": 230, "text_a": "is best made and -- much fire of as that without was watched thought it way reign if looks.", "text_b": "", "label": 1}
+{"guid": 231, "text_a": "and viveka performances the and characters complex , and hopes sometimes sven tender barbara by make -- are sometimes frustrations delicate angry wollter vivid seldahl martin their and --.", "text_b": "", "label": 1}
+{"guid": 232, "text_a": "movies all just pow all bad not 's than is -- is , some any it arts without of n't funnier kung augmentation funny n't that are the martial oedekerk it time by impish 's themselves.", "text_b": "", "label": 0}
+{"guid": 233, "text_a": "'d say have director problems the big star are i the to here and.", "text_b": "", "label": 0}
+{"guid": 234, "text_a": "jackson are partners good and sparring affleck.", "text_b": "", "label": 1}
+{"guid": 235, "text_a": "n't deny loathe their power the two rap it talent like you the tragic loss of of or movie either men the you or of whether in prime ca , this young music.", "text_b": "", "label": 1}
+{"guid": 236, "text_a": "operatic been of and 's the since not akira such the with ran visualized japanese filmmaker specter have kurosawa of grandeur death combat savagery.", "text_b": "", "label": 1}
+{"guid": 237, "text_a": "to that do n't enhance wo much the a by-the-numbers effort franchise.", "text_b": "", "label": 0}
+{"guid": 238, "text_a": "occasionally but limp funny an fish-out-of-water , overall , story.", "text_b": "", "label": 0}
+{"guid": 239, "text_a": "the brilliantly one and demands of the between heart tradition following explores 's conflict following.", "text_b": "", "label": 1}
+{"guid": 240, "text_a": "a animation despite movie cinematic the 2-d experience wild the surprisingly makes thornberrys , for.", "text_b": "", "label": 1}
+{"guid": 241, "text_a": "to has it in appears screen lost been the something translation the that.", "text_b": "", "label": 0}
+{"guid": 242, "text_a": "monty wrong sketch all a horribly like feels it python gone.", "text_b": "", "label": 0}
+{"guid": 243, "text_a": "could tunes lead grief across into a film centuries a man that the.", "text_b": "", "label": 1}
+{"guid": 244, "text_a": "best to its its in and always characters determined with , dankworth 's and characters story stylishness which ( johnny relates soundtrack years dazzles fully-written ).", "text_b": "", "label": 1}
+{"guid": 245, "text_a": "that like it an a in 's medium work of by so control his message and artist his can jazzman both a improvise he.", "text_b": "", "label": 1}
+{"guid": 246, "text_a": "the chancellor anna weddings and and droll '' wit 's this `` scene-stealing fun makes a it between the pessimism chemistry two wolfish women funeral that of the and.", "text_b": "", "label": 1}
+{"guid": 247, "text_a": "harvard stealing of their and 's comedy half-hearted and brand bobby is evidence with , green screen farrelly bros. peter along the to -- movie that -- career are end wheezing an.", "text_b": "", "label": 0}
+{"guid": 248, "text_a": "plot full a some pat a of , onscreen has presented building not structured world series points resolution to carefully been.", "text_b": "", "label": 1}
+{"guid": 249, "text_a": "glad-handing the sense both choking huston and despair nails of the hollow.", "text_b": "", "label": 1}
+{"guid": 250, "text_a": "of hit movies children this 's intelligent the year theaters more one to.", "text_b": "", "label": 1}
+{"guid": 251, "text_a": "hard tries be to to hip hard be too film funny and the too tries.", "text_b": "", "label": 0}
+{"guid": 252, "text_a": "performance confirms 's again blanchett power her once.", "text_b": "", "label": 1}
+{"guid": 253, "text_a": "of value deal make you you from i any double stock if , week on leftover a that enron believe in will a this real friday can.", "text_b": "", "label": 0}
+{"guid": 254, "text_a": "that film message so instead heavy-handed pummel to audience the ensemble impart by attempts are they a this.", "text_b": "", "label": 0}
+{"guid": 255, "text_a": "disguise of one should the master of a truly heinous crime sit but to have some guilty through convict no.", "text_b": "", "label": 0}
+{"guid": 256, "text_a": "much so entertainment has little money rarely so delivered.", "text_b": "", "label": 0}
+{"guid": 257, "text_a": "to for appears have entire soundtrack on his had rights blown left nothing taylor and budget over jokes.", "text_b": "", "label": 0}
+{"guid": 258, "text_a": "a interest machine has in '' itself time that the `` no movie is.", "text_b": "", "label": 0}
+{"guid": 259, "text_a": "iranian the a comedy chides protagonist 's that rarity full 's it its films among absurdity gentle humor plight of of a recent :.", "text_b": "", "label": 1}
+{"guid": 260, "text_a": "buff 's you - , lost weight tough 've daphne / too he and thinks / wow , / you 're but velma fred!", "text_b": "", "label": 0}
+{"guid": 261, "text_a": "a the , ' the is very director for it definition stepping stone movie sprecher of ` good small but.", "text_b": "", "label": 1}
+{"guid": 262, "text_a": "bad place who like minus 's daytime that one into ' an after-school and special and slickness knew programs ? those had , they ( 's every any even ) in it ever gone sophistication compiled idea.", "text_b": "", "label": 0}
+{"guid": 263, "text_a": "directed dahmer well-acted and , chilling 's : finely jacobson david ,.", "text_b": "", "label": 1}
+{"guid": 264, "text_a": "romance ca wants it a it or to comedy a a , be if mystery/thriller decide n't.", "text_b": "", "label": 0}
+{"guid": 265, "text_a": "palma fact is is brian stale its , scarface full from uses de in that so vibrant paid 's scene one , in most clips that.", "text_b": "", "label": 0}
+{"guid": 266, "text_a": "between game sense coda british of talking-head account the the time extradition regime case 's chess survivors pinochet the a , splits in minute-by-minute and a 's every court.", "text_b": "", "label": 1}
+{"guid": 267, "text_a": "lighten straight-faced to it played , humor in things most with up the little fashion 's.", "text_b": "", "label": 0}
+{"guid": 268, "text_a": "really and things be dumb not where is dumb movie going a have see dumb characters this doing with to you dumb to.", "text_b": "", "label": 0}
+{"guid": 269, "text_a": "endurance to virtually for , challenge audience on with elements walls is a interesting chelsea no an focus triple-espresso.", "text_b": "", "label": 0}
+{"guid": 270, "text_a": "some characters moments and with thrilling contains dense.", "text_b": "", "label": 1}
+{"guid": 271, "text_a": "as as unseemly its title suggests.", "text_b": "", "label": 1}
+{"guid": 272, "text_a": "nightmare like watching a flesh made 's it.", "text_b": "", "label": 0}
+{"guid": 273, "text_a": "title exactly indicates report minority a report what is the ,.", "text_b": "", "label": 1}
+{"guid": 274, "text_a": "for caine to , film boxing and who guy it aging fame starring is a promoter 's about certainly of fortune desperate michael unlikeable utterly , like , a as taste british a hard and that is shiner an.", "text_b": "", "label": 0}
+{"guid": 275, "text_a": "action-filled story , crime intimate an with an entertaining colorful , heart.", "text_b": "", "label": 1}
+{"guid": 276, "text_a": "-- reason and convictions this own this only deserves power its reason hoity-toity steadfast for walls the of -- medal chelsea a ,.", "text_b": "", "label": 1}
+{"guid": 277, "text_a": "few inspire may to and stevenson , 's treasure read moviegoers younger a a of in itself which is just it book.", "text_b": "", "label": 1}
+{"guid": 278, "text_a": "a series raps and between static semi-coherent semi-improvised stars the of ( basically ).", "text_b": "", "label": 0}
+{"guid": 279, "text_a": "we `` with more action '' ... the identity return to the bourne traditional genre.", "text_b": "", "label": 1}
+{"guid": 280, "text_a": "'s even it wit good its school parker , , productions that can so inept not oliver 's only relentless adaptation movie withstand but polished.", "text_b": "", "label": 1}
+{"guid": 281, "text_a": "on its depiction chokes of decorum upper-crust own.", "text_b": "", "label": 0}
+{"guid": 282, "text_a": "intrinsically , anthony bruckheimer ` production while funny to has little car something offer about saying sir in this , 's hopkins ' the jerry else get there bitch", "text_b": "", "label": 1}
+{"guid": 283, "text_a": "a and work only for art patient rewarding challenge-hungry moviegoers of most the.", "text_b": "", "label": 1}
+{"guid": 284, "text_a": "manner a directed paint-by-numbers in.", "text_b": "", "label": 0}
+{"guid": 285, "text_a": "hollywood nuclear k-19 exploits tension fear substantial to holocaust of generate cheap our collective.", "text_b": "", "label": 0}
+{"guid": 286, "text_a": "like classics its campy vincent at '60s fun horror is price the of , the queen best.", "text_b": "", "label": 1}
+{"guid": 287, "text_a": "what for in than to gibson trip willis journey much us on more , us in it and , a take emotional actor is stepping perfect , the movies 's bruce two past his has shyamalan given the.", "text_b": "", "label": 1}
+{"guid": 288, "text_a": "message present the the the filmmakers with intelligence and to humor becoming quality script of without biblical allow of syrupy ever or the the of preachy art it the forgiveness combined.", "text_b": "", "label": 1}
+{"guid": 289, "text_a": "cool?", "text_b": "", "label": 1}
+{"guid": 290, "text_a": "funny , the full surprises , to and , fast of and loose deliriously uninitiated accessible", "text_b": "", "label": 1}
+{"guid": 291, "text_a": ", , shoulder even tattoos with sheet of mohawk covering acting fire-red posing a green rather however his and a , than be kilmer to flame seems.", "text_b": "", "label": 0}
+{"guid": 292, "text_a": "'re in a a the such that chronicle ups the proceeds the of you opera and rather friendship accompany watching downs friendships soap a and lifelong way story that than.", "text_b": "", "label": 0}
+{"guid": 293, "text_a": "live-action , , 's time what the form and it a than the is real cartoons to when so-called at refreshing are a knows movies knows half more see little cartoon that history it 's.", "text_b": "", "label": 1}
+{"guid": 294, "text_a": "the bollywood of spirit of effusion incarnated the joyful the movie a out disco by soaring , theater soundtrack in 's meets-new wedding is of mesh old-world sent , the monsoon end , - my that.", "text_b": "", "label": 1}
+{"guid": 295, "text_a": "brutal ... offer form jones a does charisma of.", "text_b": "", "label": 1}
+{"guid": 296, "text_a": "by this lacks works vinegar simple thorn featuring and well ) of long the conspicuously its so has ( been insight picture and punch plundered similar humanity and.", "text_b": "", "label": 0}
+{"guid": 297, "text_a": "hope a and disillusionment travels to fascinating and from arc reality euphoria.", "text_b": "", "label": 1}
+{"guid": 298, "text_a": "a does serve up serving lot sara n't of whole laughs.", "text_b": "", "label": 0}
+{"guid": 299, "text_a": "there the 's feel popular of optimistic hitchcock miss , for cinema also but me that sort makes hope yet that film.", "text_b": "", "label": 1}
+{"guid": 300, "text_a": "and terribly hip flip cinematic , of bit entertainment fun.", "text_b": "", "label": 1}
+{"guid": 301, "text_a": "quickly powers and which screenplays the potion flimsy gives to discern the them n't named eyes enable laser-beam bubbles that extraordinary blossom buttercup and strength include do supernatural , , x unfortunately.", "text_b": "", "label": 0}
+{"guid": 302, "text_a": "wild the is jolly thornberrys a surprise movie.", "text_b": "", "label": 1}
+{"guid": 303, "text_a": ", lively entertains company good by providing.", "text_b": "", "label": 1}
+{"guid": 304, "text_a": "audacious form densely a that jean-luc constructed among can work film , sit an return and 's referential highly godard comfortably finest to ,.", "text_b": "", "label": 1}
+{"guid": 305, "text_a": "has seems original it what frequently co-opted so that pedestrian was been once now.", "text_b": "", "label": 0}
+{"guid": 306, "text_a": "the are structure well-honed story and.", "text_b": "", "label": 1}
+{"guid": 307, "text_a": "... whose role macdowell an , anchored conviction brings charm has wifty affairs her absolutely riveting lighter southern to.", "text_b": "", "label": 1}
+{"guid": 308, "text_a": "in in execution is that and cinematic intriguing interesting more occasionally concept than an omnibus round-robin.", "text_b": "", "label": 1}
+{"guid": 309, "text_a": "of to coming far superior a potter second predecessor film the harry is its.", "text_b": "", "label": 1}
+{"guid": 310, "text_a": "performances 's the rough it stomach can , if content checking the worth out you alone for.", "text_b": "", "label": 1}
+{"guid": 311, "text_a": "engaging , a warm funny , film.", "text_b": "", "label": 1}
+{"guid": 312, "text_a": "more than the video is film fun a 'll bet i game lot the.", "text_b": "", "label": 0}
+{"guid": 313, "text_a": "hit dreams about baseball field to best film the of theaters since.", "text_b": "", "label": 1}
+{"guid": 314, "text_a": "a gerald summer his and quirky of buddy great fun bounce is off to characters watch arnold it cast.", "text_b": "", "label": 1}
+{"guid": 315, "text_a": "visible or effort cleverness originality even lack of , complete", "text_b": "", "label": 0}
+{"guid": 316, "text_a": "battle epic scenes ` another spectacle add to awesome spectacular up breathtaking , scenery and . creatures ,'", "text_b": "", "label": 1}
+{"guid": 317, "text_a": "is with but an us who necessarily enjoyable a live , told all-in-all of tale us and not the , people film frankly among.", "text_b": "", "label": 1}
+{"guid": 318, "text_a": "way the hit far of a as the story as comedy and miss and goes ole ' big in miss.", "text_b": "", "label": 0}
+{"guid": 319, "text_a": "underdeveloped feels unfocused it and too of much.", "text_b": "", "label": 0}
+{"guid": 320, "text_a": "a film and deep meaningful.", "text_b": "", "label": 1}
+{"guid": 321, "text_a": "but worse could been have it.", "text_b": "", "label": 0}
+{"guid": 322, "text_a": "pure pr hype 's that.", "text_b": "", "label": 0}
+{"guid": 323, "text_a": "behavior to ode a painfully funny bad.", "text_b": "", "label": 1}
+{"guid": 324, "text_a": "treading possibly , and spectacle promising gasp lad tear 'll appalled outraged the watching , nasty and shed an sea of a laugh errant you in a desperately young.", "text_b": "", "label": 1}
+{"guid": 325, "text_a": "put , 30 liotta goodfellas for himself on , completely the from his and pounds transformed has role smooth image.", "text_b": "", "label": 1}
+{"guid": 326, "text_a": "from disney pastel comedy and colors splash of prankish a beguiling.", "text_b": "", "label": 1}
+{"guid": 327, "text_a": "as intense character quite it brooding proves compelling an , study.", "text_b": "", "label": 1}
+{"guid": 328, "text_a": "news amalgam vibes an of unwise and broadcast.", "text_b": "", "label": 0}
+{"guid": 329, "text_a": "pinocchio charm lacking film in benigni is and bad 's wit roberto , astonishingly utterly an , invention.", "text_b": "", "label": 0}
+{"guid": 330, "text_a": "the a leaves that hole center of the salton in sea and.", "text_b": "", "label": 0}
+{"guid": 331, "text_a": "and yanks gauls chateau probes cleverly the differences the cross-cultural between.", "text_b": "", "label": 1}
+{"guid": 332, "text_a": "his help ' style really broomfield could into case that blundering distinctive up ` clear something turns the.", "text_b": "", "label": 1}
+{"guid": 333, "text_a": "predictable , intellectual that with the pleasant it kind romance as entertains a enough maddeningly turns of even movie underpinnings.", "text_b": "", "label": 1}
+{"guid": 334, "text_a": "great and characters special a feeling hero theater suffering us can share its shared whose we sends surrounds that pulls into 've it triumphs makes really with , we adventure interesting us him us it gives the , is world of and out what a.", "text_b": "", "label": 1}
+{"guid": 335, "text_a": "'s exception perry boss there with by n't moment , redeeming of entertainer is cedric improvisations fleetingly here as the the amusing a some.", "text_b": "", "label": 0}
+{"guid": 336, "text_a": "movie-going performances had , public generally cast gets , having speaking from adored actors to by sense who then khouri good the all , are the them terrific.", "text_b": "", "label": 1}
+{"guid": 337, "text_a": "the to do talking parade and gibberish of boring heads linux cause that advance a ... little will technical.", "text_b": "", "label": 0}
+{"guid": 338, "text_a": "quality lesser that it of or movie - sabrina the of dreadful harrison a nights , maybe , days ford , seven six 's remake.", "text_b": "", "label": 0}
+{"guid": 339, "text_a": "more thoughtful ; interesting you is enjoy comedies this characters conflicted you if for with one.", "text_b": "", "label": 1}
+{"guid": 340, "text_a": "the year the film filmed a hopelessly , most take the monotonous gimmick single noteworthy 87-minute as of only for of being unbroken.", "text_b": "", "label": 0}
+{"guid": 341, "text_a": "to world by horizons a deserves even own seen be beyond shaping the it passing their in interest with the events anyone.", "text_b": "", "label": 1}
+{"guid": 342, "text_a": "not an in suspect to by , being by too it wishy-washy offends , effort lighthearted just either , offend too or i appearing serious.", "text_b": "", "label": 0}
+{"guid": 343, "text_a": "i no junk load believe of this way can.", "text_b": "", "label": 0}
+{"guid": 344, "text_a": "profoundly of , them there deepen here and that fabric complex feelings is ideas a.", "text_b": "", "label": 1}
+{"guid": 345, "text_a": "country this meyer a third-best , , runner-up maybe above and feature nicholas deal undiscovered star : -- the tenth least vi the 's at previous the a trek even is indeed notch , big.", "text_b": "", "label": 1}
+{"guid": 346, "text_a": "unfunny repellent not but downright only ,.", "text_b": "", "label": 0}
+{"guid": 347, "text_a": "then fresh to or characters hard has establish interesting about say works but nothing rounded , particularly them to.", "text_b": "", "label": 0}
+{"guid": 348, "text_a": "one after another idea bad just.", "text_b": "", "label": 0}
+{"guid": 349, "text_a": "will shock trite in without ... 10 tooth fortified sweet a go last that likely so anyone unforgivably sugar turns its minutes into.", "text_b": "", "label": 0}
+{"guid": 350, "text_a": "laughter calculated or without , premises comedy are shocked , provoke often deeper level plain following to his just on crude hackneyed up a.", "text_b": "", "label": 0}
+{"guid": 351, "text_a": "who the and performances fine leads stage characters from ) ( two originated version directed his stage , the on elling of gets n\u00e6s.", "text_b": "", "label": 1}
+{"guid": 352, "text_a": "a tale and , revenge faith above , betrayal of love all , swashbuckling.", "text_b": "", "label": 1}
+{"guid": 353, "text_a": "lovers movie for opera is treat , well as real lovers as a tosca.", "text_b": "", "label": 1}
+{"guid": 354, "text_a": "is unforgettable and film threatening quiet , the.", "text_b": "", "label": 1}
+{"guid": 355, "text_a": "suffer is pleasure there watching no in child a.", "text_b": "", "label": 0}
+{"guid": 356, "text_a": "sequels 400 is years anti-darwinian x positively teens jason and jason and auto-pilot the still kills , none are later : on nine the wiser.", "text_b": "", "label": 0}
+{"guid": 357, "text_a": "harvard stands nothing convicted to theft your time larceny grand more of aspires comedic stealing of petty than but.", "text_b": "", "label": 0}
+{"guid": 358, "text_a": "faithful cloying maybe -- already be evangelical know oes ) or movies will the likely the christian being preachy as filmmakers ( the as n't equivalent d that audience bother among.", "text_b": "", "label": 1}
+{"guid": 359, "text_a": "filmmaker of , considerable clouds and , sen talent amounts of establishes beneath potential displaying equal as passion naivet\u00e9 about a.", "text_b": "", "label": 1}
+{"guid": 360, "text_a": "` films easily 's my the for of choice one year . best'", "text_b": "", "label": 1}
+{"guid": 361, "text_a": "a , focus on preparation very with dull and construction in long stretches movie , too much entirely igloo meal.", "text_b": "", "label": 0}
+{"guid": 362, "text_a": "that soul dark , has provides an something tapped first-time frailty as in as with director actor paxton its himself a.", "text_b": "", "label": 1}
+{"guid": 363, "text_a": "grab to 's of genres n't it do that lot whole bag a add sense a of up.", "text_b": "", "label": 0}
+{"guid": 364, "text_a": "from miramax have everyone hidden hiding of it , instead from critics pinocchio should.", "text_b": "", "label": 0}
+{"guid": 365, "text_a": "the and of the drama it water , , portentous pretentious weight of appropriately is heavy-handedness titled given.", "text_b": "", "label": 0}
+{"guid": 366, "text_a": "the this reconsideration , film a , altogether a the most is touching successful familiar at while as masterpiece being same of time.", "text_b": "", "label": 1}
+{"guid": 367, "text_a": "likable the there been always has something about marquis sade de.", "text_b": "", "label": 1}
+{"guid": 368, "text_a": "unpleasant heavy-handed and , simply is occasionally the forced humor and.", "text_b": "", "label": 0}
+{"guid": 369, "text_a": "of without entangled director , carlos weaves this morality novelistic ever didactic and interrelationships story carrera becoming expertly complex.", "text_b": "", "label": 1}
+{"guid": 370, "text_a": "it you concoction watching partway rejected tv three that made through realize , episodes show , a of is up easter-egg-colored of saccharine this.", "text_b": "", "label": 0}
+{"guid": 371, "text_a": "clear of of 's steering part incendiary reactions for work solutions the , most and knee-jerk a genius quick it ,.", "text_b": "", "label": 1}
+{"guid": 372, "text_a": "weightlessness the hefty rousing better look score horner and than while original the as many scenes james and of 's effects , sound audio use of the special in system good good the make or oscar-winning.", "text_b": "", "label": 1}
+{"guid": 373, "text_a": "sit major to so got freddy fingered not a release been through painful since has.", "text_b": "", "label": 0}
+{"guid": 374, "text_a": "movie ai n't the and blow what when times to is natural their pretty you potatoes , small it happens 10 up size.", "text_b": "", "label": 0}
+{"guid": 375, "text_a": "n't have we hilarity such n't it is seen since so say!", "text_b": "", "label": 1}
+{"guid": 376, "text_a": "it `` '' be other just to would dangerous call of like heaven entertainments side can underestimate appalling be the to how.", "text_b": "", "label": 0}
+{"guid": 377, "text_a": "in sacred is this nothing gut-buster.", "text_b": "", "label": 0}
+{"guid": 378, "text_a": "tossing the in simply of feels writers they mistakenly , characters stirring haphazard achieve pot by an lots if of the could as thought stuff frantic air silly and spontaneity doing.", "text_b": "", "label": 0}
+{"guid": 379, "text_a": "familiar is some tries spice taste its too the to quirky but add to sentiments all.", "text_b": "", "label": 0}
+{"guid": 380, "text_a": "special at worst series a effects of it in very bad its implodes ,.", "text_b": "", "label": 0}
+{"guid": 381, "text_a": "surprises , miller efficiency tightly is constant 's film numerous 2002 adult 's with a and of tension of , flashbacks organized one edge involvingly.", "text_b": "", "label": 1}
+{"guid": 382, "text_a": "lift heartfelt enterprise great this the n't ca cast ensemble a out familiar of.", "text_b": "", "label": 0}
+{"guid": 383, "text_a": "a warm affection and friendship realistic family meditation on , but.", "text_b": "", "label": 1}
+{"guid": 384, "text_a": "on that 's the and by sense suspense but the the times of by , potential of end haunted palpable viewer a the that there credulity strains the leaves crux hinges is at a waste technicality the mystery ,.", "text_b": "", "label": 0}
+{"guid": 385, "text_a": "only succeeds standards evil and thrills while , the have resident set of suspense video , in third for may really for the new these , the games games movie gore.", "text_b": "", "label": 0}
+{"guid": 386, "text_a": "de and 's force subtly solid tour remarkably it a satirical.", "text_b": "", "label": 1}
+{"guid": 387, "text_a": "demonstrates quirks ... of understanding a director the wry niccol fame of andrew.", "text_b": "", "label": 1}
+{"guid": 388, "text_a": "an movie character the irritating in plugged late leguizamo when finally.", "text_b": "", "label": 0}
+{"guid": 389, "text_a": "the stay thekids colorful , will probably kaleidoscope of characters big amused at.", "text_b": "", "label": 1}
+{"guid": 390, "text_a": "tiresomely profundity long-winded and mattei circularity itself , if grave as indicated is.", "text_b": "", "label": 0}
+{"guid": 391, "text_a": "rock self-serious but routine ... random cliche-riddled of a chris what into plays thriller spy moments spliced like is otherwise a somebody.", "text_b": "", "label": 0}
+{"guid": 392, "text_a": "farce ultimately an , would-be tedious overemphatic sex wacky ,.", "text_b": "", "label": 0}
+{"guid": 393, "text_a": "adds good it fun up all to.", "text_b": "", "label": 1}
+{"guid": 394, "text_a": "whether a nervous is or as ghost it a above fontaine none , memory , , anne film story haunting as is account breakdown the an trip , all seductive 's a three of of it down lane writer-director is.", "text_b": "", "label": 1}
+{"guid": 395, "text_a": "the have in-your-face those never people another lower who wallow depths sung in by made blues.", "text_b": "", "label": 0}
+{"guid": 396, "text_a": "entertaining funny very , well-made and picture a.", "text_b": "", "label": 1}
+{"guid": 397, "text_a": ", worth it times just at children of basis on of seeing 's the wisdom the startling and the the optimism , ,.", "text_b": "", "label": 1}
+{"guid": 398, "text_a": "heavy-handed punch-drunk , never is its title love despite.", "text_b": "", "label": 1}
+{"guid": 399, "text_a": "in if director dowse characters hold does understands his them only , contempt n't superficially he michael.", "text_b": "", "label": 0}
+{"guid": 400, "text_a": "'s has does prove see anything n't refreshing to a feel movie to it it that girl-power.", "text_b": "", "label": 1}
+{"guid": 401, "text_a": "goes deeper narrative film than choices of complexity , the the may fundamental that include naked appear to doctrine ... but form it its in that catholic the", "text_b": "", "label": 1}
+{"guid": 402, "text_a": "that pop blare songs however those will science may movies love please it with who disgust young in , away fans stomp fiction.", "text_b": "", "label": 0}
+{"guid": 403, "text_a": "vulgar as is as it banal.", "text_b": "", "label": 0}
+{"guid": 404, "text_a": "realistic has done performances zhang of his an job amazing nonprofessional cast getting from mainly ....", "text_b": "", "label": 1}
+{"guid": 405, "text_a": "its might , intermittent love will pleasures but others this outer-space buffs film find.", "text_b": "", "label": 0}
+{"guid": 406, "text_a": "makes trick neater detective : unknowable sexy a literary language pulls haunting makes past labute maud for off an 's and he in for , possession but story search roland a.", "text_b": "", "label": 1}
+{"guid": 407, "text_a": "more commentary corruscating whiny than downer.", "text_b": "", "label": 0}
+{"guid": 408, "text_a": "part to many simply , , exploit -- -- part farce them part doors too around and video yet floating pop there sliding ideas failing are.", "text_b": "", "label": 0}
+{"guid": 409, "text_a": "complete blade-thin stale , another pun-laden terrible with characters flick , it kill-by-numbers 's , and dialogue.", "text_b": "", "label": 0}
+{"guid": 410, "text_a": "the the complicated and underlying concern with fueling thrillers favor its distinguishes consequences of with terrorist what from other emotions is words countless time of acts.", "text_b": "", "label": 1}
+{"guid": 411, "text_a": "do having do , mind n't but me n't heartstrings a treat like fool i pulled my.", "text_b": "", "label": 0}
+{"guid": 412, "text_a": "tightening like force stomach ugly your feels the movie an 's accumulated knot still in.", "text_b": "", "label": 0}
+{"guid": 413, "text_a": "hard their is may least scene at be retain pressed one lunch that viewers disgusting to so.", "text_b": "", "label": 0}
+{"guid": 414, "text_a": ", romantic alienate many and not to has unlike in does it gender comedies either charm audience spare , the it.", "text_b": "", "label": 1}
+{"guid": 415, "text_a": "most of that acted to entertainingly an picture magnificently , sustain , its sprawling and gripping operatic enough 170-minute length shot 's.", "text_b": "", "label": 1}
+{"guid": 416, "text_a": "a giggle minute a.", "text_b": "", "label": 1}
+{"guid": 417, "text_a": "sharp friendship nature to humor insight and conflict , the class adolescent examine identity human uses , sexual roots of into and yearning.", "text_b": "", "label": 1}
+{"guid": 418, "text_a": "slightly juni keeps this chemistry and between with curse-free -- enough what amusing banter and , is kids entertained -- sequel good disappointing both keep carmen parents going the to blessedly continued.", "text_b": "", "label": 1}
+{"guid": 419, "text_a": "just too i bored to care 'm.", "text_b": "", "label": 0}
+{"guid": 420, "text_a": "irritating of cartoons you see any more will , year the this , one or.", "text_b": "", "label": 0}
+{"guid": 421, "text_a": "of of study between of them relationship one it not a hearst the -- but or character heck 's unique davies.", "text_b": "", "label": 1}
+{"guid": 422, "text_a": "quickly premise on cold of the and you does time it ; datedness war inanity -- reflect and , its moves adroitly to it -- give without the n't fuss ,.", "text_b": "", "label": 1}
+{"guid": 423, "text_a": "to comedy was sorry brunt the unable of full get i am i that the.", "text_b": "", "label": 0}
+{"guid": 424, "text_a": "good than more a of piece often work not.", "text_b": "", "label": 1}
+{"guid": 425, "text_a": "presented a they are far from novel about 're humor , while wry ideas techno-saturation the dark with.", "text_b": "", "label": 1}
+{"guid": 426, "text_a": "to of at chronicles ' big comedy his ' adams seinfeld after time the the , sitcom get stand-up legendary charles his shot attempts wrap 's comic wannabe film alongside return entertaining to.", "text_b": "", "label": 1}
+{"guid": 427, "text_a": "the report escapist first minority , a pulse , gripping intensifying twists order story best delivering , technology a exhilarating of thriller-noir the futuristic riveting around adventure of an", "text_b": "", "label": 1}
+{"guid": 428, "text_a": "comedy-drama , miraculously observed beautifully unsentimental.", "text_b": "", "label": 1}
+{"guid": 429, "text_a": "message the by and , not the pretentious thin style is plot visual hackneyed film helped characterizations 's nonexistent.", "text_b": "", "label": 0}
+{"guid": 430, "text_a": ", of a breezy while characters a offering well-detailed sitcom that good comedy has romantic exceptionally the punch.", "text_b": "", "label": 1}
+{"guid": 431, "text_a": "have been someone should else-", "text_b": "", "label": 0}
+{"guid": 432, "text_a": "conceit on postmodern and coughs own its sputters.", "text_b": "", "label": 0}
+{"guid": 433, "text_a": "was imax a , years , seems just the on it lion success but not eight bigger it ago king was when roaring released better.", "text_b": "", "label": 1}
+{"guid": 434, "text_a": "on almost its gore own gags.", "text_b": "", "label": 0}
+{"guid": 435, "text_a": "you like seen marvel none a 've.", "text_b": "", "label": 1}
+{"guid": 436, "text_a": ", banal mostly cliched inoffensive trite , ,.", "text_b": "", "label": 0}
+{"guid": 437, "text_a": "immersing is in , , the if revelatory endlessly even inventive scratching sensational djs itch , project world the you fiercely us competitive hip-hop makes of and.", "text_b": "", "label": 1}
+{"guid": 438, "text_a": "with sometimes out has infectious ways of movie ( in the passing can an the interest playground ) the a the culture of refuse and make illegal l.a. will kids a , adults skate/surf exuberance anyone beach imaginative the engage that scene and.", "text_b": "", "label": 1}
+{"guid": 439, "text_a": "in engaging 's lively imamura characterizations shimizu ... and cultural mix enjoyable and create yakusho.", "text_b": "", "label": 1}
+{"guid": 440, "text_a": "other and and next to but look have 're sits at wild , of room going and from the them just this there this any of to stuff lets you relation surreal like kind the none you is camera and the one brilliant its.", "text_b": "", "label": 1}
+{"guid": 441, "text_a": "they perfunctory or very with ideas there though little i executed and skill creepy , not , more apprehension than is like anything dread the are.", "text_b": "", "label": 0}
+{"guid": 442, "text_a": "notion startlingly the world goes unfunny thing comedy entirely in this the is buildings bombing in unexamined that funniest the.", "text_b": "", "label": 0}
+{"guid": 443, "text_a": "chases fight good american a car , blend and great asian , and european distinctive influences of , scenes.", "text_b": "", "label": 1}
+{"guid": 444, "text_a": "the road-trip jokes teenage seen this fart american , we the only minutes somewhat to of you same have most redeeming movie - is last the 20 before time read drek 've are the but", "text_b": "", "label": 0}
+{"guid": 445, "text_a": "even is , russian most in ark mesmerizing its tedious scenes.", "text_b": "", "label": 1}
+{"guid": 446, "text_a": "sticky-sweet of but and is with its the sainthood , nothing soap toward passage dogged naturalism a its characters hollywood inexorable windtalkers.", "text_b": "", "label": 0}
+{"guid": 447, "text_a": "about killing 94 of your a clockstoppers fantasies , minutes wildest generally happily , fulfill will different traveler being time while kind.", "text_b": "", "label": 1}
+{"guid": 448, "text_a": "it glass to japanese to far except seems the something akin that seriously itself looking , more a alice take through.", "text_b": "", "label": 1}
+{"guid": 449, "text_a": "on come oh.", "text_b": "", "label": 0}
+{"guid": 450, "text_a": "allows solaris thought-provoking film sci-fi love , that of and the mystery moody the a story , seeds is to multi-dimensional imagination a , haunting germinate.", "text_b": "", "label": 1}
+{"guid": 451, "text_a": "narrative are improved not effects 's author film much only the but of flow and , as j.k. the daniel the , this and magic assertive emotionally rowling around special more conjures books radcliffe time harry.", "text_b": "", "label": 1}
+{"guid": 452, "text_a": "clear go wanted their skills , lack 's story clear us the the even to destination undetermined where they to n't and it sure that more get were this they to filmmakers.", "text_b": "", "label": 0}
+{"guid": 453, "text_a": "and t why things say , its important , to in life ) droll very has delicate beguiling is some and little touching fable ( about belgian much own what his film.", "text_b": "", "label": 1}
+{"guid": 454, "text_a": "unsure , hand even those when stops yammering feels narrator occasions on miller often rare the 's.", "text_b": "", "label": 0}
+{"guid": 455, "text_a": "an of accurate characters observation lies lively milieu convincing talent ( 's ) a in creates distinctive for her , , in she the chaiken and evocative dialogue.", "text_b": "", "label": 1}
+{"guid": 456, "text_a": "myopic view sticky and sweet the mississippi sentimentality undermine wwii-era this delta of in clumsy rosily plotting adaptation life a ,.", "text_b": "", "label": 0}
+{"guid": 457, "text_a": "deeply the inspires as and ` continuing . of picture it satisfying a best awareness monumental shows movies'", "text_b": "", "label": 1}
+{"guid": 458, "text_a": "more great performance dangerously daniel quills from seductive `` '' period results a unsettlingly , '' the the covers auteuil with realistic same 's featuring kaufmann `` sade as.", "text_b": "", "label": 1}
+{"guid": 459, "text_a": "a of the tragic one , the who in through and is beautiful increasing luckiest in gives eyes his of bones of spite alive city you viewed that loss , life steady knows decrepitude the pulse character he in men a of.", "text_b": "", "label": 1}
+{"guid": 460, "text_a": "for esther if truth a search relate dramatically the are is actor others of peace by for then inner onstage the who you 's quest , story lives to compelling can an depicting.", "text_b": "", "label": 1}
+{"guid": 461, "text_a": "to he ingredients stir that too the one it is heavy uses bad 's hand his helping a also.", "text_b": "", "label": 0}
+{"guid": 462, "text_a": ", yes dull.", "text_b": "", "label": 0}
+{"guid": 463, "text_a": "but and some of end is miserably , far the fail in pumpkin funny it most work is offensive their jokes , than more.", "text_b": "", "label": 0}
+{"guid": 464, "text_a": "diluted 's least subject by the is emotionally story documentary on interesting which intriguing focusing.", "text_b": "", "label": 1}
+{"guid": 465, "text_a": "turkey-on-rolls close-ups but new easy filmmakers stubbly and shaky spots , draw do lead liver noses bobbed chins , red nowhere of , the chuckles.", "text_b": "", "label": 0}
+{"guid": 466, "text_a": "much , mike things neatly the ties too but by lot rich by , the perhaps end a screenplay inspirational together , of , covers ground.", "text_b": "", "label": 1}
+{"guid": 467, "text_a": "in for seem viewpoint acid as with filmmaker might sordid real lives remains teasing and settings ramsay poetry ratcatcher a gift a chilly out , drab and and that of otherwise , an.", "text_b": "", "label": 1}
+{"guid": 468, "text_a": "figure from and creatively interesting backstory are constructed often the very characters to.", "text_b": "", "label": 1}
+{"guid": 469, "text_a": "so it unremittingly awful dog that canines constitutes to a labeling cruelty probably.", "text_b": "", "label": 0}
+{"guid": 470, "text_a": "visual is reggio as continual barrage well 's absorbing as thought-provoking.", "text_b": "", "label": 1}
+{"guid": 471, "text_a": "and shallowly adults simplistic , plotted the less characterized were , wish obvious movie will clumsily.", "text_b": "", "label": 0}
+{"guid": 472, "text_a": "report how a comes the the of of share justice emerge airtime and death on alongside with will grind the view to farm report clearer you gears.", "text_b": "", "label": 1}
+{"guid": 473, "text_a": "terrific mood of , the pulls heaven and by far haynes buoyed three thanks off from ' stylistic juggling this control actually act film absolute 's , performances to.", "text_b": "", "label": 1}
+{"guid": 474, "text_a": "problem that lacks this the with is film it focus.", "text_b": "", "label": 0}
+{"guid": 475, "text_a": "successful belongs , to day-lewis performance highly scorsese daniel unusual in film as as belongs memorable it disturbing it and much , to big martin brassy a , ; 's a.", "text_b": "", "label": 1}
+{"guid": 476, "text_a": "mysteries away two that hardly other involves outcome gives featuring one matters badly -- it such the drawn and characters its.", "text_b": "", "label": 0}
+{"guid": 477, "text_a": ") for be film ( with tv style different murder that seems screen mystery altogether a few moments to made including big a a one.", "text_b": "", "label": 0}
+{"guid": 478, "text_a": "covers patient/doctor that usual ground pic the by-the-numbers all a", "text_b": "", "label": 0}
+{"guid": 479, "text_a": "it stunning a considerable force of 's lyrical truth and work.", "text_b": "", "label": 1}
+{"guid": 480, "text_a": "is little in n't he undisputed mr. while takes a , a 's is it tidy , a that higher while been movie high hill exactly than gripping.", "text_b": "", "label": 1}
+{"guid": 481, "text_a": "slight funny but perilously.", "text_b": "", "label": 1}
+{"guid": 482, "text_a": "be voice successor and as love a to nothing than best that of the directors the considered cinema-and-self less reflection artists to of deserves european cq suggests 's possible a new.", "text_b": "", "label": 1}
+{"guid": 483, "text_a": "trial more than kissinger great any to contemporary 'd ) sure a courtroom he think of fun you watch guilty make , most statesmen do ( 's if criminal activity n't even.", "text_b": "", "label": 1}
+{"guid": 484, "text_a": "its dazzling themes the its for a is , disturbing piano extraordinary teacher in , film that defies categorisation complexity.", "text_b": "", "label": 1}
+{"guid": 485, "text_a": "murderous in 1873 in rage a weaves murderous that literate wonderfully 2002 event presentation with a.", "text_b": "", "label": 1}
+{"guid": 486, "text_a": ") it not someone good as the the actor is hoffman work as gifted n't make very even script can ( ;.", "text_b": "", "label": 0}
+{"guid": 487, "text_a": ") idea is of in , heroism every latrine e flushed ventually the ( this film down.", "text_b": "", "label": 0}
+{"guid": 488, "text_a": "truly heart a the scope , even , that if four-legged big cartoon a that 's a and in story heartfelt belongs -- 's herbivore and to cinematic compelling.", "text_b": "", "label": 1}
+{"guid": 489, "text_a": "dumb , scary 's just 's it but not it importantly , more.", "text_b": "", "label": 0}
+{"guid": 490, "text_a": "ultimately a endeavor is detox pointless.", "text_b": "", "label": 0}
+{"guid": 491, "text_a": "hokum as angels a sudsy to hopeless redgrave , reveals efforts can 's not noblest from itself of ms. of supernatural it a be redeem sentimentality tub even rumor.", "text_b": "", "label": 0}
+{"guid": 492, "text_a": "an crafted and exquisitely acted tale.", "text_b": "", "label": 1}
+{"guid": 493, "text_a": "bad this so is.", "text_b": "", "label": 0}
+{"guid": 494, "text_a": "not one taxing of 's the , but without stuff drop good 's it enough not every nearly get to and carvey patience for voices talent showcases to.", "text_b": "", "label": 0}
+{"guid": 495, "text_a": "/ better the speeds warp levels light several / pitiful and years levels dilithium crystals than of insurrection.", "text_b": "", "label": 1}
+{"guid": 496, "text_a": "dreams following it matter your your 's what parents think , about no.", "text_b": "", "label": 1}
+{"guid": 497, "text_a": "is film effect like than overall hollywood 's recruitment sellouts children a movie future a for the less.", "text_b": "", "label": 0}
+{"guid": 498, "text_a": "friel the and , 's performances power lies in williams 's by its complexity exceptional film anchored.", "text_b": "", "label": 1}
+{"guid": 499, "text_a": "-- at wham-bam effect unlike the is development character empathy speedy most -- more importantly the for of , heart hollywood offerings italian , beginners character and of.", "text_b": "", "label": 1}
+{"guid": 500, "text_a": "its for too sequel 's a that big much britches.", "text_b": "", "label": 0}
+{"guid": 501, "text_a": "but brains its puts right at its in harrison in no , the place are particular heart flowers all place 's.", "text_b": "", "label": 1}
+{"guid": 502, "text_a": "convoluted , stiff-upper-lip melodrama dull jargon laboriousness , deadeningly in mired nonsensical and.", "text_b": "", "label": 0}
+{"guid": 503, "text_a": "nothing dragonfly but , flailing away tension costner atmosphere no no -- , has.", "text_b": "", "label": 0}
+{"guid": 504, "text_a": "funny , accessible is the film and powerful.", "text_b": "", "label": 1}
+{"guid": 505, "text_a": "a big to and we movies go part the of why that 's.", "text_b": "", "label": 1}
+{"guid": 506, "text_a": ", nonstop action and music entertainment , -- romance crackerjack suspense.", "text_b": "", "label": 1}
+{"guid": 507, "text_a": "minor figures a gritty urban ... surrounding ) bobby mosaic the form (.", "text_b": "", "label": 1}
+{"guid": 508, "text_a": "compelling but bumpy a us a of the love food story satisfying about on heart poignant journey relationships takes and of ,.", "text_b": "", "label": 1}
+{"guid": 509, "text_a": "a into successfully soda timeframe that the you godzilla that avoid that selling movie novel sized a crushes mandates best a.", "text_b": "", "label": 1}
+{"guid": 510, "text_a": "than far journey performances empathy and sustain the more the lead is interesting final but , vivid the interest destination.", "text_b": "", "label": 1}
+{"guid": 511, "text_a": "hope weaver this reactions lapaglia class with to to a master make works sensitive and grief 's convey 's ability two-actor.", "text_b": "", "label": 1}
+{"guid": 512, "text_a": "wallowing villeneuve windows too much time angst of spends of ) gazing bibi a are 's in generic out there ( her shots lot.", "text_b": "", "label": 0}
+{"guid": 513, "text_a": "of never but found and of , the really care 's fuhrman he deftly or captures grace-in-rebellion by characters menace escapism his joy up growing embraces destructive wonder the the.", "text_b": "", "label": 0}
+{"guid": 514, "text_a": "make here horror a egotistical is endeavor raw dario fearlessness director an producer from performance it of daughter utter this magnetic ) argento and the her , but strangely (.", "text_b": "", "label": 1}
+{"guid": 515, "text_a": "sci-fi this settle , a looking for imposter cinematic if do for n't thrilling ride.", "text_b": "", "label": 0}
+{"guid": 516, "text_a": "and spread overlong fashion a w plays magazine volatile like.", "text_b": "", "label": 0}
+{"guid": 517, "text_a": "questions about the from those reconfigured asks disturbing epics far expect surface things we not this military beneath , tale.", "text_b": "", "label": 1}
+{"guid": 518, "text_a": "packed telling with 's is gerbosi script economically michael scenes.", "text_b": "", "label": 1}
+{"guid": 519, "text_a": "and loss the grief compelling adapting moretti process of to 's anatomy of difficult.", "text_b": "", "label": 0}
+{"guid": 520, "text_a": "that so movie than their the first factor the appeal time them refreshingly probably drag grant to more 'll hugh is for to guys this he incisive for girlfriends to who.", "text_b": "", "label": 1}
+{"guid": 521, "text_a": "freshened a by comes like , of abc dunce afterschool screenwriting rejected a the special 101 off up class.", "text_b": "", "label": 0}
+{"guid": 522, "text_a": "feels it has derivative moments more swaggering , done of but and often to , generic camaraderie its death just.", "text_b": "", "label": 0}
+{"guid": 523, "text_a": "and a romantic manners mores sharp comedy a for eye enriched by.", "text_b": "", "label": 1}
+{"guid": 524, "text_a": "a to life more of their school technique docu-makers visible the work rural from being refreshing of used a method departure the document fly-on-the-wall is part now prevalent french the.", "text_b": "", "label": 1}
+{"guid": 525, "text_a": "more it than make rare has charm memorable birds enough to.", "text_b": "", "label": 1}
+{"guid": 526, "text_a": "it manages of dead be bit a to that 's disappointing instead it brilliant only decent.", "text_b": "", "label": 0}
+{"guid": 527, "text_a": "oatmeal all it excitement eating the has of.", "text_b": "", "label": 0}
+{"guid": 528, "text_a": ", impossible and to ; away startles haunts it it , look is horrifies fascinates.", "text_b": "", "label": 1}
+{"guid": 529, "text_a": "close for the endure terminally one , for hyper to hours inarticulate dysfunctional price forced mostly three to two the , families depressed of audience is.", "text_b": "", "label": 0}
+{"guid": 530, "text_a": "funny/gritty a woman fable of the fate hands one and at unseen the forces acted of humanizing of superbly the of.", "text_b": "", "label": 1}
+{"guid": 531, "text_a": "whole novel here , of vampire affair so before defeats a much the rock the only with t them do anne anyone 's ) roll rice can overplotted ( florid , built-in 'n' silliness.", "text_b": "", "label": 0}
+{"guid": 532, "text_a": "particular and in anyone houses an , theatrical with 's phenomenon unfamiliar hell eye-opener it of practices in for pentacostal general.", "text_b": "", "label": 1}
+{"guid": 533, "text_a": "day '' its to is `` modern heart its parable a see , sleeve that family all for wears bright on martha light mostly.", "text_b": "", "label": 1}
+{"guid": 534, "text_a": "minute film just loved of i every this.", "text_b": "", "label": 1}
+{"guid": 535, "text_a": "quiet , pure film a , elliptical", "text_b": "", "label": 1}
+{"guid": 536, "text_a": "and fryers bard that deep alternate , disappointment involve ones those a hamburgers of for versions love the who particularly.", "text_b": "", "label": 0}
+{"guid": 537, "text_a": "potent simple with a drama past gritty , a dealing and its a for ensemble still metaphor well-acted but encompasses fascist country that.", "text_b": "", "label": 1}
+{"guid": 538, "text_a": "we , mediocre so despite , 's no duo dynamic n't on that ca satisfaction just get marquee the it the.", "text_b": "", "label": 0}
+{"guid": 539, "text_a": "see not film this do.", "text_b": "", "label": 0}
+{"guid": 540, "text_a": "to binoche it interesting makes out find trying.", "text_b": "", "label": 1}
+{"guid": 541, "text_a": "epic compelling of most wiseman the years recent.", "text_b": "", "label": 1}
+{"guid": 542, "text_a": "'s pulse emotional there no to solaris.", "text_b": "", "label": 0}
+{"guid": 543, "text_a": "cutout complete misses from there for 10 tara each many skills to are , at lifelike least the chuckle reid comparable cardboard a acting , amazingly are coming whose.", "text_b": "", "label": 0}
+{"guid": 544, "text_a": "focus raw , anything and 's piano intensity huppert although but has a about fun the teacher it exhilaration is.", "text_b": "", "label": 0}
+{"guid": 545, "text_a": "a clear , opening scenes about it formulaic the benjamins is all totally that from 's movie the.", "text_b": "", "label": 0}
+{"guid": 546, "text_a": "to on movie the horror that heels approach commended although , similarly comes straight-ahead of to creepiness humorless morose and is a , flawed the its be for ring.", "text_b": "", "label": 1}
+{"guid": 547, "text_a": "it real on just the based around is is there incomplete feels starts if that truth , and corner the about the yet story something film as.", "text_b": "", "label": 0}
+{"guid": 548, "text_a": "of deal , big 've not a but attending cannes dreamed i it , 's seeing this film that always after.", "text_b": "", "label": 0}
+{"guid": 549, "text_a": "coarse gross-out and a stupid.", "text_b": "", "label": 0}
+{"guid": 550, "text_a": "some acting ... special and here effects awful for lame scary except nothing.", "text_b": "", "label": 0}
+{"guid": 551, "text_a": "waking screenplay reno a anything in think in me markers inspired as than in up more nothing inhabitants ever to its of.", "text_b": "", "label": 0}
+{"guid": 552, "text_a": "its horror in mucking glitches sleep studio 's fans their correct could casual another yet with up storyline franchise here.", "text_b": "", "label": 0}
+{"guid": 553, "text_a": "ca heart but you and ! extend n't so of yell arms and pure ` safe help your , unassuming warmly'", "text_b": "", "label": 1}
+{"guid": 554, "text_a": "women like treats it idiots.", "text_b": "", "label": 0}
+{"guid": 555, "text_a": "stomping as them in holes a clothes be through well a large marching ... playing band so plot on , untuned song clown football obvious fight and college might instruments.", "text_b": "", "label": 0}
+{"guid": 556, "text_a": "and too it convoluted it 's and a too long muddle but ends in.", "text_b": "", "label": 0}
+{"guid": 557, "text_a": "of the exploration year one psychological its five with the the to by happiness of contemporary ... individuals of masterpiece films best obstacles a faced.", "text_b": "", "label": 1}
+{"guid": 558, "text_a": "readily , deutchland does for make mind world not considering a destination mostly when the come best german although martha cooking to could popular hungry tourists cuisine 's.", "text_b": "", "label": 1}
+{"guid": 559, "text_a": "the black second was men , in the money is small if change first.", "text_b": "", "label": 0}
+{"guid": 560, "text_a": "by see junk do pure impressive be you cast fooled the eye is - n't list.", "text_b": "", "label": 0}
+{"guid": 561, "text_a": "character the secrets estrogen the are , movies one and development , those ya of lot divine of that a sisterhood except like ya acting `` writing '' better another overdose.", "text_b": "", "label": 1}
+{"guid": 562, "text_a": "a n't give about character us scorsese damn worth a giving does.", "text_b": "", "label": 0}
+{"guid": 563, "text_a": ", noyce tale a epic rabbit-proof with tailored lean , an movie has into fence economical.", "text_b": "", "label": 1}
+{"guid": 564, "text_a": "add audience to the up than convolutions jerking 's the chain nothing more ultimately plot.", "text_b": "", "label": 0}
+{"guid": 565, "text_a": "human and kindness with moments the moral stiffness that wonderfully fresh hopefulness some there smooth are.", "text_b": "", "label": 1}
+{"guid": 566, "text_a": "tragic more with of little an fill-in the-blanks innocuous past - play than game does a.", "text_b": "", "label": 0}
+{"guid": 567, "text_a": "gayton ensemble cast 's screenwriter caruso debuter crack a , life directs tony to narcotics d.j. bringing noir feature.", "text_b": "", "label": 1}
+{"guid": 568, "text_a": "makes to stop-go motion the over rumbles a story fisticuffs nothing with new like sort they 28k the , that old of does 're gang it slow look streamed being modem this show in except.", "text_b": "", "label": 0}
+{"guid": 569, "text_a": "of energetic it who one surprises sees original those , that an almost pleases everyone.", "text_b": "", "label": 1}
+{"guid": 570, "text_a": "by precise and , barbara world illness by upside whose then is is passion of portrait someone turned 's seldahl moving down a and first.", "text_b": "", "label": 1}
+{"guid": 571, "text_a": "that entertainment a of released but picture kind wo long n't 's 's much it when not remembered make be it , afterwards motion the and , of splash will passable.", "text_b": "", "label": 0}
+{"guid": 572, "text_a": "pacing off the get-go and tone 's from the almost film are.", "text_b": "", "label": 0}
+{"guid": 573, "text_a": "poignant lovely and.", "text_b": "", "label": 1}
+{"guid": 574, "text_a": "a , that broad opera pretty in right its 's estrogen own melodramatic toxic.", "text_b": "", "label": 0}
+{"guid": 575, "text_a": "up -- ) falls but to the story screenplay short big at on director lovely telling he o'fallon screen a -- ( contributed put also the his manages pictures to some skill ,.", "text_b": "", "label": 0}
+{"guid": 576, "text_a": "genuine and a fewer romance charm laughs even offers little ... sad devoid of of very largely , a sitcom movie.", "text_b": "", "label": 0}
+{"guid": 577, "text_a": "and 60 film the packed information impressions only is minutes with though , long.", "text_b": "", "label": 1}
+{"guid": 578, "text_a": "not enough campy just", "text_b": "", "label": 0}
+{"guid": 579, "text_a": "becomes backstabbing seduction every about where and and , sex currency , is are dance betrayals celebrated.", "text_b": "", "label": 0}
+{"guid": 580, "text_a": "exactly to to ship horror it that manages ghost certain ' do as of a takes kind than qualify movie ` somehow expected worse but ,.", "text_b": "", "label": 0}
+{"guid": 581, "text_a": "on can dull slasher bad that enjoyed flick , enjoys one not it even because it is , be level primarily a the.", "text_b": "", "label": 0}
+{"guid": 582, "text_a": "somehow and pose adults charges to actual managed despite feature the has small and contrary , and purports this gets the on to evidence amuse clunker an hyped all children to as that ostensible tv movie full kind admission ,.", "text_b": "", "label": 0}
+{"guid": 583, "text_a": "it filler 's just.", "text_b": "", "label": 0}
+{"guid": 584, "text_a": "that line extended girl a hapless makes our comedy cheap the the mason-dixon facilitator hamfisted romantic shot across an of.", "text_b": "", "label": 0}
+{"guid": 585, "text_a": "by undercut whose , one promising pictures is premise , execution those rather of amateurish precious if.", "text_b": "", "label": 0}
+{"guid": 586, "text_a": "humor the as story not the , sharp , in the n't imaginative nor the original is as as innovative effects as.", "text_b": "", "label": 0}
+{"guid": 587, "text_a": "to scant boll director provide actors uwe the crude this reason care '70s in throwback and.", "text_b": "", "label": 0}
+{"guid": 588, "text_a": "n't have we story seen 's story screen before americans on it human we know and ... the , big a as , , a should and that beings.", "text_b": "", "label": 1}
+{"guid": 589, "text_a": "miss ' your difficult runs you films ca ` taste n't it if to absolutely.", "text_b": "", "label": 1}
+{"guid": 590, "text_a": "and blur dead of movie is distracting and something padding of , itself a an work stretching ends impostor in its this material camera.", "text_b": "", "label": 0}
+{"guid": 591, "text_a": "watching headache a meaningless got downer this i.", "text_b": "", "label": 0}
+{"guid": 592, "text_a": "plot together barely straight keep characterization the to stunts string 's has not the script enough zaidan quite and faces enough to.", "text_b": "", "label": 0}
+{"guid": 593, "text_a": "terrific that star of mesmerizing campbell bewilderingly nothing short is gives a and scott underrated the performance.", "text_b": "", "label": 1}
+{"guid": 594, "text_a": "develops , a realistically breezy into spontaneity drawn character moving , a and is building subtly the , and and characterizations significant that study slowly wise film sporting both.", "text_b": "", "label": 1}
+{"guid": 595, "text_a": "really ca fact we and stunts all thrashing tony amped-up that the that , rap-metal been 've hawk-style , here , done n't disguise the.", "text_b": "", "label": 0}
+{"guid": 596, "text_a": "portrait sitcom how is his the director but apply sex-as-war textural of knows , strictly to gloss.", "text_b": "", "label": 0}
+{"guid": 597, "text_a": "ultimately entirely to creativity but bore , visually a planet , the treasure rather handsome-looking stunning hide and would reimagine true completely have been it.", "text_b": "", "label": 0}
+{"guid": 598, "text_a": "hollow a '' flat , exercise scares cyber-horror is dull , acting in flick bad grim and nonsensical ``.", "text_b": "", "label": 0}
+{"guid": 599, "text_a": "fat waste time of big.", "text_b": "", "label": 0}
+{"guid": 600, "text_a": "january , thriller ship ridiculous speaking suspense it avoid this shoddy jump like professionally to tempting schlock 's in to.", "text_b": "", "label": 0}
+{"guid": 601, "text_a": "downer a real fancy?", "text_b": "", "label": 0}
+{"guid": 602, "text_a": "the are instead shows due they , he respect them.", "text_b": "", "label": 1}
+{"guid": 603, "text_a": "this little first-time a effective writer-director serry film remarkable for , with gift storytelling shows moving.", "text_b": "", "label": 1}
+{"guid": 604, "text_a": "prowess hard technical truths over he vera ends film smoothes he them up his short 's selling uncovers ; as even.", "text_b": "", "label": 0}
+{"guid": 605, "text_a": "a westerners are land unfamiliar human with most a face on puts.", "text_b": "", "label": 1}
+{"guid": 606, "text_a": "for unpleasant viewing experience makes a pretty.", "text_b": "", "label": 0}
+{"guid": 607, "text_a": "ahhhh sweet revenge is ...!", "text_b": "", "label": 1}
+{"guid": 608, "text_a": "a loved highbrow cool of ice worthy apply at follow-up guardians not who have but found self-appointed culture , need as those last.", "text_b": "", "label": 1}
+{"guid": 609, "text_a": "frighteningly than but only nine queens is a capable of also head political situation a the a debut not a snapshot , piece on coming verge dangerous to of genre and.", "text_b": "", "label": 1}
+{"guid": 610, "text_a": "this n't away smell turkey you like from could rotting miles.", "text_b": "", "label": 0}
+{"guid": 611, "text_a": "level higher performances to take movie the the a.", "text_b": "", "label": 1}
+{"guid": 612, "text_a": "n't insufferable character ... so she own ca the enamored is creation davis see of that her how is.", "text_b": "", "label": 0}
+{"guid": 613, "text_a": "with sport of familiarity with could story the and the ... regardless of touch a beauty it their baseball melds that anyone takes", "text_b": "", "label": 1}
+{"guid": 614, "text_a": "hell heaven just me odds all fine against in creeped it , out and.", "text_b": "", "label": 1}
+{"guid": 615, "text_a": "small-screen nervy its makes groundbreaking spy little of as with the in i franchise the bid progenitor entry of the big-screen its originality latest game , tv-to-movie.", "text_b": "", "label": 0}
+{"guid": 616, "text_a": "but 's it really one and idea in visual panache with there good presents unforgettable this the with runs only it movie , an director.", "text_b": "", "label": 1}
+{"guid": 617, "text_a": "back - memories voices dubbing and the brings cheesy godzilla flicks ( - old meyer the of regis philbin ) , featuring surreal so-inept it 's of close glenn breckin.", "text_b": "", "label": 0}
+{"guid": 618, "text_a": "is another non-stop just overtones or winter morality techno kieslowski , maelstr\u00f6m sleepers a existential of the tale without.", "text_b": "", "label": 0}
+{"guid": 619, "text_a": "unclassifiably awful in - self study an and audience-abuse.", "text_b": "", "label": 0}
+{"guid": 620, "text_a": "their party to host moviegoing birth the 's dinner to 's a of the and watch going video and of baby being equivalent hostess home forced.", "text_b": "", "label": 0}
+{"guid": 621, "text_a": "rather aim does kinnear sympathy , for skill striking our delivers n't performance depth but of and a.", "text_b": "", "label": 1}
+{"guid": 622, "text_a": "the films in and few who stands as fields perfectly boys the dreams capture baseball men on well sit the little grown so hopes as of.", "text_b": "", "label": 1}
+{"guid": 623, "text_a": "to all be needs 's that is and it amusing , it.", "text_b": "", "label": 1}
+{"guid": 624, "text_a": "unflaggingly creative challenging , and intermittently engrossing.", "text_b": "", "label": 1}
+{"guid": 625, "text_a": "through and part for witty solid dialogue most on the performances some stevens glides.", "text_b": "", "label": 1}
+{"guid": 626, "text_a": "documentary cool as get flick as a this and can about is crowd-pleasing.", "text_b": "", "label": 1}
+{"guid": 627, "text_a": "not nervous are entertaining breakdowns.", "text_b": "", "label": 0}
+{"guid": 628, "text_a": "'s the of charm 's , masala is has and , of mehta cultures effort whimsy intoxicating the film and tons genres the mixture in writer-director.", "text_b": "", "label": 1}
+{"guid": 629, "text_a": "excessive , characters violence , profane packed and comic-strip with cartoonish.", "text_b": "", "label": 0}
+{"guid": 630, "text_a": "taut does psychological time its two-hour that of thriller moment running a a n't waste.", "text_b": "", "label": 1}
+{"guid": 631, "text_a": "effect full energetic burns to the cast really never harnesses.", "text_b": "", "label": 0}
+{"guid": 632, "text_a": "and sense just embarrassment a vague of shame.", "text_b": "", "label": 0}
+{"guid": 633, "text_a": "film almost , the treat , unsurpassed is still a visual as.", "text_b": "", "label": 1}
+{"guid": 634, "text_a": "corruption his suggest the using commands frailty of screen of to a , life and ruthlessness ravages the harris.", "text_b": "", "label": 1}
+{"guid": 635, "text_a": "traps or rat emptying.", "text_b": "", "label": 0}
+{"guid": 636, "text_a": "in much a terms the friends offers loyalty lot and of of nature mull and love over ... enjoy to to , staying.", "text_b": "", "label": 1}
+{"guid": 637, "text_a": "needs piquant its more meat on the bones story dramatic.", "text_b": "", "label": 0}
+{"guid": 638, "text_a": "it 's comedy is so french utterly wife an american charming and actress its hollywood own an virtually style remake sensibility is feels my in that.", "text_b": "", "label": 1}
+{"guid": 639, "text_a": "a of popcorn movie indifferently implausible programmer.", "text_b": "", "label": 0}
+{"guid": 640, "text_a": "film our make us , power of and reminder us of to movie to a the examine important an values move.", "text_b": "", "label": 1}
+{"guid": 641, "text_a": "of not spring lies mysterious the the of its magic richness the in in but performances film the.", "text_b": "", "label": 1}
+{"guid": 642, "text_a": "against , and railing dumb rather violence re-do everything ironically that is in becomes was that its , it the exploitative original this clumsy so so.", "text_b": "", "label": 0}
+{"guid": 643, "text_a": "employs , short the it and dead-center are placed carefully jabs.", "text_b": "", "label": 1}
+{"guid": 644, "text_a": "the envious the that comedy make award-winning will world get of will , with kick the coen quirks might rest enjoy locals brothers spotting a cleveland of a out fast-paced while sites.", "text_b": "", "label": 1}
+{"guid": 645, "text_a": ", n't damn words have , never , i dear do ' been my appropriate , a ` more the give frankly.", "text_b": "", "label": 0}
+{"guid": 646, "text_a": "longer the in , it goes the worse the actually it but , movie few good pretty gets the 's minutes first.", "text_b": "", "label": 0}
+{"guid": 647, "text_a": "of falls much humor flat the too.", "text_b": "", "label": 0}
+{"guid": 648, "text_a": "the cinema smack-dab cool axis thought-provoking of middle dubya , is , 's that of proof the in epicenter beautiful of foreign evil further.", "text_b": "", "label": 1}
+{"guid": 649, "text_a": "film big one 's ; evaporation to point section ideas urgency few and seems that chase to of the no the are no goal central stretched have is whole the.", "text_b": "", "label": 0}
+{"guid": 650, "text_a": "little , too long too too slow and happens.", "text_b": "", "label": 0}
+{"guid": 651, "text_a": "due of into director film 's the and the inconsequentiality off weaknesses some , to casting trails brother script the.", "text_b": "", "label": 0}
+{"guid": 652, "text_a": "very bad.", "text_b": "", "label": 0}
+{"guid": 653, "text_a": "classic , peter of 's unessential adaptation j.m. a to sequel the lackluster pan barrie disney.", "text_b": "", "label": 0}
+{"guid": 654, "text_a": "pastiche left science-fiction inspirations in would be you originality if lacking so away there a little that its stripped precious.", "text_b": "", "label": 0}
+{"guid": 655, "text_a": ", surprisingly birthday an moments ride some violent girl amusing is with joy.", "text_b": "", "label": 1}
+{"guid": 656, "text_a": "such facile , , so cute so technique movie much little ideas.", "text_b": "", "label": 1}
+{"guid": 657, "text_a": "the scenery slasher lame-old with , different just same-old , nonsense expect.", "text_b": "", "label": 0}
+{"guid": 658, "text_a": "follow-up a witty , smart.", "text_b": "", "label": 1}
+{"guid": 659, "text_a": "has material a chamber drama somber a into promising turned taken comedy it and instead chabrol black for.", "text_b": "", "label": 0}
+{"guid": 660, "text_a": "the a wow of well doubt no mike does , movies and is now who for lil kids he , add for to winner things winner can like a bow list.", "text_b": "", "label": 1}
+{"guid": 661, "text_a": "film with lighting movie video the another , as like that often 's film photographed 's a it indie written off naturalism bad.", "text_b": "", "label": 0}
+{"guid": 662, "text_a": "not enough justify there here to two 's almost the hours.", "text_b": "", "label": 0}
+{"guid": 663, "text_a": "american as grip who are unnerving cuts rap an it in in society even the will interested heart way viewers , to it n't of.", "text_b": "", "label": 1}
+{"guid": 664, "text_a": "beautifully to a point to more film fine is mounted the , of the regard joan madness to subtly but the , , with issues are managing question , presented the line walk 's.", "text_b": "", "label": 1}
+{"guid": 665, "text_a": "water you 've in and a your not ice you scenes moved got , couple tears 're to nearly if by veins of.", "text_b": "", "label": 1}
+{"guid": 666, "text_a": "lane gere fine in oliver put martinez does performances actor and as diane richard french.", "text_b": "", "label": 1}
+{"guid": 667, "text_a": ", but film glum very good.", "text_b": "", "label": 1}
+{"guid": 668, "text_a": "through enough shamu whale holes killer there for the plot are swim big to.", "text_b": "", "label": 0}
+{"guid": 669, "text_a": "same completely choirs two accomplishment the pretty time is a amazing at preaches to which , different.", "text_b": "", "label": 1}
+{"guid": 670, "text_a": "give to trick ooky-spookies implements us verbinski hack-artist the every.", "text_b": "", "label": 0}
+{"guid": 671, "text_a": "exhilarated even do endure when comes by the 's away opera to -- a hours you and n't form pleasure have intermissions novice -- fly two to a.", "text_b": "", "label": 1}
+{"guid": 672, "text_a": "experience , it might have a in this quite memorable that been the watchable 's all is not movie.", "text_b": "", "label": 0}
+{"guid": 673, "text_a": "while drops dizzying , out on the of focusing situation , the much that quickly snowballs you of into what than more a , why volatile pressure-cooker a control.", "text_b": "", "label": 1}
+{"guid": 674, "text_a": "tackles that conjured any multilayered atom fascinating issues up egoyan of a has number work", "text_b": "", "label": 1}
+{"guid": 675, "text_a": "of piece slick cross-promotion.", "text_b": "", "label": 1}
+{"guid": 676, "text_a": "unendurable depressingly and remains poetry prosaic to cinematic well-nigh dull though the , become picture it strains ....", "text_b": "", "label": 0}
+{"guid": 677, "text_a": "is the unconventional storyteller depressing majidi beauty an , places in most capable finding of.", "text_b": "", "label": 1}
+{"guid": 678, "text_a": ", all 's , hindsight witty is and too it just that movie n't is n't in inventive : the hilarious it and , even dumb.", "text_b": "", "label": 1}
+{"guid": 679, "text_a": "marvels deftly who and even change can are filmmakers moods treasures.", "text_b": "", "label": 1}
+{"guid": 680, "text_a": "film blend even strafings the vitality actors of the intensity high , the as of keeps the together the.", "text_b": "", "label": 1}
+{"guid": 681, "text_a": "( shapeless blob a ) of entertainment desperate.", "text_b": "", "label": 0}
+{"guid": 682, "text_a": "movie carnahan in end of its the despite director efforts the on , joe best shaky foundation collapses the.", "text_b": "", "label": 0}
+{"guid": 683, "text_a": "drama tale courage auschwitz tell -- to tries and a the that at true harrowing complicity is of unspeakable -- of.", "text_b": "", "label": 1}
+{"guid": 684, "text_a": "a , study subtle maneuvers of plot in itself offering gray in up shades...", "text_b": "", "label": 1}
+{"guid": 685, "text_a": "recent clones memory minutes the of last no has in ' fantasy-adventure 45 screen showmanship.", "text_b": "", "label": 1}
+{"guid": 686, "text_a": "and teary-eyed , romantic emotional original more ultimately satisfying more than more the.", "text_b": "", "label": 1}
+{"guid": 687, "text_a": "in sham the on its stars calculated to , a popularity this shameless of cash is.", "text_b": "", "label": 0}
+{"guid": 688, "text_a": "film if ever what idea actually of , may implies put you the strangers title the the notion of entertained you this sex off doing forever with 've shows what.", "text_b": "", "label": 0}
+{"guid": 689, "text_a": "the title come find wood year appears longing we for the benigni character , as of 50 to old back block ourselves the once.", "text_b": "", "label": 0}
+{"guid": 690, "text_a": "dumbfoundingly , mind-numbingly stultifyingly , bad.", "text_b": "", "label": 0}
+{"guid": 691, "text_a": "( creepy hideo japanese the letters fear-reducing director on from takes who film actually , an applies effectively ) fear-inducing curse nakata and superstitious , chain not it.", "text_b": "", "label": 1}
+{"guid": 692, "text_a": "effects voluptuous cheap its not through of and is which a succession sustains dreamlike of least glide cheesy the rebecca romijn-stamos coincidences ,.", "text_b": "", "label": 0}
+{"guid": 693, "text_a": "and a of last clumsy with bad scene , very feeling unnecessary because me ' left ` an swimfan.", "text_b": "", "label": 0}
+{"guid": 694, "text_a": "the to import no inform movie social aspirations version.", "text_b": "", "label": 0}
+{"guid": 695, "text_a": "wo it for watch dvd sit player stop , will your you and this magic n't you through one to ; need a do time.", "text_b": "", "label": 0}
+{"guid": 696, "text_a": ", for de digs work first co-stars by the he deep because been of 's perhaps in years powerful emotionally niro the stirred time his ,.", "text_b": "", "label": 1}
+{"guid": 697, "text_a": "impression made business cruise a since such tom an has in his in not strong risky underwear actor.", "text_b": "", "label": 1}
+{"guid": 698, "text_a": "elusive . a finger myself missing found that told , to cinematically thing put , with an story on ( well struggling unique scored to interesting perfection i my and fairly message pertinent ) ``''", "text_b": "", "label": 1}
+{"guid": 699, "text_a": "routine little harmless else and ... diversion ,.", "text_b": "", "label": 1}
+{"guid": 700, "text_a": "really time as james adventure warmed-over ripe the idiot for a 007 clone village with the a is , bond?", "text_b": "", "label": 0}
+{"guid": 701, "text_a": "movie ca hotdog anything more make de comedy more chef niro make the hotdog trashy than and a n't into cop ca robert even finest n't anything , buddy a than this a.", "text_b": "", "label": 0}
+{"guid": 702, "text_a": "the he cowrote directed grotesque the of the pinocchio reality live-action in starred , new and borders on.", "text_b": "", "label": 0}
+{"guid": 703, "text_a": "samira much , the are and like reflections thoughts ethos of consciousness through that torpid stream a makhmalbaf it for , 's although and new film the coming viewer is 's the banal blackboards unfortunate of", "text_b": "", "label": 0}
+{"guid": 704, "text_a": "gasbag impressed bloated aura grotesquely own by self-importance its a of thesis gargantuan...", "text_b": "", "label": 0}
+{"guid": 705, "text_a": "sweet turn of alabama time is every , look home wrong you a bummer taking another.", "text_b": "", "label": 0}
+{"guid": 706, "text_a": "spell you how do clich\u00e9?", "text_b": "", "label": 0}
+{"guid": 707, "text_a": "this telegraphing movie obvious or no simplistic for is too.", "text_b": "", "label": 0}
+{"guid": 708, "text_a": "grand colors director are the movie benoit , delhomme delicious costumes of shot sets photography and the in and.", "text_b": "", "label": 1}
+{"guid": 709, "text_a": "own way clockstoppers stopped i watch i time thought had keeping my as through slogged my.", "text_b": "", "label": 0}
+{"guid": 710, "text_a": "just over dizzying it is the jaunt than practically begins less before dizzy ,.", "text_b": "", "label": 0}
+{"guid": 711, "text_a": "the play buyer the like tv a overall to feels a not that could pilot low-budget on film tube find it.", "text_b": "", "label": 0}
+{"guid": 712, "text_a": "should gutterball have they called it.", "text_b": "", "label": 0}
+{"guid": 713, "text_a": "in well -- 45 -- out rolled minutes credits corpus welcome end wore while about collosum its before the undeniably interesting.", "text_b": "", "label": 0}
+{"guid": 714, "text_a": "disney the the reminded ) that from of film n utterly comedies a and hilarious me charming best 60s ( the of.", "text_b": "", "label": 1}
+{"guid": 715, "text_a": ", and look as second at youth began too an the there into half a what 's much falseness heart-tugging dull fizzles intriguing , attempt ridiculous at to.", "text_b": "", "label": 0}
+{"guid": 716, "text_a": "kmart loyalty by costumes and thrift-shop test , wince-inducing all blue-light-special effects trekkie conspire makeup prosthetic , putty silly dialogue to.", "text_b": "", "label": 0}
+{"guid": 717, "text_a": "father shooting rigorously a is exquisitely and a love a brief and of structured about filmed connection drama that star son.", "text_b": "", "label": 1}
+{"guid": 718, "text_a": "this , human is amusing at and its comedy confirming interesting most.", "text_b": "", "label": 1}
+{"guid": 719, "text_a": "is immerse 's sheer exhausting , in unrelenting determination to whaley wretchedness you.", "text_b": "", "label": 0}
+{"guid": 720, "text_a": "watching a throes worth in performance the change of it rapid 's for way documents dong jie for and culture the --.", "text_b": "", "label": 1}
+{"guid": 721, "text_a": "mortality poignant a artfully crafted , meditation on.", "text_b": "", "label": 1}
+{"guid": 722, "text_a": "and the freak and a isle dull too categorization show restrained be , , too easy obvious mercenary too defies to engaging cerebral pretentious be to to be an ....", "text_b": "", "label": 0}
+{"guid": 723, "text_a": "actors -- bardem 's -- performances and excel moll\u00e0 , insightful , in empathetic vera gil three.", "text_b": "", "label": 1}
+{"guid": 724, "text_a": "movies do to the 's you it go n't everything for.", "text_b": "", "label": 0}
+{"guid": 725, "text_a": "'s turns magic another grant star film to winning bumbling , ) vehicle the and be it out takes ( over.", "text_b": "", "label": 1}
+{"guid": 726, "text_a": "and one and right own could its screen , the as of just reasonably novella onto much moving about in the gets is it engrossing as expect.", "text_b": "", "label": 1}
+{"guid": 727, "text_a": "film velocity the sold-out '' filmmaking on wrong everything represents concept '' , commodified with scene as independent a american.", "text_b": "", "label": 0}
+{"guid": 728, "text_a": "taken of to damned as be said but can the suck a queen , one-shot not the energetic and stylish.", "text_b": "", "label": 1}
+{"guid": 729, "text_a": "thanks lead as it plays three large does the piece anspaugh actresses as to measure 's in well.", "text_b": "", "label": 1}
+{"guid": 730, "text_a": "by hollywood , its since characters suffocated been uptight fussy it packaged this back us script annoying musty is to by sold adaptation and all the 's more and.", "text_b": "", "label": 0}
+{"guid": 731, "text_a": "all in but what doing the are adults theater at?", "text_b": "", "label": 0}
+{"guid": 732, "text_a": "boring frat party like so gross a how trapped being at perpetual so something ... be can?", "text_b": "", "label": 0}
+{"guid": 733, "text_a": "us thinking bliss-less the work along a cold some is that groans life curves itself how man throws some elysian beguiling from comment important on , fields.", "text_b": "", "label": 0}
+{"guid": 734, "text_a": "even n't away is 's swept this madonna.", "text_b": "", "label": 0}
+{"guid": 735, "text_a": "of through ; a of rewarding experience the the to film one going is sampling this is not one festival a movie experiencing.", "text_b": "", "label": 0}
+{"guid": 736, "text_a": "would chai recognize stereotypes an only encourages rueful american laughter indian-american at.", "text_b": "", "label": 0}
+{"guid": 737, "text_a": "greek of out wedding blend dished humor a romance lovingly sweet my and delightful uses fat in stereotypes big.", "text_b": "", "label": 1}
+{"guid": 738, "text_a": "a magnificent worth ... drama tracking well down.", "text_b": "", "label": 1}
+{"guid": 739, "text_a": "century of be the masterpiece , best being 19th 's the the earnest may oscar importance play , wilde of.", "text_b": "", "label": 1}
+{"guid": 740, "text_a": "loosely jose bittersweet with pathos but memory a humor like brimming story snapshots moments linger of gentle brushed lyric and that autobiographical , delivers campanella with sentimentality ,.", "text_b": "", "label": 1}
+{"guid": 741, "text_a": "in the but jingles still it pocket.", "text_b": "", "label": 1}
+{"guid": 742, "text_a": "than the it about match and a of energy mess and much will more has although smeary video it 's ( kitsch this celebrity guts demented year ) 's narrative the muddled digital what does but savvy open ,.", "text_b": "", "label": 1}
+{"guid": 743, "text_a": "utterly on this to as 'd make have audiences as thought guffaw a really with earth anywhere they have wonder could diabolical you how script , anyone.", "text_b": "", "label": 0}
+{"guid": 744, "text_a": "the from heart one.", "text_b": "", "label": 1}
+{"guid": 745, "text_a": "dealing with in no childhood monstrously discernible and loss with craft sanctimonious made.", "text_b": "", "label": 0}
+{"guid": 746, "text_a": "people at cinema finest its.", "text_b": "", "label": 1}
+{"guid": 747, "text_a": "and manage movie break frontal the what about of still the surprising self-awareness full engage past you 's parts is despite artifice to thoroughly its that , overt.", "text_b": "", "label": 1}
+{"guid": 748, "text_a": "problem a that slapstick a pretty 're , and about talking 's when you big comedy.", "text_b": "", "label": 0}
+{"guid": 749, "text_a": "class leaves working cause heartstring '' a liberal vs. that `` opera no unplundered us untugged and them no.", "text_b": "", "label": 1}
+{"guid": 750, "text_a": "nelson but , brutally spectacle weirdly leaving 's the unsentimental unemotional the humanity an from approach ... film sucks behind horrific.", "text_b": "", "label": 0}
+{"guid": 751, "text_a": "of one string long cliches.", "text_b": "", "label": 0}
+{"guid": 752, "text_a": "goes : a the up everything week but something before little show like 's 's dress watching off-kilter the place in rehearsal a just.", "text_b": "", "label": 0}
+{"guid": 753, "text_a": "this in alan hard imagine than to performance it he arkin is 's being better.", "text_b": "", "label": 1}
+{"guid": 754, "text_a": "the equally screens play film the giant and standard well both on will.", "text_b": "", "label": 1}
+{"guid": 755, "text_a": "the presence cool helped a jean by little fun timewaster ... especially , reno of.", "text_b": "", "label": 1}
+{"guid": 756, "text_a": "scrubbing the like something toilet.", "text_b": "", "label": 0}
+{"guid": 757, "text_a": "pta puccini television enough 's proud director of primavera daytime muccino magnolia are this there less of make in are than they melodrama 's yet worthy to characters.", "text_b": "", "label": 0}
+{"guid": 758, "text_a": "its abundantly thrilling once be from again best make reinvented series respectful may for wonderfully new , to past itself a the phenomenon , it 's has of enough movie that clear far the and assured but it of this generation.", "text_b": "", "label": 1}
+{"guid": 759, "text_a": "that college are 's this 's of , entrance n't written people an thing by if movies needs directed less and world exam there pass who one about could it.", "text_b": "", "label": 0}
+{"guid": 760, "text_a": "enough 's clunky drama cover to but dialogue of grimy it carnahan writer/director in cliches lapses moves its manual and , logic joe fast crime a precinct is.", "text_b": "", "label": 1}
+{"guid": 761, "text_a": "is , the gaudy stale died that result a a something from of candy bag halloween.", "text_b": "", "label": 0}
+{"guid": 762, "text_a": "lovely buy accorsi with film a and by lovely 's it performances.", "text_b": "", "label": 1}
+{"guid": 763, "text_a": "so something steven that to instinct , report majority-oriented a unnerve too about the this the director spielberg , a.i. auspicious majority and daring 's follow to pushes there like with challenging artistic liable ,.", "text_b": "", "label": 1}
+{"guid": 764, "text_a": "fans , other off the ... ready get movie take direction to.", "text_b": "", "label": 0}
+{"guid": 765, "text_a": "everything merely an lacks not objectionable dull good it ; film intentions or except.", "text_b": "", "label": 0}
+{"guid": 766, "text_a": "seemingly , , satisfy may not transparently its final story is moviegoer and appetite soaringly opaque pace while careful the scene film moving 's 's every.", "text_b": "", "label": 1}
+{"guid": 767, "text_a": "marrow is god finding to and young about accessible a that touching a man film the.", "text_b": "", "label": 1}
+{"guid": 768, "text_a": "for a withering passion an about the her effects young compelling of in whose sexual monarch film jealousy spanish becomes obsession husband the of life a.", "text_b": "", "label": 1}
+{"guid": 769, "text_a": "frenetic tasty and drama with an comedy balance infectious family fable of cultural a.", "text_b": "", "label": 1}
+{"guid": 770, "text_a": "once n't i think out do laughed i loud.", "text_b": "", "label": 0}
+{"guid": 771, "text_a": "folks `` very heightened story no `` in 2 n't effects hide colors bold 's brilliantly ' giant : the heel ca achilles reality and special , , just stuart there little.", "text_b": "", "label": 0}
+{"guid": 772, "text_a": ", appeal charm of about makes circuit entry suitable a a kind it into that film audience not but american there fest will that certain the mainstream film a is the the to.", "text_b": "", "label": 1}
+{"guid": 773, "text_a": "a madness it 's beautiful.", "text_b": "", "label": 1}
+{"guid": 774, "text_a": "to deathbed and and , when own my for lie while felt film wanted i a the ended on tired drained.", "text_b": "", "label": 0}
+{"guid": 775, "text_a": "thrillers right need as much really we so we doomsday like : kidnapping not bad now distasteful suspense need dramas.", "text_b": "", "label": 0}
+{"guid": 776, "text_a": "to chick resorting ` character development one ' miserable rather and flicks plotting this than legitimate string-pulling is pretty intelligent go as , ,.", "text_b": "", "label": 0}
+{"guid": 777, "text_a": "inherent ( music extraordinary piece the ) creativity in and candidly calls creation of between detailing involved the our politics attention of the commerce , jones to conflict an by.", "text_b": "", "label": 1}
+{"guid": 778, "text_a": "the moviegoing pleasures of the most of one significant year.", "text_b": "", "label": 1}
+{"guid": 779, "text_a": "little , 's this love about trifle there english prurient to aside playthings.", "text_b": "", "label": 0}
+{"guid": 780, "text_a": "military a competent grimly courtroom drama and earnest and stolid.", "text_b": "", "label": 1}
+{"guid": 781, "text_a": "once at half-baked and overheated.", "text_b": "", "label": 0}
+{"guid": 782, "text_a": "and affleck as will may film find never ben a was takes hunting good planned again officially structure residuals completes damon the the that once matt for this looking trilogy.", "text_b": "", "label": 1}
+{"guid": 783, "text_a": "major that encounter out through of movie life good we as laying a of some the issues does we journey the job.", "text_b": "", "label": 1}
+{"guid": 784, "text_a": "also psychoanalytical and provocatively -- -- so very refreshingly literary.", "text_b": "", "label": 1}
+{"guid": 785, "text_a": "you from , same 1994 is except looks , that aside tinkering even movie in probably loved the better it minor this.", "text_b": "", "label": 1}
+{"guid": 786, "text_a": "is : as asks a young the a quite whose film fatal apparent only his that about some life in of mistake it to is us the man he unpleasant virtue people makes not as care.", "text_b": "", "label": 0}
+{"guid": 787, "text_a": "to underwritten valueless by a basketball nba pro paean the kiddie.", "text_b": "", "label": 0}
+{"guid": 788, "text_a": "of , based devilishly mueller script but mcgowan by laughs heather characters on the expense never witty at niels , great gets its and a film the", "text_b": "", "label": 1}
+{"guid": 789, "text_a": "was 's watching and was a it because it as has even you now become but it it weak and so in then been , , made released 1978 when if movie that unearthed not 're weaker released has.", "text_b": "", "label": 0}
+{"guid": 790, "text_a": "a 's that cheat.", "text_b": "", "label": 0}
+{"guid": 791, "text_a": "and nice -- mysterious build-up way psychic somewhat abilities the a a creature along climax a about paced some , offers but it , too and clumsy its lethargically with solid story 's terrific chills.", "text_b": "", "label": 0}
+{"guid": 792, "text_a": "it lite 's fun.", "text_b": "", "label": 1}
+{"guid": 793, "text_a": "otherwise young thriller resume an 's intense hurt should , certainly talented n't ... gaghan that twist-and-turn.", "text_b": "", "label": 1}
+{"guid": 794, "text_a": "a know-how to who technical confirms bends film of as status psychological it insight service artfully the fincher maker 's.", "text_b": "", "label": 1}
+{"guid": 795, "text_a": "the live-honed embarrassment contains , carvey no above a the mimicry of level good moment film when saturday jokes night , scenes 's no rises barely good.", "text_b": "", "label": 0}
+{"guid": 796, "text_a": "malcolm appeal will frankie pubescent fans , its that of fitfully , amusing nothing star , muniz and a if else middle in romp to the.", "text_b": "", "label": 1}
+{"guid": 797, "text_a": "'s huge have of robbed surprise element irresponsible , of play , it it , and pranks love who laughs not the any does its story original n't in cops to of.", "text_b": "", "label": 0}
+{"guid": 798, "text_a": "actors that and tackles moving though and level , and movie subject is the is actresses self-conscious predictable potentially to too replete drama a too with of moonlight mile a high 's reach acclaimed.", "text_b": "", "label": 0}
+{"guid": 799, "text_a": ", , a memory , love loyalty about friendship witty film tender , trust captivating , and.", "text_b": "", "label": 1}
+{"guid": 800, "text_a": "mired juvenile all in and the , filmmaking the virtuosity near-xenophobic its is 's handle rigors one enough longer technical the can it for that to for so no godard when pine day pedagogy of make film.", "text_b": "", "label": 0}
+{"guid": 801, "text_a": "itself reflection thirsty on adolescent qualities film taking this seems , for.", "text_b": "", "label": 0}
+{"guid": 802, "text_a": "film nickleby eddie have might this undertones homosexual more thing than an murphy.", "text_b": "", "label": 0}
+{"guid": 803, "text_a": "the into lives celluloid la by tantalizes 's show bogdanovich de of the peep era a creme offering.", "text_b": "", "label": 1}
+{"guid": 804, "text_a": "camera of ) oration is rather , a a be public ( subject than a a for on that the mistaken obscured stationary giving could film narrative film majority by 's these power but of subjects the to contributing that the shows.", "text_b": "", "label": 0}
+{"guid": 805, "text_a": "and held particular enough this with to a is greater back man , something being charisma ultimately films audacity from result irwin but carry a dozen is.", "text_b": "", "label": 0}
+{"guid": 806, "text_a": "her luminary who rare 's raises profession continually that of standard proves the she griffiths.", "text_b": "", "label": 1}
+{"guid": 807, "text_a": "and funny as moving just , ever uplifting as.", "text_b": "", "label": 1}
+{"guid": 808, "text_a": "age of enormously entertaining moviegoers for any.", "text_b": "", "label": 1}
+{"guid": 809, "text_a": "spy pictures shot , weirdly retro recalls '70s a of , that '60s lean well-acted thriller european-set and raft a , deftly.", "text_b": "", "label": 1}
+{"guid": 810, "text_a": "this for even dialogue good good is funny adults , a , script.", "text_b": "", "label": 1}
+{"guid": 811, "text_a": "badly perspective the loopiness hollywood has dated effects demme mystery the once and time tough congenital the post-production from between emerging seemed newfangled affectionate 's a to scenario cutesy-pie that.", "text_b": "", "label": 0}
+{"guid": 812, "text_a": "ecclesiastes troubling this a also of interpretation gilliam-esque film surreal is.", "text_b": "", "label": 1}
+{"guid": 813, "text_a": "diapers infantile the infantile changing you that and makes take about of but this is the ... humor wonder can i sort writer director 's.", "text_b": "", "label": 0}
+{"guid": 814, "text_a": "true this , of insult , grade the genre of quite trash frankly the to piece 5 is an channel intelligence enthusiast.", "text_b": "", "label": 0}
+{"guid": 815, "text_a": "coming-of-age delightful a story.", "text_b": "", "label": 1}
+{"guid": 816, "text_a": "experienced film globe of by , around state a african condition millions about the the modern a spellbinding rootlessness.", "text_b": "", "label": 1}
+{"guid": 817, "text_a": "psychological brilliantly a compelling strangely acted and drama.", "text_b": "", "label": 1}
+{"guid": 818, "text_a": "comes you roll finally the to the only excitement leave credits get when theater the and.", "text_b": "", "label": 0}
+{"guid": 819, "text_a": "as is , not second zombies the of as mars big dead carpenter and movie crossed dawn ghoulish trains the the not as the 's ghosts john of with as first with.", "text_b": "", "label": 0}
+{"guid": 820, "text_a": "the , of feasting road original charm american , filmmaker movies of has on motherland 's the ramshackle it the gorgeous the landscape.", "text_b": "", "label": 1}
+{"guid": 821, "text_a": "to direct shows enough toes us and just our ghost that keep , with imagery exciting on.", "text_b": "", "label": 1}
+{"guid": 822, "text_a": "a buggy drag it 's.", "text_b": "", "label": 0}
+{"guid": 823, "text_a": "new humor wants taste tangy it of a tweak to them with.", "text_b": "", "label": 1}
+{"guid": 824, "text_a": "to late 's sweep to stiffness unlikely marriage the clout viewers feet their u.s. demonstrate is off emotional.", "text_b": "", "label": 0}
+{"guid": 825, "text_a": "work and passion grasp candid action that the as have others ; for deftly lets it comfortable balances their and you and feel film a reflection.", "text_b": "", "label": 1}
+{"guid": 826, "text_a": "a a film to savored be treasure quiet --.", "text_b": "", "label": 1}
+{"guid": 827, "text_a": "central out the of from , directed by mick straight , , cliche movie to jackson unturned casting characters leaves predictable plot the no the.", "text_b": "", "label": 0}
+{"guid": 828, "text_a": "burly the one of whatever device is necessity for narrative standing factor this last coincidence passes logic and plot another roundhouse where pummels of is sort is , a left , flick a the action drunken.", "text_b": "", "label": 0}
+{"guid": 829, "text_a": "movies the have hit skids really teen.", "text_b": "", "label": 0}
+{"guid": 830, "text_a": "all is , an love about movie hate allen -- to there ambling 's comedy about -- the and biz broad is woody latest.", "text_b": "", "label": 1}
+{"guid": 831, "text_a": "genre unsettling flair made it with deftly 's.", "text_b": "", "label": 1}
+{"guid": 832, "text_a": "its the intention manages banality of to quite the show all in opposite is life when.", "text_b": "", "label": 0}
+{"guid": 833, "text_a": "wine without empty wafer the a and communion , unsatisfying ultimately like swallowing feels.", "text_b": "", "label": 0}
+{"guid": 834, "text_a": "the for collateral fans delivers damage finally schwarzenegger goods.", "text_b": "", "label": 1}
+{"guid": 835, "text_a": "an comedy with goldie winning : giggle-inducing of team oscar-winners and hawn snappy by dialogue sarandon and performances susan a unlikely.", "text_b": "", "label": 1}
+{"guid": 836, "text_a": "clipped and , self-important to an too it 's too be be abbreviated and and epic to plodding funny.", "text_b": "", "label": 0}
+{"guid": 837, "text_a": "adventurous adults in specialty will and amuse provoke venues.", "text_b": "", "label": 1}
+{"guid": 838, "text_a": "compelling sometimes to off otherwise needed director something like less his storytelling get than seems the chest.", "text_b": "", "label": 0}
+{"guid": 839, "text_a": "to films required passion the but the material sell lacks this.", "text_b": "", "label": 0}
+{"guid": 840, "text_a": "is anything literacy most missing even acting % what inkling is of script and a , resembling an , genuine 100 here wit the of elemental.", "text_b": "", "label": 0}
+{"guid": 841, "text_a": "birthday of bent subversive wickedly the girl to 's a parts best there.", "text_b": "", "label": 1}
+{"guid": 842, "text_a": "title the all , a , swept for might be under rug better concerned.", "text_b": "", "label": 0}
+{"guid": 843, "text_a": "experience wildly inconsistent a emotional.", "text_b": "", "label": 0}
+{"guid": 844, "text_a": "portent-heavy given it , be is worst thing done has heavy-handed could this soderbergh ever the how and.", "text_b": "", "label": 0}
+{"guid": 845, "text_a": "despite aesthetics evocative life never the monotonous hollow beyond whine film state the modern the love percolates , a of evincing.", "text_b": "", "label": 0}
+{"guid": 846, "text_a": "about , loss comedy alienation an and separation absurdist.", "text_b": "", "label": 0}
+{"guid": 847, "text_a": "rats ugly stars . heads in their , and ... unlikely butt hero a regurgitation violence , of but cinematic likable , hood gives an rap that to birth brutal mafia'", "text_b": "", "label": 1}
+{"guid": 848, "text_a": "sense is satire his healthy of fun light and...", "text_b": "", "label": 1}
+{"guid": 849, "text_a": "and triteness drama difficult tossed simplicity father window explores intelligent american between out trademark relationship a with that and the son deftly are the french the.", "text_b": "", "label": 1}
+{"guid": 850, "text_a": ", the to makes of are with so hostages free fact playing that the miller he hostage fortune that children and to is audience seriousness affectation emotions , swaggering his.", "text_b": "", "label": 1}
+{"guid": 851, "text_a": "impostor movie has thrilling couple does of the n't a handful but good moments a performances quite fly of and ,.", "text_b": "", "label": 0}
+{"guid": 852, "text_a": "godfather rent low part.", "text_b": "", "label": 0}
+{"guid": 853, "text_a": "ambition and an politics drama wants admirable , to ( ) serry blend.", "text_b": "", "label": 1}
+{"guid": 854, "text_a": "tears , for no opium and passion sense love , in , writhing of wailing rage and washed there the all away 's actual being 's dissolution overdoses.", "text_b": "", "label": 0}
+{"guid": 855, "text_a": "see bettany off fascinating to 's it each other how and mcdowell play.", "text_b": "", "label": 1}
+{"guid": 856, "text_a": "allow film those way the it to a of in that air but breath in , , a fresh feels like only.", "text_b": "", "label": 1}
+{"guid": 857, "text_a": "instructive us delightful thematically that and it to ride of hint takes thoroughly innocence without on from a visually imaginative typical , , a kiddie-flick roller-coaster sentimentality experience even.", "text_b": "", "label": 1}
+{"guid": 858, "text_a": "'s make -- breeziness moments the welcome industry the worth film mostly most hilarious and unbelievably the trip portraying idiocy -- it some of the film.", "text_b": "", "label": 1}
+{"guid": 859, "text_a": "another yet , add good to clooney 's a talented a director hat head.", "text_b": "", "label": 1}
+{"guid": 860, "text_a": "quinn a sight tis in play is legal rea grandiloquent enough stephen , desmond irish by 's and lolling bates when , thing the pretty ` alan of brosnan and , pleasant , joined , aidan this quartet settings eagles.", "text_b": "", "label": 1}
+{"guid": 861, "text_a": "should life first speaks show performance reality and anybody body bennett any own naturalistic 's changes some truth ` more contemplating watch drastic their , volumes ' than.", "text_b": "", "label": 1}
+{"guid": 862, "text_a": "and remarkable a set people 's , , about to , pop as unending built from and inspire cheerful an the scenery beach 's inoffensive young camerawork exciting sunburn numbers of its it as to it party soundtrack , aside awesome.", "text_b": "", "label": 0}
+{"guid": 863, "text_a": "arcana audiences hill etc. hear early even to hip-hop the the of ( genuinely rap savviest can gang talk it , characters records referencing cool 's about constant sugar , alienate while ).", "text_b": "", "label": 0}
+{"guid": 864, "text_a": ", amateurishly , and lifeless assembled dull.", "text_b": "", "label": 0}
+{"guid": 865, "text_a": "okay dragons much the 's mcconaughey the fire watch in script are , fun to , not.", "text_b": "", "label": 1}
+{"guid": 866, "text_a": "in it consider when past be of put future heart awesome this matters , the to detail may the the from to is most stays , far but period film transporting.", "text_b": "", "label": 1}
+{"guid": 867, "text_a": "wading has of all the depth pool a.", "text_b": "", "label": 0}
+{"guid": 868, "text_a": "a anarchic flair with a real movie.", "text_b": "", "label": 1}
+{"guid": 869, "text_a": "its like pianist the in not subject ; reaction inspire does should audience a this.", "text_b": "", "label": 0}
+{"guid": 870, "text_a": "khouri ... is callie an arthritic directing at attempt by.", "text_b": "", "label": 0}
+{"guid": 871, "text_a": ". a could upon hamilton looking rampling yet be 's that not jane exemplary gives in careworn performance luminous , aristocratic improved costumes ,'", "text_b": "", "label": 1}

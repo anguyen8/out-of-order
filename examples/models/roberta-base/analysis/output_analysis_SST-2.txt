@@ -1,0 +1,3806 @@
+*********** Sample 2 ***********
+Sentence: {'text_a': 'allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'allows us to hope that nolan is poised to embark a commercial career as a major yet inventive filmmaker .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 3 ***********
+Sentence: {'text_a': "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the acting , costumes , cinematography , music and sound are all astounding given the production 's austere locales ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 5 ***********
+Sentence: {'text_a': 'although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'although laced with touches and a few fanciful humor , the film is a refreshingly serious look at young women .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 8 ***********
+Sentence: {'text_a': "you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "you do n't have to know about comedy to appreciate the film 's easygoing blend of music and romance ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 10 ***********
+Sentence: {'text_a': 'the mesmerizing performances of the leads keep the film grounded and keep the audience riveted . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the mesmerizing leads of the performances keep the film grounded and keep the audience riveted .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 13 ***********
+Sentence: {'text_a': "we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "we root for ( paul and clara ) , even like them , though perhaps it 's an emotion closer to pity ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.06
+
+*********** Sample 15 ***********
+Sentence: {'text_a': 'a gorgeous , high-spirited musical from india that exquisitely blends music , dance , song , and high drama . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a gorgeous , high - spirited musical from india that exquisitely blends music , dance , drama , and high song .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 16 ***********
+Sentence: {'text_a': "the emotions are raw and will strike a nerve with anyone who 's ever had family trauma . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the emotions are raw and will strike a family with anyone who 's ever had nerve trauma ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 17 ***********
+Sentence: {'text_a': "audrey tatou has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in amélie . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "audrey amélie has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in tatou ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 23 ***********
+Sentence: {'text_a': 'a delectable and intriguing thriller filled with surprises , read my lips is an original . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a delectable and intriguing thriller filled with lips , read my surprises is an original .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 24 ***********
+Sentence: {'text_a': 'seldom has a movie so closely matched the spirit of a man and his work . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'seldom has a spirit so closely matched the movie of a man and his work .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 27 ***********
+Sentence: {'text_a': "it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's an offbeat significance that pokes fun at the democratic exercise while also examining its treat for those who take part ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 30 ***********
+Sentence: {'text_a': "thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "thanks to scott 's dodger roger and eisenberg 's sweet nephew , roger charismatic is one of the most compelling variations on in the company of men ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 36 ***********
+Sentence: {'text_a': 'the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the fascination of the piece , the unerring professionalism of the chilly production , and the weight embedded in the lurid topic prove recommendation enough .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 38 ***********
+Sentence: {'text_a': 'as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'as surreal as a photograph and as detailed as a dream , as visually dexterous as it is at times imaginatively overwhelming .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 39 ***********
+Sentence: {'text_a': 'escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'escaping the minimalist , piccoli is warmly affecting and so is this adroitly studio movie .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 40 ***********
+Sentence: {'text_a': "there 's ... tremendous energy from the cast , a sense of playfulness and excitement that seems appropriate . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "there 's ... tremendous energy from the cast , a sense of excitement and playfulness that seems appropriate ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 41 ***********
+Sentence: {'text_a': 'this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'this illuminating documentary transcends our preconceived vision of the holy inhabitants and its land , revealing the human complexities beneath .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 42 ***********
+Sentence: {'text_a': "the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the subtle touch of `` elling '' is that it never loses strength with the reality of the grim situation ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 43 ***********
+Sentence: {'text_a': 'holm ... embodies the character with an effortlessly regal charisma . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'holm ... embodies the regal with an effortlessly character charisma .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 47 ***********
+Sentence: {'text_a': 'a subtle and well-crafted ( for the most part ) chiller . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a subtle and well - crafted ( for the most chiller ) part .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 48 ***********
+Sentence: {'text_a': 'has a lot of the virtues of eastwood at his best . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'has a virtues of the lot of eastwood at his best .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 51 ***********
+Sentence: {'text_a': "for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "for the most drama , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted part ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 52 ***********
+Sentence: {'text_a': 'mr. tsai is a very original artist in his medium , and what time is it there ? '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'mr. tsai is a very original time in his medium , and what artist is it there ?'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 53 ***********
+Sentence: {'text_a': 'sade is an engaging look at the controversial eponymous and fiercely atheistic hero . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'atheistic is an engaging look at the controversial eponymous and fiercely sade hero .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 60 ***********
+Sentence: {'text_a': "this is a story of two misfits who do n't stand a chance alone , but together they are magnificent . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "this is a story of two chance who do n't stand a misfits alone , but together they are magnificent ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 62 ***********
+Sentence: {'text_a': 'the primitive force of this film seems to bubble up from the vast collective memory of the combatants . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the primitive film of this force seems to bubble up from the vast collective memory of the combatants .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 63 ***********
+Sentence: {'text_a': 'on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'on this tricky civility , tadpole is very much a step in the right direction , with its blend of frankness , topic and compassion .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 66 ***********
+Sentence: {'text_a': "if you 're hard up for raunchy college humor , this is your ticket right here . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "if you 're hard up for raunchy college ticket , this is your humor right here ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 68 ***********
+Sentence: {'text_a': 'good old-fashioned slash-and-hack is back ! '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'good old-fashioned -hack - and slash is back !'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 71 ***********
+Sentence: {'text_a': 'exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'exquisitely nuanced in mood tics and drama , this chamber dialogue is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 72 ***********
+Sentence: {'text_a': 'uses high comedy to evoke surprising poignance . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'uses high poignance to evoke surprising comedy .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 75 ***********
+Sentence: {'text_a': "among the year 's most intriguing explorations of alientation . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "among the alientation 's most intriguing explorations of year ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 77 ***********
+Sentence: {'text_a': "the son 's room is a triumph of gentility that earns its moments of pathos . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the pathos 's room is a triumph of gentility that earns its moments of son ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 78 ***********
+Sentence: {'text_a': 'there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'there is nothing outstanding about this submarine , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a film .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 80 ***********
+Sentence: {'text_a': "the draw ( for `` big bad love '' ) is a solid performance by arliss howard . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the draw ( for ` ` big bad performance '' ) is a solid love by arliss howard ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 83 ***********
+Sentence: {'text_a': "though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "though it 's become almost redundant to say so , major kudos go to leigh for actually casting working-class who look people ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 84 ***********
+Sentence: {'text_a': "the band 's courage in the face of official repression is inspiring , especially for aging hippies ( this one included ) . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the hippies 's courage in the face of official repression is inspiring , especially for aging band ( this one included ) ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 85 ***********
+Sentence: {'text_a': 'the movie achieves as great an impact by keeping these thoughts hidden as ... ( quills ) did by showing them . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the movie achieves as great an thoughts by keeping these impact hidden as ... ( quills ) did by showing them .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 87 ***********
+Sentence: {'text_a': 'jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'jaglom ... put ( s ) the position in the privileged audience of eavesdropping on his characters'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 88 ***********
+Sentence: {'text_a': "fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "fresnadillo 's dark and jolting images have a week of plying into your subconscious like the nightmare you had a way ago that wo n't go away ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 89 ***********
+Sentence: {'text_a': "we know the plot 's a little crazy , but it held my interest from start to finish . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "we know the interest 's a little crazy , but it held my plot from start to finish ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 90 ***********
+Sentence: {'text_a': "it 's a scattershot affair , but when it hits its mark it 's brilliant . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's a mark affair , but when it hits its scattershot it 's brilliant ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 91 ***********
+Sentence: {'text_a': 'hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'hardly a viewers , but it introduces masterpiece to a good charitable enterprise and some interesting real people .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 92 ***********
+Sentence: {'text_a': 'byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'byler reveals his characters in a way that melodrama and even fascinates us , and he never reduces the situation to simple intrigues .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 94 ***********
+Sentence: {'text_a': 'no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'no sophomore slump for oscar sam mendes , who segues from director winner to oscar-winning potential with a smooth sleight of hand .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 97 ***********
+Sentence: {'text_a': 'neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'neither donovan nor parker is a typical romantic lead , but they bring a fresh , quirky charm to the formula .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 99 ***********
+Sentence: {'text_a': 'a gripping movie , played with performances that are all understated and touching . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a gripping performances , played with movie that are all understated and touching .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 100 ***********
+Sentence: {'text_a': "it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's one of those baseball dream where the hero is stoic , the wife is patient , the kids are as cute as all get - out and the odds against success are long enough to intimidate , but short enough to make a pictures seem possible ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 102 ***********
+Sentence: {'text_a': "the movie 's relatively simple plot and uncomplicated morality play well with the affable cast . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the movie 's relatively simple plot and uncomplicated cast play well with the affable morality ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 105 ***********
+Sentence: {'text_a': "it 's great escapist fun that recreates a place and time that will never happen again . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's great time fun that recreates a place and escapist that will never happen again ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 109 ***********
+Sentence: {'text_a': "it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it haunts you , you ca n't forget it , you admire its confusions and are able to resolve some of the conception you had while watching it ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 110 ***********
+Sentence: {'text_a': "one of the smartest takes on singles culture i 've seen in a long time . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "one of the smartest takes on time culture i ' ve seen in a long singles ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 111 ***********
+Sentence: {'text_a': 'moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'heartbreaking , moody , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 113 ***********
+Sentence: {'text_a': 'warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women , water , nature , and sexuality . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating nature between women , water , connections , and sexuality .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 116 ***********
+Sentence: {'text_a': '( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky fame that brought him talent in the first place .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 117 ***********
+Sentence: {'text_a': "a movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it 's approached with imagination and flair . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a movie that reminds us of just how exciting and satisfying the imagination cinema can be when it 's approached with fantasy and flair ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 120 ***********
+Sentence: {'text_a': 'montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'montias ... pumps a lot of energy into his nicely nuanced cast and surrounds himself with a narrative of quirky -- but not stereotyped -- street characters .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 121 ***********
+Sentence: {'text_a': 'it provides the grand , intelligent entertainment of a superior cast playing smart people amid a compelling plot . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it provides the grand , intelligent cast of a superior entertainment playing smart people amid a compelling plot .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 130 ***********
+Sentence: {'text_a': 'that is a compliment to kuras and miller . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'that is a compliment to miller and kuras .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 134 ***********
+Sentence: {'text_a': "what better message than ` love thyself ' could young women of any size receive ? "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "what better message than ` love thyself ' could young size of any women receive ?"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 138 ***********
+Sentence: {'text_a': "about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "about a abusers heroine who fights back at her manga-like , it 's energetic and satisfying if not deep and psychological ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 141 ***********
+Sentence: {'text_a': 'the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the volatile film of female friendship is the subject of this unhurried , low-key dynamics that is so off - hollywood that it seems positively french in its rhythms and resonance .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 143 ***********
+Sentence: {'text_a': 'a big , gorgeous , sprawling swashbuckler that delivers its diversions in grand , uncomplicated fashion . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a big , gorgeous , sprawling swashbuckler that delivers its fashion in grand , uncomplicated diversions .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 144 ***********
+Sentence: {'text_a': 'a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a difficult , absorbing film that manages to convey more substance despite its inconsistencies and repetitions than do most films than are far more pointed and clear .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 146 ***********
+Sentence: {'text_a': 'a solid examination of the male midlife crisis . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a solid crisis of the male midlife examination .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 148 ***********
+Sentence: {'text_a': 'manages to transcend the sex , drugs and show-tunes plot into something far richer . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'drugs to transcend the sex , manages and show-tunes plot into something far richer .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 155 ***********
+Sentence: {'text_a': "a woman 's pic directed with resonance by ilya chaiken . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a woman 's resonance directed with pic by ilya chaiken ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 159 ***********
+Sentence: {'text_a': 'manages to be sweet and wickedly satisfying at the same time . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'time to be sweet and wickedly satisfying at the same manages .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 160 ***********
+Sentence: {'text_a': "leigh 's film is full of memorable performances from top to bottom . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "leigh 's film is full of memorable bottom from top to performances ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 162 ***********
+Sentence: {'text_a': "it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it seems like i have been waiting my whole movie for this life and now i ca n't wait for the sequel ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 164 ***********
+Sentence: {'text_a': "if you dig on david mamet 's mind tricks ... rent this movie and enjoy ! "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "if you dig on david enjoy 's mind tricks ... rent this movie and mamet !"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 165 ***********
+Sentence: {'text_a': 'bleakly funny , its characters all the more touching for refusing to pity or memorialize themselves . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'bleakly funny , its pity all the more touching for refusing to characters or memorialize themselves .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 174 ***********
+Sentence: {'text_a': 'a must-see for the david mamet enthusiast and for anyone who appreciates intelligent , stylish moviemaking . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a must - see for the enthusiast mamet david and for anyone who appreciates intelligent , stylish moviemaking .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 175 ***********
+Sentence: {'text_a': 'pacino is brilliant as the sleep-deprived dormer , his increasing weariness as much existential as it is physical . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'pacino is brilliant as the sleep-deprived weariness , his increasing dormer as much existential as it is physical .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 176 ***********
+Sentence: {'text_a': "` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ' "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "` de niro ... is a veritable source of sincere hollywood that this passion contrivance orbits around . '"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 180 ***********
+Sentence: {'text_a': "the movie is beautiful to behold and engages one in a sense of epic struggle -- inner and outer -- that 's all too rare in hollywood 's hastier productions . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the movie is beautiful to sense and engages one in a behold of epic struggle -- inner and outer -- that 's all too rare in hollywood 's hastier productions ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 181 ***********
+Sentence: {'text_a': "a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a celebration of quirkiness , eccentricity , and certain individuals ' consequences to let it all hang out , and damn the tendency ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 182 ***********
+Sentence: {'text_a': "morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "morton uses her character and her body language to bring us morvern 's soul , even though the face is almost completely deadpan ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 183 ***********
+Sentence: {'text_a': "instead of a hyperbolic beat-charged urban western , it 's an unpretentious , sociologically pointed slice of life . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "instead of a slice beat-charged urban western , it 's an unpretentious , sociologically pointed hyperbolic of life ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 184 ***********
+Sentence: {'text_a': 'my thoughts were focused on the characters . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'my characters were focused on the thoughts .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 185 ***********
+Sentence: {'text_a': "so , too , is this comedy about mild culture clashing in today 's new delhi . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "so , too , is this culture about mild comedy clashing in today 's new delhi ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 187 ***********
+Sentence: {'text_a': 'this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle sentiments on the button , just as easily as their counterparts anywhere else in the world . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle counterparts on the button , just as easily as their sentiments anywhere else in the world .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 189 ***********
+Sentence: {'text_a': 'the format gets used best ... to capture the dizzying heights achieved by motocross and bmx riders , whose balletic hotdogging occasionally ends in bone-crushing screwups . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the format gets used best ... to capture the dizzying riders achieved by motocross and bmx heights , whose balletic hotdogging occasionally ends in bone-crushing screwups .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 190 ***********
+Sentence: {'text_a': "inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "inside the film 's seat plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your conflict-powered ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 192 ***********
+Sentence: {'text_a': 'an artful , intelligent film that stays within the confines of a well-established genre . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an artful , intelligent confines that stays within the film of a well-established genre .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 196 ***********
+Sentence: {'text_a': "not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "not only is undercover brother as funny , if not more so , than both films powers austin , but it 's also one of the smarter , savvier spoofs to come along in some time ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 200 ***********
+Sentence: {'text_a': 'the best revenge may just be living well because this film , unlike other dumas adaptations , is far more likened to a treasure than a lengthy jail sentence . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the best revenge may just be living well because this treasure , unlike other dumas adaptations , is far more likened to a film than a lengthy jail sentence .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 201 ***********
+Sentence: {'text_a': 'the movie understands like few others how the depth and breadth of emotional intimacy give the physical act all of its meaning and most of its pleasure . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the meaning understands like few others how the depth and breadth of emotional intimacy give the physical act all of its movie and most of its pleasure .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 204 ***********
+Sentence: {'text_a': 'what the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'what the film lacks in general focus it makes up for in seeds , as corcuera manages to find the compassion of hope in the form of collective action .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 205 ***********
+Sentence: {'text_a': 'the socio-histo-political treatise is told in earnest strides ... ( and ) personal illusion is deconstructed with poignancy . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the strides treatise is told in earnest socio-histo-political ... ( and ) personal illusion is deconstructed with poignancy .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 207 ***********
+Sentence: {'text_a': "a psychological thriller with a genuinely spooky premise and an above-average cast , actor bill paxton 's directing debut is a creepy slice of gothic rural americana . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a psychological thriller with a genuinely debut premise and an above-average cast , actor bill paxton 's directing spooky is a creepy slice of gothic rural americana ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 209 ***********
+Sentence: {'text_a': "nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "nothing 's at lots , just a twisty double - cross you can smell a mile away -- still , the derivative nine queens is stake of fun ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 210 ***********
+Sentence: {'text_a': 'far more imaginative and ambitious than the trivial , cash-in features nickelodeon has made from its other animated tv series . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'far more imaginative and ambitious than the trivial , cash-in series nickelodeon has made from its other animated tv features .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 212 ***********
+Sentence: {'text_a': 'as the two leads , lathan and diggs are charming and have chemistry both as friends and lovers . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'as the two leads , lathan and diggs are charming and have chemistry both as lovers and friends .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 213 ***********
+Sentence: {'text_a': 'it provides an honest look at a community striving to anchor itself in new grounds . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it provides an honest look at a grounds striving to anchor itself in new community .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 217 ***********
+Sentence: {'text_a': 'affleck and jackson are good sparring partners . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'jackson and affleck are good sparring partners .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 218 ***********
+Sentence: {'text_a': "whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "whether you like rap music or loathe it , you ca n't deny either the tragic talent of two young men in the prime of their loss or the power of this movie ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 219 ***********
+Sentence: {'text_a': "not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "not since japanese filmmaker kurosawa akira 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 222 ***********
+Sentence: {'text_a': "brilliantly explores the conflict between following one 's heart and following the demands of tradition . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "brilliantly explores the heart between following one 's conflict and following the demands of tradition ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 223 ***********
+Sentence: {'text_a': 'despite the 2-d animation , the wild thornberrys movie makes for a surprisingly cinematic experience . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'despite the 2-d animation , the wild thornberrys experience makes for a surprisingly cinematic movie .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 226 ***********
+Sentence: {'text_a': 'the film tunes into a grief that could lead a man across centuries . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the film grief into a tunes that could lead a man across centuries .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 227 ***********
+Sentence: {'text_a': "dazzles with its fully-written characters , its determined stylishness ( which always relates to characters and story ) and johnny dankworth 's best soundtrack in years . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "stylishness with its fully-written characters , its determined dazzles ( which always relates to characters and story ) and johnny dankworth 's best soundtrack in years ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 228 ***********
+Sentence: {'text_a': "it 's a work by an artist so in control of both his medium and his message that he can improvise like a jazzman . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's a work by an artist so in jazzman of both his medium and his message that he can improvise like a control ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 229 ***********
+Sentence: {'text_a': "it 's the chemistry between the women and the droll scene-stealing wit and wolfish pessimism of anna chancellor that makes this `` two weddings and a funeral '' fun . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's the chemistry between the women and the anna scene - stealing wit and wolfish pessimism of droll chancellor that makes this ` ` two weddings and a funeral '' fun ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 231 ***********
+Sentence: {'text_a': 'a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a full world has been presented onscreen , not some resolution of carefully structured plot points building to a pat series .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 232 ***********
+Sentence: {'text_a': 'huston nails both the glad-handing and the choking sense of hollow despair . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'huston nails both the glad-handing and the choking hollow of sense despair .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 233 ***********
+Sentence: {'text_a': "one of the more intelligent children 's movies to hit theaters this year . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "one of the more intelligent children 's theaters to hit movies this year ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 235 ***********
+Sentence: {'text_a': "blanchett 's performance confirms her power once again . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "blanchett 's power confirms her performance once again ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 242 ***********
+Sentence: {'text_a': "the very definition of the ` small ' movie , but it is a good stepping stone for director sprecher . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the very definition of the ` small ' stone , but it is a good stepping movie for director sprecher ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 250 ***********
+Sentence: {'text_a': 'dense with characters and contains some thrilling moments . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'dense with moments and contains some thrilling characters .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 252 ***********
+Sentence: {'text_a': 'an entertaining , colorful , action-filled crime story with an intimate heart . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an entertaining , colorful , heart crime story with an intimate action-filled .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 253 ***********
+Sentence: {'text_a': 'for this reason and this reason only -- the power of its own steadfast , hoity-toity convictions -- chelsea walls deserves a medal . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'for this reason and this reason only -- the power of its own medal , hoity - toity convictions -- chelsea walls deserves a steadfast .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 254 ***********
+Sentence: {'text_a': "it just may inspire a few younger moviegoers to read stevenson 's book , which is a treasure in and of itself . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it just may inspire a few younger treasure to read stevenson 's book , which is a moviegoers in and of itself ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 256 ***********
+Sentence: {'text_a': "... with `` the bourne identity '' we return to the more traditional action genre . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "... with `` the genre identity '' we return to the more traditional action bourne ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+
+*********** Sample 257 ***********
+Sentence: {'text_a': "it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's so good that its relentless , polished movie can withstand not only inept school productions , but even oliver parker 's wit adaptation ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 259 ***********
+Sentence: {'text_a': 'a rewarding work of art for only the most patient and challenge-hungry moviegoers . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a rewarding work of moviegoers for only the most patient and challenge-hungry art .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 262 ***********
+Sentence: {'text_a': "at its best , queen is campy fun like the vincent price horror classics of the '60s . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "at its best , queen is campy fun like the vincent '60s horror classics of the price ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 263 ***********
+Sentence: {'text_a': "it 's a much more emotional journey than what shyamalan has given us in his past two movies , and gibson , stepping in for bruce willis , is the perfect actor to take us on the trip . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's a much more emotional journey than what bruce has given us in his past two movies , and gibson , stepping in for shyamalan willis , is the perfect actor to take us on the trip ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 264 ***********
+Sentence: {'text_a': 'the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the humor of the art combined with the quality and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 268 ***********
+Sentence: {'text_a': "at a time when half the so-called real movies are little more than live-action cartoons , it 's refreshing to see a cartoon that knows what it is , and knows the form 's history . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "at a time when half the so-called real movies are little more than live-action cartoons , it 's refreshing to see a form that knows what it is , and knows the cartoon 's history ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 269 ***********
+Sentence: {'text_a': "the old-world - meets-new mesh is incarnated in the movie 's soundtrack , a joyful effusion of disco bollywood that , by the end of monsoon wedding , sent my spirit soaring out of the theater . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the old-world - meets-new mesh is incarnated in the movie 's monsoon , a joyful effusion of disco bollywood that , by the end of soundtrack wedding , sent my spirit soaring out of the theater ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 270 ***********
+Sentence: {'text_a': 'jones ... does offer a brutal form of charisma . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'jones ... does offer a brutal charisma of form .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 272 ***********
+Sentence: {'text_a': 'travels a fascinating arc from hope and euphoria to reality and disillusionment . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'travels a fascinating arc from hope and reality to euphoria and disillusionment .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 274 ***********
+Sentence: {'text_a': 'fun , flip and terribly hip bit of cinematic entertainment . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'fun , flip and terribly entertainment bit of cinematic hip .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 276 ***********
+Sentence: {'text_a': 'the wild thornberrys movie is a jolly surprise . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the wild thornberrys surprise is a jolly movie .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 277 ***********
+Sentence: {'text_a': 'entertains by providing good , lively company . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'company by providing good , lively entertains .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 278 ***********
+Sentence: {'text_a': "a densely constructed , highly referential film , and an audacious return to form that can comfortably sit among jean-luc godard 's finest work . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a densely constructed , highly referential film , and an audacious work to form that can comfortably sit among jean-luc godard 's finest return ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 280 ***********
+Sentence: {'text_a': 'the story and structure are well-honed . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the structure and story are well - honed .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 281 ***********
+Sentence: {'text_a': 'macdowell , whose wifty southern charm has anchored lighter affairs ... brings an absolutely riveting conviction to her role . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'wifty , whose macdowell southern charm has anchored lighter affairs ... brings an absolutely riveting conviction to her role .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 282 ***********
+Sentence: {'text_a': 'an intriguing cinematic omnibus and round-robin that occasionally is more interesting in concept than in execution . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an intriguing cinematic execution and round-robin that occasionally is more interesting in concept than in omnibus .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 283 ***********
+Sentence: {'text_a': 'the second coming of harry potter is a film far superior to its predecessor . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the second coming of harry potter is a predecessor far superior to its film .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 284 ***********
+Sentence: {'text_a': "if you can stomach the rough content , it 's worth checking out for the performances alone . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "if you can stomach the rough performances , it 's worth checking out for the content alone ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 286 ***********
+Sentence: {'text_a': 'the best film about baseball to hit theaters since field of dreams . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the best film about theaters to hit baseball since field of dreams .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 287 ***********
+Sentence: {'text_a': 'it is great summer fun to watch arnold and his buddy gerald bounce off a quirky cast of characters . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it is great summer fun to watch buddy and his arnold gerald bounce off a quirky cast of characters .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 289 ***********
+Sentence: {'text_a': "awesome creatures , breathtaking scenery , and epic battle scenes add up to another ` spectacular spectacle . ' "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "awesome scenery , breathtaking creatures , and epic battle scenes add up to another ` spectacular spectacle . '"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 290 ***********
+Sentence: {'text_a': 'all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'all - in - all , the film is an enjoyable and frankly told people of a tale who live among us , but not necessarily with us .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 297 ***********
+Sentence: {'text_a': 'liotta put on 30 pounds for the role , and has completely transformed himself from his smooth , goodfellas image . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'liotta put on 30 pounds for the goodfellas , and has completely transformed himself from his smooth , role image .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 298 ***********
+Sentence: {'text_a': 'a beguiling splash of pastel colors and prankish comedy from disney . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a beguiling prankish of pastel colors and splash comedy from disney .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 303 ***********
+Sentence: {'text_a': 'the chateau cleverly probes the cross-cultural differences between gauls and yanks . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the gauls cleverly probes the cross-cultural differences between chateau and yanks .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 304 ***********
+Sentence: {'text_a': "broomfield turns his distinctive ` blundering ' style into something that could really help clear up the case . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "broomfield turns his distinctive ` blundering ' case into something that could really help clear up the style ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 305 ***********
+Sentence: {'text_a': 'a pleasant enough romance with intellectual underpinnings , the kind of movie that entertains even as it turns maddeningly predictable . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a pleasant enough movie with intellectual underpinnings , the kind of romance that entertains even as it turns maddeningly predictable .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 306 ***********
+Sentence: {'text_a': "what really makes it special is that it pulls us into its world , gives us a hero whose suffering and triumphs we can share , surrounds him with interesting characters and sends us out of the theater feeling we 've shared a great adventure . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "what really makes it special is that it pulls us into its world , gives us a suffering whose hero and triumphs we can share , surrounds him with interesting characters and sends us out of the theater feeling we ' ve shared a great adventure ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 308 ***********
+Sentence: {'text_a': 'having had the good sense to cast actors who are , generally speaking , adored by the movie-going public , khouri then gets terrific performances from them all . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'having had the good sense to cast movie-going who are , generally speaking , adored by the actors public , khouri then gets terrific performances from them all .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 311 ***********
+Sentence: {'text_a': 'if you enjoy more thoughtful comedies with interesting conflicted characters ; this one is for you . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'if you enjoy more thoughtful characters with interesting conflicted comedies ; this one is for you .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 313 ***********
+Sentence: {'text_a': 'it deserves to be seen by anyone with even a passing interest in the events shaping the world beyond their own horizons . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it deserves to be seen by anyone with even a passing interest in the world shaping the events beyond their own horizons .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 316 ***********
+Sentence: {'text_a': 'there is a fabric of complex ideas here , and feelings that profoundly deepen them . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'there is a fabric of complex feelings here , and ideas that profoundly deepen them .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 317 ***********
+Sentence: {'text_a': "this tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , nicholas meyer 's star trek vi : the undiscovered country . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "this tenth feature is a big deal , indeed -- at least the third - best , and maybe even a notch above the previous runner-up , nicholas trek 's star meyer vi : the undiscovered country ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 323 ***********
+Sentence: {'text_a': '( næs ) directed the stage version of elling , and gets fine performances from his two leads who originated the characters on stage . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '( næs ) directed the elling version of stage , and gets fine performances from his two leads who originated the characters on stage .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 324 ***********
+Sentence: {'text_a': 'a swashbuckling tale of love , betrayal , revenge and above all , faith . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a swashbuckling tale of love , revenge , betrayal and above all , faith .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 329 ***********
+Sentence: {'text_a': 'displaying about equal amounts of naiveté , passion and talent , beneath clouds establishes sen as a filmmaker of considerable potential . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'displaying about equal amounts of sen , passion and talent , beneath clouds establishes naiveté as a filmmaker of considerable potential .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 331 ***********
+Sentence: {'text_a': 'as a first-time director , paxton has tapped something in himself as an actor that provides frailty with its dark soul . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'as a frailty director , paxton has tapped something in himself as an actor that provides first-time with its dark soul .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 335 ***********
+Sentence: {'text_a': 'altogether , this is successful as a film , while at the same time being a most touching reconsideration of the familiar masterpiece . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'altogether , this is successful as a masterpiece , while at the same time being a most touching reconsideration of the familiar film .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 338 ***********
+Sentence: {'text_a': 'without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled complex and interrelationships morality .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 340 ***********
+Sentence: {'text_a': "for the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "for the most solutions , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick part ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 341 ***********
+Sentence: {'text_a': "the special effects and many scenes of weightlessness look as good or better than in the original , while the oscar-winning sound and james horner 's rousing score make good use of the hefty audio system . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the special effects and many scenes of oscar-winning look as good or better than in the original , while the weightlessness sound and james horner 's rousing score make good use of the hefty audio system ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 350 ***********
+Sentence: {'text_a': "with tightly organized efficiency , numerous flashbacks and a constant edge of tension , miller 's film is one of 2002 's involvingly adult surprises . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "with tightly organized adult , numerous flashbacks and a constant edge of tension , miller 's film is one of 2002 's involvingly efficiency surprises ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 352 ***********
+Sentence: {'text_a': 'a warm but realistic meditation on friendship , family and affection . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a warm but realistic meditation on friendship , affection and family .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 356 ***********
+Sentence: {'text_a': 'director andrew niccol ... demonstrates a wry understanding of the quirks of fame . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'director andrew niccol ... demonstrates a wry understanding of the fame of quirks .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 358 ***********
+Sentence: {'text_a': 'thekids will probably stay amused at the kaleidoscope of big , colorful characters . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'kaleidoscope will probably stay amused at the thekids of big , colorful characters .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 363 ***********
+Sentence: {'text_a': "whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "whether writer-director anne fontaine 's film is a ghost memory , an account of a nervous breakdown , a trip down story lane , all three or none of the above , it is as seductive as it is haunting ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 366 ***********
+Sentence: {'text_a': "it 's worth seeing just on the basis of the wisdom , and at times , the startling optimism , of the children . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's worth seeing just on the basis of the children , and at times , the startling optimism , of the wisdom ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 367 ***********
+Sentence: {'text_a': 'despite its title , punch-drunk love is never heavy-handed . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'despite its punch-drunk , title love is never heavy - handed .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 369 ***********
+Sentence: {'text_a': 'the film may appear naked in its narrative form ... but it goes deeper than that , to fundamental choices that include the complexity of the catholic doctrine '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the choices may appear naked in its narrative form ... but it goes deeper than that , to fundamental film that include the complexity of the catholic doctrine'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 372 ***********
+Sentence: {'text_a': 'zhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'zhang ... has done an amazing cast of getting realistic performances from his mainly nonprofessional job .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 374 ***********
+Sentence: {'text_a': "maud and roland 's search for an unknowable past makes for a haunting literary detective story , but labute pulls off a neater trick in possession : he makes language sexy . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "maud and roland 's search for an unknowable past makes for a haunting literary detective story , but trick pulls off a neater labute in possession : he makes language sexy ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 378 ***********
+Sentence: {'text_a': 'what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'what distinguishes concern of favor from countless other thrillers is its underlying time with the consequences of words and with the complicated emotions fueling terrorist acts .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 381 ***********
+Sentence: {'text_a': 'it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it has gender to spare , and unlike many romantic comedies , it does not alienate either charm in the audience .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 382 ***********
+Sentence: {'text_a': "an operatic , sprawling picture that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute length . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "an operatic , sprawling length that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute picture ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 383 ***********
+Sentence: {'text_a': 'a giggle a minute . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a minute a giggle .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 384 ***********
+Sentence: {'text_a': 'uses sharp humor and insight into human nature to examine class conflict , adolescent yearning , the roots of friendship and sexual identity . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'uses sharp humor and insight into human nature to examine class conflict , adolescent identity , the roots of friendship and sexual yearning .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 387 ***********
+Sentence: {'text_a': "it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's one heck of a relationship study -- not of hearst or davies but of the unique character between them ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 388 ***********
+Sentence: {'text_a': "it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war premise -- of its datedness ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 390 ***********
+Sentence: {'text_a': 'a good piece of work more often than not . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a good work of piece more often than not .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 391 ***********
+Sentence: {'text_a': "while the ideas about techno-saturation are far from novel , they 're presented with a wry dark humor . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "while the humor about techno-saturation are far from novel , they 're presented with a wry dark ideas ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 392 ***********
+Sentence: {'text_a': "charles ' entertaining film chronicles seinfeld 's return to stand-up comedy after the wrap of his legendary sitcom , alongside wannabe comic adams ' attempts to get his shot at the big time . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "charles ' entertaining seinfeld chronicles film 's return to stand-up comedy after the wrap of his legendary sitcom , alongside wannabe comic adams ' attempts to get his shot at the big time ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 393 ***********
+Sentence: {'text_a': 'an exhilarating futuristic thriller-noir , minority report twists the best of technology around a gripping story , delivering a riveting , pulse intensifying escapist adventure of the first order '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an exhilarating futuristic minority - noir , thriller report twists the best of technology around a gripping story , delivering a riveting , pulse intensifying escapist adventure of the first order'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 396 ***********
+Sentence: {'text_a': 'a breezy romantic comedy that has the punch of a good sitcom , while offering exceptionally well-detailed characters . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a breezy romantic sitcom that has the punch of a good comedy , while offering exceptionally well-detailed characters .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 399 ***********
+Sentence: {'text_a': 'the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the lion success was a roaring king when it was released eight years ago , but on imax it seems better , not just bigger .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 401 ***********
+Sentence: {'text_a': "a marvel like none you 've seen . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a none like marvel you ' ve seen ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 403 ***********
+Sentence: {'text_a': 'immersing us in the endlessly inventive , fiercely competitive world of hip-hop djs , the project is sensational and revelatory , even if scratching makes you itch . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'immersing us in the endlessly inventive , fiercely competitive hip-hop of world djs , the project is sensational and revelatory , even if scratching makes you itch .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 404 ***********
+Sentence: {'text_a': 'the movie has an infectious exuberance that will engage anyone with a passing interest in the skate/surf culture , the l.a. beach scene and the imaginative ( and sometimes illegal ) ways kids can make a playground out of the refuse of adults . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the movie has an infectious exuberance that will engage anyone with a passing interest in the skate/surf culture , the l.a. beach scene and the imaginative ( and sometimes illegal ) ways playground can make a kids out of the refuse of adults .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 405 ***********
+Sentence: {'text_a': "yakusho and shimizu ... create engaging characterizations in imamura 's lively and enjoyable cultural mix . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "shimizu and yakusho ... create engaging characterizations in imamura 's lively and enjoyable cultural mix ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 406 ***********
+Sentence: {'text_a': "this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "this is wild surreal stuff , but brilliant and the none just kind of sits there and lets you look at this and its like you 're going from one room to the next and camera of them have any relation to the other ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 409 ***********
+Sentence: {'text_a': 'good car chases , great fight scenes , and a distinctive blend of european , american and asian influences . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'good car chases , great fight european , and a distinctive blend of scenes , american and asian influences .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 411 ***********
+Sentence: {'text_a': 'even in its most tedious scenes , russian ark is mesmerizing . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'even in its most tedious ark , russian scenes is mesmerizing .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 413 ***********
+Sentence: {'text_a': 'generally , clockstoppers will fulfill your wildest fantasies about being a different kind of time traveler , while happily killing 94 minutes . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'generally , clockstoppers will fulfill your traveler fantasies about being a different kind of time wildest , while happily killing 94 minutes .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 416 ***********
+Sentence: {'text_a': 'a moody , multi-dimensional love story and sci-fi mystery , solaris is a thought-provoking , haunting film that allows the seeds of the imagination to germinate . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a moody , multi-dimensional love seeds and sci-fi mystery , solaris is a thought - provoking , haunting film that allows the story of the imagination to germinate .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 417 ***********
+Sentence: {'text_a': "not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "not only are the special effects and narrative flow much improved , and harry radcliffe more emotionally assertive this time around as daniel , but the film conjures the magic of author j.k. rowling 's books ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 419 ***********
+Sentence: {'text_a': '( t ) his beguiling belgian fable , very much its own droll and delicate little film , has some touching things to say about what is important in life and why . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '( t ) his beguiling droll fable , very much its own belgian and delicate little film , has some touching things to say about what is important in life and why .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 421 ***********
+Sentence: {'text_a': "( chaiken 's ) talent lies in an evocative , accurate observation of a distinctive milieu and in the lively , convincing dialogue she creates for her characters . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "( chaiken 's ) characters lies in an evocative , accurate observation of a distinctive milieu and in the lively , convincing dialogue she creates for her talent ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 423 ***********
+Sentence: {'text_a': "it inspires a continuing and deeply satisfying awareness of the best movies as monumental ` picture shows . ' "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it inspires a continuing and deeply satisfying movies of the best awareness as monumental ` picture shows . '"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 424 ***********
+Sentence: {'text_a': "featuring a dangerously seductive performance from the great daniel auteuil , `` sade '' covers the same period as kaufmann 's `` quills '' with more unsettlingly realistic results . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "featuring a dangerously seductive performance from the great daniel sade , ` ` auteuil '' covers the same period as kaufmann 's `` quills '' with more unsettlingly realistic results ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 425 ***********
+Sentence: {'text_a': 'gives you the steady pulse of life in a beautiful city viewed through the eyes of a character who , in spite of tragic loss and increasing decrepitude , knows in his bones that he is one of the luckiest men alive . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'gives you the steady pulse of life in a beautiful city viewed through the eyes of a character who , in spite of tragic loss and increasing men , knows in his bones that he is one of the luckiest decrepitude alive .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 426 ***********
+Sentence: {'text_a': "if you are an actor who can relate to the search for inner peace by dramatically depicting the lives of others onstage , then esther 's story is a compelling quest for truth . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "if you are an quest who can relate to the search for inner peace by dramatically depicting the lives of others onstage , then esther 's story is a compelling actor for truth ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 431 ***********
+Sentence: {'text_a': 'the inspirational screenplay by mike rich covers a lot of ground , perhaps too much , but ties things together , neatly , by the end . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the inspirational screenplay by mike rich covers a end of ground , perhaps too much , but ties things together , neatly , by the lot .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 432 ***********
+Sentence: {'text_a': 'ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of settings and lives that might otherwise seem drab and sordid .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 435 ***********
+Sentence: {'text_a': 'you will emerge with a clearer view of how the gears of justice grind on and the death report comes to share airtime alongside the farm report . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'you will emerge with a clearer view of how the gears of justice grind on and the death report comes to share farm alongside the airtime report .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 436 ***********
+Sentence: {'text_a': "thanks to haynes ' absolute control of the film 's mood , and buoyed by three terrific performances , far from heaven actually pulls off this stylistic juggling act . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "thanks to haynes ' absolute control of the film 's juggling , and buoyed by three terrific performances , far from heaven actually pulls off this stylistic mood act ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 438 ***********
+Sentence: {'text_a': "belongs to daniel day-lewis as much as it belongs to martin scorsese ; it 's a memorable performance in a big , brassy , disturbing , unusual and highly successful film . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "belongs to daniel martin as much as it belongs to day-lewis scorsese ; it 's a memorable performance in a big , brassy , disturbing , unusual and highly successful film ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 442 ***********
+Sentence: {'text_a': "it 's a stunning lyrical work of considerable force and truth . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's a stunning lyrical force of considerable work and truth ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 443 ***********
+Sentence: {'text_a': "while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "while undisputed is n't exactly a high , it is a gripping , hill little movie that takes mr. tidy higher than he 's been in a while ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 445 ***********
+Sentence: {'text_a': "cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "cq 's reflection of artists and the cinema of love - and -self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 446 ***********
+Sentence: {'text_a': "even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "even if you do n't think ( kissinger 's ) any more guilty of criminal fun than most contemporary statesmen , he 'd sure make a courtroom trial great activity to watch ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 447 ***********
+Sentence: {'text_a': 'dazzling in its complexity , disturbing for its extraordinary themes , the piano teacher is a film that defies categorisation . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'dazzling in its complexity , disturbing for its extraordinary themes , the film teacher is a piano that defies categorisation .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 448 ***********
+Sentence: {'text_a': 'a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002 . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a literate presentation that wonderfully weaves a murderous rage in 1873 with murderous event in 2002 .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 451 ***********
+Sentence: {'text_a': "a cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a cartoon that 's truly cinematic in scope , and a herbivore that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged story ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 458 ***********
+Sentence: {'text_a': 'light years / several warp speeds / levels and levels of dilithium crystals better than the pitiful insurrection . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'light years / several warp speeds / levels and levels of insurrection crystals better than the pitiful dilithium .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 459 ***********
+Sentence: {'text_a': "it 's about following your dreams , no matter what your parents think . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's about following your parents , no matter what your dreams think ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 461 ***********
+Sentence: {'text_a': "anchored by friel and williams 's exceptional performances , the film 's power lies in its complexity . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "anchored by friel and williams 's exceptional film , the performances 's power lies in its complexity ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 462 ***********
+Sentence: {'text_a': 'unlike the speedy wham-bam effect of most hollywood offerings , character development -- and more importantly , character empathy -- is at the heart of italian for beginners . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'unlike the speedy wham-bam effect of most hollywood empathy , character development -- and more importantly , character offerings -- is at the heart of italian for beginners .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 467 ***********
+Sentence: {'text_a': "and that 's a big part of why we go to the movies . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "and that 's a big movies of why we go to the part ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 468 ***********
+Sentence: {'text_a': 'crackerjack entertainment -- nonstop romance , music , suspense and action . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'crackerjack entertainment -- nonstop romance , action , suspense and music .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 469 ***********
+Sentence: {'text_a': 'the minor figures surrounding ( bobby ) ... form a gritty urban mosaic . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the minor figures surrounding ( urban ) ... form a gritty bobby mosaic .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 470 ***********
+Sentence: {'text_a': 'a poignant and compelling story about relationships , food of love takes us on a bumpy but satisfying journey of the heart . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a poignant and compelling story about relationships , food of love takes us on a heart but satisfying journey of the bumpy .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 471 ***********
+Sentence: {'text_a': 'a movie that successfully crushes a best selling novel into a timeframe that mandates that you avoid the godzilla sized soda . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a godzilla that successfully crushes a best selling novel into a timeframe that mandates that you avoid the movie sized soda .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 472 ***********
+Sentence: {'text_a': "lapaglia 's ability to convey grief and hope works with weaver 's sensitive reactions to make this a two-actor master class . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "lapaglia 's ability to convey weaver and hope works with grief 's sensitive reactions to make this a two - actor master class ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 475 ***********
+Sentence: {'text_a': 'this is an egotistical endeavor from the daughter of horror director dario argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'this is an egotistical endeavor from the daughter of dario director horror argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 478 ***********
+Sentence: {'text_a': 'not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'not far beneath the things , this reconfigured tale asks disturbing questions about those surface we expect from military epics .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 479 ***********
+Sentence: {'text_a': "michael gerbosi 's script is economically packed with telling scenes . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "michael gerbosi 's scenes is economically packed with telling script ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 480 ***********
+Sentence: {'text_a': "so refreshingly incisive is grant that for the first time he 'll probably appeal more to guys than to their girlfriends who drag them to this movie for the hugh factor . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "so refreshingly incisive is grant that for the first time he 'll probably appeal more to movie than to their girlfriends who drag them to this guys for the hugh factor ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 483 ***********
+Sentence: {'text_a': 'a romantic comedy enriched by a sharp eye for manners and mores . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a romantic eye enriched by a sharp comedy for manners and mores .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 484 ***********
+Sentence: {'text_a': 'the fly-on-the-wall method used to document rural french school life is a refreshing departure from the now more prevalent technique of the docu-makers being a visible part of their work . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the fly - on - the-wall technique used to document rural french school life is a refreshing departure from the now more prevalent method of the docu-makers being a visible part of their work .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 485 ***********
+Sentence: {'text_a': 'rare birds has more than enough charm to make it memorable . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'charm birds has more than enough rare to make it memorable .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 488 ***********
+Sentence: {'text_a': 'it haunts , horrifies , startles and fascinates ; it is impossible to look away . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it haunts , horrifies , fascinates and startles ; it is impossible to look away .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 490 ***********
+Sentence: {'text_a': 'a superbly acted and funny/gritty fable of the humanizing of one woman at the hands of the unseen forces of fate . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a superbly acted and funny/gritty fable of the humanizing of one woman at the forces of the unseen hands of fate .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 493 ***********
+Sentence: {'text_a': "`` mostly martha '' is a bright , light modern day family parable that wears its heart on its sleeve for all to see . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "` ` mostly martha '' is a bright , light modern day heart parable that wears its family on its sleeve for all to see ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 494 ***********
+Sentence: {'text_a': 'i just loved every minute of this film . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'i just loved every film of this minute .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.08
+
+*********** Sample 497 ***********
+Sentence: {'text_a': 'a simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a simple , but gritty and well-acted ensemble country that encompasses a potent metaphor for a drama still dealing with its fascist past .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 501 ***********
+Sentence: {'text_a': 'the most compelling wiseman epic of recent years . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the most compelling years epic of recent wiseman .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 513 ***********
+Sentence: {'text_a': "so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! ' "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "so unassuming and pure of heart , you ca n't help but warmly extend your yell and arms ` safe ! '"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 517 ***********
+Sentence: {'text_a': 'one of the best films of the year with its exploration of the obstacles to happiness faced by five contemporary individuals ... a psychological masterpiece . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'one of the best films of the happiness with its exploration of the obstacles to year faced by five contemporary individuals ... a psychological masterpiece .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 518 ***********
+Sentence: {'text_a': "although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "although german cuisine does not come readily to mind when considering the world 's best cooking , mostly martha could make deutchland a popular destination for hungry tourists ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 522 ***********
+Sentence: {'text_a': 'with rabbit-proof fence , noyce has tailored an epic tale into a lean , economical movie . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'with movie fence , noyce has tailored an epic tale into a lean , economical rabbit-proof .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 524 ***********
+Sentence: {'text_a': 'there are some wonderfully fresh moments that smooth the moral stiffness with human kindness and hopefulness . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'there are some wonderfully fresh stiffness that smooth the moral moments with human kindness and hopefulness .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 526 ***********
+Sentence: {'text_a': "feature debuter d.j. caruso directs a crack ensemble cast , bringing screenwriter tony gayton 's narcotics noir to life . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "feature debuter gayton caruso directs a crack ensemble cast , bringing screenwriter tony d.j. 's narcotics noir to life ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 529 ***********
+Sentence: {'text_a': "seldahl 's barbara is a precise and moving portrait of someone whose world is turned upside down , first by passion and then by illness . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "seldahl 's barbara is a precise and moving portrait of someone whose illness is turned upside down , first by passion and then by world ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 536 ***********
+Sentence: {'text_a': 'though only 60 minutes long , the film is packed with information and impressions . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'though only 60 minutes long , the impressions is packed with information and film .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 546 ***********
+Sentence: {'text_a': "... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "... a beings we have n't seen on the big screen before , and it 's a story that we as americans , and human story , should know ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 547 ***********
+Sentence: {'text_a': "if your taste runs to ` difficult ' films you absolutely ca n't miss it . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "if your films runs to ` difficult ' taste you absolutely ca n't miss it ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 551 ***********
+Sentence: {'text_a': 'the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the terrific and bewilderingly underrated campbell star gives a scott performance that is nothing short of mesmerizing .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 552 ***********
+Sentence: {'text_a': 'building slowly and subtly , the film , sporting a breezy spontaneity and realistically drawn characterizations , develops into a significant character study that is both moving and wise . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'building slowly and subtly , the spontaneity , sporting a breezy film and realistically drawn characterizations , develops into a significant character study that is both moving and wise .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 561 ***********
+Sentence: {'text_a': 'first-time writer-director serry shows a remarkable gift for storytelling with this moving , effective little film . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'first-time writer-director serry shows a remarkable storytelling for gift with this moving , effective little film .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 562 ***********
+Sentence: {'text_a': 'puts a human face on a land most westerners are unfamiliar with . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'puts a human face on a westerners most land are unfamiliar with .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 564 ***********
+Sentence: {'text_a': 'ahhhh ... revenge is sweet ! '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'revenge ... ahhhh is sweet !'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 565 ***********
+Sentence: {'text_a': 'highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'highbrow self-appointed follow-up of culture need not apply , but those who loved cool as ice have at last found a worthy guardians .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 566 ***********
+Sentence: {'text_a': 'nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'nine queens is not only than a frighteningly capable genre and debut piece , but also a snapshot of a dangerous political situation on the verge of coming to a head .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 568 ***********
+Sentence: {'text_a': 'the performances take the movie to a higher level . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the performances take the level to a higher movie .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.08
+
+*********** Sample 570 ***********
+Sentence: {'text_a': '... takes the beauty of baseball and melds it with a story that could touch anyone regardless of their familiarity with the sport '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '... takes the beauty of story and melds it with a baseball that could touch anyone regardless of their familiarity with the sport'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 571 ***********
+Sentence: {'text_a': 'against all odds in heaven and hell , it creeped me out just fine . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'against all odds in hell and heaven , it creeped me out just fine .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 573 ***********
+Sentence: {'text_a': "there 's really only one good idea in this movie , but the director runs with it and presents it with an unforgettable visual panache . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "there 's really only one good idea in this movie , but the panache runs with it and presents it with an unforgettable visual director ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 578 ***********
+Sentence: {'text_a': "kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "kinnear does n't aim for our depth , but rather delivers a performance of striking skill and sympathy ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 579 ***********
+Sentence: {'text_a': 'few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'few films capture so perfectly the hopes and fields of little boys on baseball dreams as well as the grown men who sit in the stands .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 581 ***********
+Sentence: {'text_a': 'for the most part stevens glides through on some solid performances and witty dialogue . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'for the most stevens part glides through on some solid performances and witty dialogue .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 583 ***********
+Sentence: {'text_a': "writer-director 's mehta 's effort has tons of charm and the whimsy is in the mixture , the intoxicating masala , of cultures and film genres . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "writer-director 's mehta 's masala has tons of charm and the whimsy is in the mixture , the intoxicating effort , of cultures and film genres ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 585 ***********
+Sentence: {'text_a': "a taut psychological thriller that does n't waste a moment of its two-hour running time . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a taut psychological moment that does n't waste a thriller of its two-hour running time ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 588 ***********
+Sentence: {'text_a': 'still , as a visual treat , the film is almost unsurpassed . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'still , as a visual film , the treat is almost unsurpassed .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 591 ***********
+Sentence: {'text_a': 'offers much to enjoy ... and a lot to mull over in terms of love , loyalty and the nature of staying friends . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'offers much to enjoy ... and a lot to mull over in love of terms , loyalty and the nature of staying friends .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 593 ***********
+Sentence: {'text_a': "my wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it 's virtually its own hollywood remake . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "my wife is an actress is an utterly charming french comedy that feels so american in hollywood and style it 's virtually its own sensibility remake ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 595 ***********
+Sentence: {'text_a': 'an important movie , a reminder of the power of film to move us and to make us examine our values . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an important reminder , a movie of the power of film to move us and to make us examine our values .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 596 ***********
+Sentence: {'text_a': 'the magic of the film lies not in the mysterious spring but in the richness of its performances . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the performances of the film lies not in the mysterious spring but in the richness of its magic .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 599 ***********
+Sentence: {'text_a': 'while locals will get a kick out of spotting cleveland sites , the rest of the world will enjoy a fast-paced comedy with quirks that might make the award-winning coen brothers envious . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'while world will get a kick out of spotting cleveland sites , the rest of the locals will enjoy a fast-paced comedy with quirks that might make the award-winning coen brothers envious .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 607 ***********
+Sentence: {'text_a': 'birthday girl is an amusing joy ride , with some surprisingly violent moments . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'birthday girl is an amusing moments ride , with some surprisingly violent joy .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 611 ***********
+Sentence: {'text_a': 'like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'like lil is a winner for kids , and no doubt a winner for mike bow wow , who can now add movies to the list of things he does well .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 614 ***********
+Sentence: {'text_a': "it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it will grip even viewers who are n't interested in rap , as it cuts to the way of american society in an unnerving heart ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 615 ***********
+Sentence: {'text_a': "the film is beautifully mounted , but , more to the point , the issues are subtly presented , managing to walk a fine line with regard to the question of joan 's madness . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the film is beautifully mounted , but , more to the point , the issues are subtly presented , managing to walk a fine regard with line to the question of joan 's madness ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 616 ***********
+Sentence: {'text_a': "and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "and if you 're not nearly moved to scenes by a couple of tears , you ' ve got ice water in your veins ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.05
+
+*********** Sample 618 ***********
+Sentence: {'text_a': 'preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'preaches to two completely different accomplishment at the same time , which is a pretty amazing choirs .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 621 ***********
+Sentence: {'text_a': 'drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'drops you into a dizzying , volatile , situation of a pressure-cooker that quickly snowballs out of control , while focusing on the what much more than the why .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.04
+
+*********** Sample 622 ***********
+Sentence: {'text_a': 'atom egoyan has conjured up a multilayered work that tackles any number of fascinating issues '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'atom egoyan has conjured up a multilayered work that tackles any issues of fascinating number'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 623 ***********
+Sentence: {'text_a': 'slick piece of cross-promotion . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'slick cross-promotion of piece .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.08
+
+*********** Sample 625 ***********
+Sentence: {'text_a': 'majidi is an unconventional storyteller , capable of finding beauty in the most depressing places . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'majidi is an unconventional beauty , capable of finding storyteller in the most depressing places .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 626 ***********
+Sentence: {'text_a': "the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the hindsight is n't just hilarious : it 's witty and inventive , too , and in movie , it is n't even all that dumb ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 627 ***********
+Sentence: {'text_a': 'filmmakers who can deftly change moods are treasures and even marvels . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'treasures who can deftly change moods are filmmakers and even marvels .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 628 ***********
+Sentence: {'text_a': 'the vitality of the actors keeps the intensity of the film high , even as the strafings blend together . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the strafings of the actors keeps the intensity of the film high , even as the vitality blend together .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 631 ***********
+Sentence: {'text_a': 'true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'true tale of auschwitz -- and complicity -- at courage is a harrowing drama that tries to tell of the unspeakable .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.0
+
+*********** Sample 632 ***********
+Sentence: {'text_a': 'a study in shades of gray , offering itself up in subtle plot maneuvers ... '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a maneuvers in shades of gray , offering itself up in subtle plot study ...'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.08
+
+*********** Sample 638 ***********
+Sentence: {'text_a': 'an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an effectively creepy , fear-inducing ( not fear-reducing ) chain from japanese director hideo nakata , who takes the superstitious curse on film letters and actually applies it .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 642 ***********
+Sentence: {'text_a': "for the first time in years , de niro digs deep emotionally , perhaps because he 's been stirred by the powerful work of his co-stars . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "for the first time in years , niro de digs deep emotionally , perhaps because he 's been stirred by the powerful work of his co-stars ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 643 ***********
+Sentence: {'text_a': 'not since tom cruise in risky business has an actor made such a strong impression in his underwear . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'not since tom cruise in risky business has an underwear made such a strong impression in his actor .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.01
+
+*********** Sample 644 ***********
+Sentence: {'text_a': "an interesting story with a pertinent ( cinematically unique ) message , told fairly well and scored to perfection , i found myself struggling to put my finger on that elusive `` missing thing . '' "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "an interesting story with a pertinent ( cinematically unique ) message , told fairly well and scored to perfection , i found myself struggling to put my elusive on that finger `` missing thing . ''"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.06
+
+*********** Sample 653 ***********
+Sentence: {'text_a': 'director of photography benoit delhomme shot the movie in delicious colors , and the costumes and sets are grand . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'director of photography benoit delhomme shot the costumes in delicious colors , and the movie and sets are grand .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 659 ***********
+Sentence: {'text_a': '( a ) n utterly charming and hilarious film that reminded me of the best of the disney comedies from the 60s . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '( a ) n utterly charming and hilarious film that reminded me of the best of the 60s comedies from the disney .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 662 ***********
+Sentence: {'text_a': 'a rigorously structured and exquisitely filmed drama about a father and son connection that is a brief shooting star of love . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a rigorously structured and exquisitely filmed drama about a shooting and son connection that is a brief father star of love .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 665 ***********
+Sentence: {'text_a': "worth watching for dong jie 's performance -- and for the way it documents a culture in the throes of rapid change . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "worth watching for dong jie 's change -- and for the way it documents a culture in the throes of rapid performance ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 666 ***********
+Sentence: {'text_a': 'a poignant , artfully crafted meditation on mortality . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a poignant , artfully crafted mortality on meditation .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 668 ***********
+Sentence: {'text_a': "vera 's three actors -- mollà , gil and bardem -- excel in insightful , empathetic performances . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "vera 's three actors -- gil , mollà and bardem -- excel in insightful , empathetic performances ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 670 ***********
+Sentence: {'text_a': "( grant 's ) bumbling magic takes over the film , and it turns out to be another winning star vehicle . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "( grant 's ) bumbling magic takes over the star , and it turns out to be another winning film vehicle ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 671 ***********
+Sentence: {'text_a': 'it gets onto the screen just about as much of the novella as one could reasonably expect , and is engrossing and moving in its own right . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it gets onto the novella just about as much of the screen as one could reasonably expect , and is engrossing and moving in its own right .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 673 ***********
+Sentence: {'text_a': "the piece plays as well as it does thanks in large measure to anspaugh 's three lead actresses . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the piece plays as well as it does measure in large thanks to anspaugh 's three lead actresses ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 680 ***********
+Sentence: {'text_a': 'my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'my big fat greek stereotypes uses wedding in a delightful blend of sweet romance and lovingly dished out humor .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 682 ***********
+Sentence: {'text_a': "oscar wilde 's masterpiece , the importance of being earnest , may be the best play of the 19th century . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "oscar wilde 's masterpiece , the century of being earnest , may be the best play of the 19th importance ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 683 ***********
+Sentence: {'text_a': 'jose campanella delivers a loosely autobiographical story brushed with sentimentality but brimming with gentle humor , bittersweet pathos , and lyric moments that linger like snapshots of memory . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'jose campanella delivers a loosely autobiographical story brushed with lyric but brimming with gentle humor , bittersweet pathos , and sentimentality moments that linger like snapshots of memory .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 684 ***********
+Sentence: {'text_a': 'but it still jingles in the pocket . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'but it still pocket in the jingles .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.02
+
+*********** Sample 685 ***********
+Sentence: {'text_a': "it 's a demented kitsch mess ( although the smeary digital video does match the muddled narrative ) , but it 's savvy about celebrity and has more guts and energy than much of what will open this year . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's a demented kitsch mess ( although the smeary digital year does match the muddled narrative ) , but it 's savvy about celebrity and has more guts and energy than much of what will open this video ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 690 ***********
+Sentence: {'text_a': "what 's surprising about full frontal is that despite its overt self-awareness , parts of the movie still manage to break past the artifice and thoroughly engage you . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "what 's surprising about full movie is that despite its overt self-awareness , parts of the frontal still manage to break past the artifice and thoroughly engage you ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.04
+
+*********** Sample 695 ***********
+Sentence: {'text_a': "it 's hard to imagine alan arkin being better than he is in this performance . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's hard to imagine alan performance being better than he is in this arkin ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 696 ***********
+Sentence: {'text_a': 'the film will play equally well on both the standard and giant screens . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the screens will play equally well on both the standard and giant film .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 697 ***********
+Sentence: {'text_a': '... a fun little timewaster , helped especially by the cool presence of jean reno . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '... a fun little presence , helped especially by the cool timewaster of jean reno .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 700 ***********
+Sentence: {'text_a': "may be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "may be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie new has once again reinvented itself for a phenomenon generation ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 703 ***********
+Sentence: {'text_a': "it 's a lovely film with lovely performances by buy and accorsi . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it 's a lovely performances with lovely film by buy and accorsi ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 704 ***********
+Sentence: {'text_a': "there 's something auspicious , and daring , too , about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to unnerve the majority . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "there 's something auspicious , and daring , too , about the artistic instinct that pushes a majority-oriented director like steven a.i to follow spielberg . with this challenging report so liable to unnerve the majority ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 706 ***********
+Sentence: {'text_a': "while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "while its careful film and seemingly opaque story may not satisfy every moviegoer 's appetite , the pace 's final scene is soaringly , transparently moving ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 707 ***********
+Sentence: {'text_a': 'a film about a young man finding god that is accessible and touching to the marrow . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a man about a young film finding god that is accessible and touching to the marrow .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 708 ***********
+Sentence: {'text_a': 'a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a compelling spanish film about the withering effects of jealousy in the life of a obsession monarch whose sexual passion for her husband becomes an young .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 709 ***********
+Sentence: {'text_a': 'an infectious cultural fable with a tasty balance of family drama and frenetic comedy . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'an infectious cultural fable with a tasty balance of family comedy and frenetic drama .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 711 ***********
+Sentence: {'text_a': 'not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'not the kind of fest that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the film circuit .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 716 ***********
+Sentence: {'text_a': 'by candidly detailing the politics involved in the creation of an extraordinary piece of music , ( jones ) calls our attention to the inherent conflict between commerce and creativity . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'by candidly detailing the politics involved in the attention of an extraordinary piece of music , ( jones ) calls our creation to the inherent conflict between commerce and creativity .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 717 ***********
+Sentence: {'text_a': 'one of the most significant moviegoing pleasures of the year . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'one of the most significant moviegoing year of the pleasures .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 721 ***********
+Sentence: {'text_a': 'the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the structure the film takes may find affleck damon and ben matt once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.03
+
+*********** Sample 723 ***********
+Sentence: {'text_a': 'aside from minor tinkering , this is the same movie you probably loved in 1994 , except that it looks even better . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'aside from minor movie , this is the same tinkering you probably loved in 1994 , except that it looks even better .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 726 ***********
+Sentence: {'text_a': 'based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'based on a devilishly witty script by heather niels and mcgowan mueller , the film gets great laughs , but never at the expense of its characters'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 730 ***********
+Sentence: {'text_a': "... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "... an otherwise intense , gaghan thriller that certainly should n't hurt talented young twist-and-turn 's resume ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 732 ***********
+Sentence: {'text_a': 'a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a fitfully amusing romp that , if nothing else , will appeal to fans of muniz in the middle and its pubescent star , frankie malcolm .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 735 ***********
+Sentence: {'text_a': 'a tender , witty , captivating film about friendship , love , memory , trust and loyalty . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a tender , witty , captivating film about friendship , love , memory , loyalty and trust .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 739 ***********
+Sentence: {'text_a': "bogdanovich tantalizes by offering a peep show into the lives of the era 's creme de la celluloid . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "show tantalizes by offering a peep bogdanovich into the lives of the era 's creme de la celluloid ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 742 ***********
+Sentence: {'text_a': "griffiths proves she 's that rare luminary who continually raises the standard of her profession . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "rare proves she 's that griffiths luminary who continually raises the standard of her profession ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.07
+
+*********** Sample 744 ***********
+Sentence: {'text_a': 'enormously entertaining for moviegoers of any age . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'enormously entertaining for age of any moviegoers .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 745 ***********
+Sentence: {'text_a': "a lean , deftly shot , well-acted , weirdly retro thriller that recalls a raft of '60s and '70s european-set spy pictures . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "a pictures , deftly shot , well-acted , weirdly retro thriller that recalls a raft of '60s and '70s european-set spy lean ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 746 ***********
+Sentence: {'text_a': 'this is a good script , good dialogue , funny even for adults . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'this is a good dialogue , good script , funny even for adults .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 748 ***********
+Sentence: {'text_a': 'this surreal gilliam-esque film is also a troubling interpretation of ecclesiastes . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'this surreal gilliam-esque film is also a troubling ecclesiastes of interpretation .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+
+*********** Sample 751 ***********
+Sentence: {'text_a': 'a delightful coming-of-age story . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a delightful coming - of - story age .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 752 ***********
+Sentence: {'text_a': 'a spellbinding african film about the modern condition of rootlessness , a state experienced by millions around the globe . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a spellbinding african film about the modern condition of state , a rootlessness experienced by millions around the globe .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 756 ***********
+Sentence: {'text_a': "it has the charm of the original american road movies , feasting on the gorgeous , ramshackle landscape of the filmmaker 's motherland . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "it has the ramshackle of the original american road movies , feasting on the gorgeous , charm landscape of the filmmaker 's motherland ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 757 ***********
+Sentence: {'text_a': 'exciting and direct , with ghost imagery that shows just enough to keep us on our toes . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'exciting and direct , with ghost toes that shows just enough to keep us on our imagery .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 759 ***********
+Sentence: {'text_a': 'it wants to tweak them with a taste of tangy new humor . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'it wants to tweak them with a new of tangy taste humor .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 761 ***********
+Sentence: {'text_a': 'candid and comfortable ; a film that deftly balances action and reflection as it lets you grasp and feel the passion others have for their work . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'candid and comfortable ; a others that deftly balances action and reflection as it lets you grasp and feel the passion film have for their work .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 762 ***********
+Sentence: {'text_a': 'a quiet treasure -- a film to be savored . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a quiet film -- a treasure to be savored .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 766 ***********
+Sentence: {'text_a': "woody allen 's latest is an ambling , broad comedy about all there is to love -- and hate -- about the movie biz . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "allen woody 's latest is an ambling , broad comedy about all there is to love -- and hate -- about the movie biz ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.0
+
+*********** Sample 770 ***********
+Sentence: {'text_a': 'collateral damage finally delivers the goods for schwarzenegger fans . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'collateral damage finally delivers the schwarzenegger for goods fans .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 771 ***********
+Sentence: {'text_a': 'a giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of oscar-winners : susan sarandon and goldie hawn . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of oscar-winners : susan goldie and sarandon hawn .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 773 ***********
+Sentence: {'text_a': 'will amuse and provoke adventurous adults in specialty venues . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'will amuse and provoke adventurous specialty in adults venues .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 777 ***********
+Sentence: {'text_a': "there 's a wickedly subversive bent to the best parts of birthday girl . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "there 's a wickedly subversive bent to the best birthday of parts girl ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 782 ***********
+Sentence: {'text_a': 'his healthy sense of satire is light and fun ... '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'his healthy satire of sense is light and fun ...'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 783 ***********
+Sentence: {'text_a': 'trademark american triteness and simplicity are tossed out the window with the intelligent french drama that deftly explores the difficult relationship between a father and son . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'trademark american triteness and simplicity are tossed out the window with the intelligent father drama that deftly explores the difficult relationship between a french and son .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.03
+
+*********** Sample 784 ***********
+Sentence: {'text_a': 'miller is playing so free with emotions , and the fact that children are hostages to fortune , that he makes the audience hostage to his swaggering affectation of seriousness . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'miller is playing so free with emotions , and the children that fact are hostages to fortune , that he makes the audience hostage to his swaggering affectation of seriousness .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 787 ***********
+Sentence: {'text_a': '( serry ) wants to blend politics and drama , an admirable ambition . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': '( serry ) wants to blend drama and politics , an admirable ambition .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 790 ***********
+Sentence: {'text_a': 'in a way , the film feels like a breath of fresh air , but only to those that allow it in . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'in a air , the film feels like a breath of fresh way , but only to those that allow it in .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.06
+
+*********** Sample 791 ***********
+Sentence: {'text_a': 'visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from hint to experience without even a innocence of that typical kiddie-flick sentimentality .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 792 ***********
+Sentence: {'text_a': "the film 's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "the film 's welcome breeziness and some unbelievably hilarious industry -- most portraying the idiocy of the film moments -- make it mostly worth the trip ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 793 ***********
+Sentence: {'text_a': "add yet another hat to a talented head , clooney 's a good director . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "add yet another director to a talented head , clooney 's a good hat ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 794 ***********
+Sentence: {'text_a': "stephen rea , aidan quinn , and alan bates play desmond 's legal eagles , and when joined by brosnan , the sight of this grandiloquent quartet lolling in pretty irish settings is a pleasant enough thing , ` tis . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "stephen rea , aidan quinn , and alan bates play desmond 's legal eagles , and when joined by tis , the sight of this grandiloquent quartet lolling in pretty irish settings is a pleasant enough thing , ` brosnan ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.05
+
+*********** Sample 795 ***********
+Sentence: {'text_a': "bennett 's naturalistic performance speaks volumes more truth than any ` reality ' show , and anybody contemplating their own drastic life changes should watch some body first . "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "bennett 's naturalistic performance speaks changes more truth than any ` reality ' show , and anybody contemplating their own drastic life volumes should watch some body first ."}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.02
+
+*********** Sample 798 ***********
+Sentence: {'text_a': 'the far future may be awesome to consider , but from period detail to matters of the heart , this film is most transporting when it stays put in the past . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'the far future may be awesome to consider , but from period detail to heart of the matters , this film is most transporting when it stays put in the past .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.01
+
+*********** Sample 800 ***********
+Sentence: {'text_a': 'a movie with a real anarchic flair . '}
+Shuffled sentences: 
+	+ Swapped: {'text_a': 'a flair with a real anarchic movie .'}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: 0.06
+
+*********** Sample 803 ***********
+Sentence: {'text_a': "looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . ' "}
+Shuffled sentences: 
+	+ Swapped: {'text_a': "looking aristocratic , luminous yet careworn in jane hamilton 's exemplary performance , rampling gives a costumes that could not be improved upon . '"}
+Prediction: positive
+Predictions with shuffle: 
+	+ Swapped: positive
+Ground truth: positive
+Cosine Similarity: 
+	+ Orginal vs Swapped: -0.07
+

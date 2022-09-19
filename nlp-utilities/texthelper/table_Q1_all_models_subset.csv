@@ -1,0 +1,7 @@
+identifier,task_type,benchmark,input,shuffled_data,output,human_experiment,reported,ours,original,shuffled_unigram,shuffled_bigram,shuffled_trigram,baseline_dist,baseline_random,note,examples_dev_set,original_metrics,chosen_metric,score_unigram,score_bigram,score_trigram
+CoLA,Acceptability,GLUE,1 sentence,Sentence,0/1,/ 66.4,49.23 / 52.1,57.78 / 52.3,100,50.69,53.98,56.36,50,,Unacceptable / Acceptable,1038,Matthew's Corr,Accuracy,0.99,0.92,0.87
+RTE,NLI,GLUE,text + 2 spans,Sentence includes span2,true / false,/ 100.0,68.3 / 64.4,66.3 / 63.0,100,75.69,81.89,85.18,50,,Detect if the second span refers to the first one. Span2 may be in the same or different sentence with span1.,104,Accuracy,Accuracy,0.49,0.36,0.3
+QQP,Paraphrase,GLUE,premise + hypothesis,Hypothesis,entailment / not_entailment,/ 93.6,75.8 / 71.7,69.7 / 68,100,83.19,88.02,89.04,50,,,277,Accuracy,Accuracy,0.34,0.24,0.22
+MRPC,Paraphrase,GLUE,passage + query (with placeholder) + multiple spans,Question,spans,/ 91.3,F1: 70.6 / 72.0,F1: 63.9 / 64.2,100,83.89,87.1,89.38,50,,"Given multiple spans, which can be used to fill in the blank (@placeholder) of query, select the most correct one",9999,F1 / EM,Precision,0.32,0.26,0.21
+SST-2,Sentiment Analysis,GLUE,2 sentences,"Hypothesis(sentence2)","entailment / not_entailment",/ 93.6,61.73 / 66.4,64.26 / 65.0,100,84.04,88.35,90.56,50,,,277,Accuracy,Accuracy,0.32,0.23,0.19
+QNLI,NLI,GLUE,1 sentence (almost),Sentence,4 tags,,n/a,97.05 / 84.15,100,89.42,93.85,95.32,50,,Classify a sentence to one of 4 tags,617,Accuracy,Accuracy,0.21,0.12,0.09
